@@ -1,0 +1,7249 @@
+{
+  "songs": [
+    {
+      "artist": "ZUN (Arr.sun3)",
+      "genre": "GOA TRANCE",
+      "id": 0,
+      "level": 1,
+      "title": "\u661f\u306e\u5668\u301cSTAR OF ANDROMEDA (ANOTHER)"
+    },
+    {
+      "artist": "syatten / air",
+      "genre": "European Trance",
+      "id": 1,
+      "level": 1,
+      "title": "aliceblue (Radio Edit) (SP EX)"
+    },
+    {
+      "artist": "Grand Thaw",
+      "genre": "Sound Track",
+      "id": 2,
+      "level": 1,
+      "title": "ERIS MX"
+    },
+    {
+      "artist": "beatMARIO / obj: black train",
+      "genre": "HAPPY HARDCORE",
+      "id": 3,
+      "level": 1,
+      "title": "\u7d04\u675f -HappyHyperStarmiX- (\u864e\u306e\u7a74)"
+    },
+    {
+      "artist": "sun3 / obj : Stella",
+      "genre": "DD\u30aa\u30ea\u30b3BMS",
+      "id": 4,
+      "level": 1,
+      "title": "AcceptAdvent-Border of Life- (\u26051)"
+    },
+    {
+      "artist": "\u307f\u3053\u3053 \uff06 \u8679\u91ce\u3072\u304b\u308a",
+      "genre": "Happy",
+      "id": 5,
+      "level": 1,
+      "title": "SunnyShinyRing -Another-"
+    },
+    {
+      "artist": "Project Necro Fantasia",
+      "genre": "orientali",
+      "id": 6,
+      "level": 1,
+      "title": "\u30d6\u30af\u30ec\u30b7\u30e5\u30c6\u30a3\u306e\u4eba\u5f62\u5e2b -GIL-"
+    },
+    {
+      "artist": "xi",
+      "genre": "APOCALYPSIS JOHANNIS",
+      "id": 7,
+      "level": 1,
+      "title": "Parousia [HARD]"
+    },
+    {
+      "artist": "syatten + 140 obj : \u971c\u6df1",
+      "genre": "Trance",
+      "id": 8,
+      "level": 1,
+      "title": "Evangelize (Radio Edit) [PLANET]"
+    },
+    {
+      "artist": "yanagi",
+      "genre": "New Age",
+      "id": 9,
+      "level": 1,
+      "title": "Armais (u7)"
+    },
+    {
+      "artist": "\u30c4\u30ca\u30de\u30e8\u3061\u3083\u3093 / obj: black train",
+      "genre": "\u6728\u5de5\u30dc\u30f3\u30c9\u30aa\u30d6\u30b8\u30a7",
+      "id": 10,
+      "level": 1,
+      "title": "Bird Sprite -D.K.R. mix- (\u864e\u306eanother)"
+    },
+    {
+      "artist": "HaL feat. riri / NORE",
+      "genre": "tribal pop",
+      "id": 11,
+      "level": 1,
+      "title": "Arcadia -\u26051-"
+    },
+    {
+      "artist": "Damjoy&\u307b\u304f\u3068\u3057\u3061\u305b\u3044",
+      "genre": "Prog Pop",
+      "id": 12,
+      "level": 1,
+      "title": "The Lady Is A Trump [ANOTHER]"
+    },
+    {
+      "artist": "ZUN RMX By 44teru-k",
+      "genre": "\u3053\u3044\u3057MIXTURE",
+      "id": 13,
+      "level": 1,
+      "title": "\u30cf\u30eb\u30c8\u30de\u30f3\u306e\u5996\u602a\u5c11\u5973\u301cVirus\ufffdX [ANOTHER]"
+    },
+    {
+      "artist": "\u306d\u3053\u307f\u307f\u9b54\u6cd5\u4f7f\u3044",
+      "genre": "finy jazzy pop'n(7key)",
+      "id": 14,
+      "level": 1,
+      "title": "\u604b\u308f\u305a\u3089\u3044 -shiny party floor- maniac"
+    },
+    {
+      "artist": "Grand thaw",
+      "genre": "NOCTURNE",
+      "id": 15,
+      "level": 1,
+      "title": "AltMirrorBell Another"
+    },
+    {
+      "artist": "Team:SASAKURATION / obj:Sena",
+      "genre": "WORLDTRONICA",
+      "id": 16,
+      "level": 1,
+      "title": "\u30a8\u30d4\u30c8\u30a5\u30ea\u30ab\u306e\u7940 [Black-A.2]"
+    },
+    {
+      "artist": "LOKI",
+      "genre": "ETHEREAL BREAKS",
+      "id": 17,
+      "level": 1,
+      "title": "\u30b2\u30eb\u30cb\u30ab\u306e\u58c1 [EX7]"
+    },
+    {
+      "artist": "cranky / black train",
+      "genre": "EURO BEAT\uff3b7keys AFOTHER\uff3d",
+      "id": 18,
+      "level": 1,
+      "title": "J219 (AFOTHER)"
+    },
+    {
+      "artist": "P*Light",
+      "genre": "HAPPY HARDCORE",
+      "id": 19,
+      "level": 1,
+      "title": "The Ray of Sunlight <sunny>"
+    },
+    {
+      "artist": "Ninja Action Team",
+      "genre": "Bigbeat",
+      "id": 20,
+      "level": 1,
+      "title": "Wasabi \u6fc0\u8f9b"
+    },
+    {
+      "artist": "onoken / black train",
+      "genre": "drum'n bass",
+      "id": 21,
+      "level": 1,
+      "title": "FELYS (\u864e\u306eANOTHER)"
+    },
+    {
+      "artist": "SHIKI #obj air-",
+      "genre": "Instrumental",
+      "id": 22,
+      "level": 1,
+      "title": "Rainy Season -ex7-"
+    },
+    {
+      "artist": "Yamajet",
+      "genre": "FILTER HOUSE",
+      "id": 23,
+      "level": 1,
+      "title": "supersoulsimulator (kei-another 7)"
+    },
+    {
+      "artist": "fether / obj: black train",
+      "genre": "kirby pop (tora no another7)",
+      "id": 24,
+      "level": 1,
+      "title": "\u2606 twinklesky \u2606 _12 \u864e\u306eANOTHER"
+    },
+    {
+      "artist": "xi",
+      "genre": "PROGRESSIVE FUSION",
+      "id": 25,
+      "level": 1,
+      "title": "Mirage Garden [ANOTHER]"
+    },
+    {
+      "artist": "sasakure.UK / black train",
+      "genre": "UNIVERSE(\u864e\u306eANOTHER)",
+      "id": 26,
+      "level": 1,
+      "title": "X (\u864e\u306eANOTHER)"
+    },
+    {
+      "artist": "POSI-TRON!",
+      "genre": "EURO-RAVE",
+      "id": 27,
+      "level": 1,
+      "title": "Ruriko FINAL (7KEYS) EX2"
+    },
+    {
+      "artist": "recognize m. / bga-RED / object-black train",
+      "genre": "rapid pop",
+      "id": 28,
+      "level": 1,
+      "title": "happy century \u864e\u306eANOTHER"
+    },
+    {
+      "artist": "hiro remixed by HOUJIROU / 29",
+      "genre": "rock",
+      "id": 29,
+      "level": 1,
+      "title": "Eleventh Hour (time limit soon! mix) [29Another]"
+    },
+    {
+      "artist": "hammer",
+      "genre": "Digi-Rock",
+      "id": 30,
+      "level": 1,
+      "title": "Faceless Moon (Dante Must Die!)"
+    },
+    {
+      "artist": "Junk  [obj : kneas]",
+      "genre": "Epic Trance",
+      "id": 31,
+      "level": 1,
+      "title": "Dream Rocket* [for Rea'ju]"
+    },
+    {
+      "artist": "wa. vs ETIA. /deadblue238/obj:\u6708\u9580",
+      "genre": "MULTIVERSE",
+      "id": 32,
+      "level": 1,
+      "title": "Akasagarbha  \u2514(\u2510\u2518)\u250c"
+    },
+    {
+      "artist": "void Momomi Aoyama",
+      "genre": "Sci-fi",
+      "id": 33,
+      "level": 1,
+      "title": "Valedict"
+    },
+    {
+      "artist": "tarolabo \u00d7 \u6708\u96eb \u6d6a\u6f2b\u6620\u50cf\u5236\u4f5c\u5036\u697d\u90e8",
+      "genre": "Song",
+      "id": 34,
+      "level": 1,
+      "title": "\u5730\u7403\u5854\u30c7\u30f4\u30a9\u30fc\u30b7\u30e7\u30f3"
+    },
+    {
+      "artist": "Hate BGA : S.P.S.B.",
+      "genre": "TECHNO",
+      "id": 35,
+      "level": 1,
+      "title": "duty"
+    },
+    {
+      "artist": "\u4e0a\u6749\u3046\u305f with \u661f\u660e / \u8584\u674f (Object)",
+      "genre": "trance pop",
+      "id": 36,
+      "level": 1,
+      "title": "Canon (blazing summer mix) [EXTRA]"
+    },
+    {
+      "artist": "sound piercer / mov : kkkfff2/obj_jakko",
+      "genre": "Progressive / Electronica",
+      "id": 37,
+      "level": 1,
+      "title": "\u70b9\u3001\u7dda\u3001\u9762\u3001\u7acb\u4f53 [SP ANOTHER+]"
+    },
+    {
+      "artist": "onoken",
+      "genre": "tribal euro",
+      "id": 38,
+      "level": 1,
+      "title": "BB BLOW (7key another)"
+    },
+    {
+      "artist": "\u7f8e\u91cc with Na+",
+      "genre": "Euro Dance",
+      "id": 39,
+      "level": 1,
+      "title": "CG901B -7EX-[Short Ver.]BGA+"
+    },
+    {
+      "artist": "Cosmos remix by polysha",
+      "genre": "J-Core",
+      "id": 40,
+      "level": 1,
+      "title": "fragments J-CoreRemix[HeavyRain]"
+    },
+    {
+      "artist": "Queen P.A.L. VJ KINTA / obj by sound piercer",
+      "genre": "EURO DANCE",
+      "id": 41,
+      "level": 1,
+      "title": "JULIAN \"for B.O.F. 2009\" [SP-RX INSANE]"
+    },
+    {
+      "artist": "TiS feat.\u304d\u3083\u3068 / U",
+      "genre": "J-EURO",
+      "id": 42,
+      "level": 1,
+      "title": "RiZE UP (Dif)"
+    },
+    {
+      "artist": "\u306d\u3053\u307f\u307f\u9b54\u6cd5\u4f7f\u3044 / obj:\u79d8\u5bc6",
+      "genre": "shuffle",
+      "id": 43,
+      "level": 1,
+      "title": "Re: Shinin' Queen -Hi-"
+    },
+    {
+      "artist": "beatMARIO object by Kz",
+      "genre": "TECHNO",
+      "id": 44,
+      "level": 1,
+      "title": "Destined Marionette -ALIEN WORLD-"
+    },
+    {
+      "artist": "DhiArk / obj:\u307f\u3063\u3068",
+      "genre": "VGM 2A03",
+      "id": 45,
+      "level": 1,
+      "title": "NewGamePlus [Good old game]"
+    },
+    {
+      "artist": "void obj.Cloudy Boy Momomi Aoyama",
+      "genre": "Filmscore / Neurocore",
+      "id": 46,
+      "level": 1,
+      "title": "Caelumize [SP Cloudy]"
+    },
+    {
+      "artist": "litmus*/obj_jakko mov : litmus* & L.Ferdinant",
+      "genre": "Electro Dance House",
+      "id": 47,
+      "level": 1,
+      "title": "Scorpion Dance [INSANE]"
+    },
+    {
+      "artist": "Chino obj.screw",
+      "genre": "TECH-BREAKBEATS",
+      "id": 48,
+      "level": 1,
+      "title": "Espresso Shots [convert]"
+    },
+    {
+      "artist": "STR ALLSTARS / OBJ.SWA",
+      "genre": "Electric [SP FADDERR]",
+      "id": 49,
+      "level": 1,
+      "title": "Crossover (Chain mix)"
+    },
+    {
+      "artist": "Squar / \u5dee\u5206 \u8d64\u3044\u4eba",
+      "genre": "Latin Pop",
+      "id": 50,
+      "level": 1,
+      "title": "Elina (feat. Reislaufer) [HARD]"
+    },
+    {
+      "artist": "TiS feat. maho / obj.Ap (Cineraria Studio)",
+      "genre": "HYPER ELECTRO",
+      "id": 51,
+      "level": 1,
+      "title": "Lucid Dreaming [ExHard]"
+    },
+    {
+      "artist": "MINT BGA : Can.D-mtmrw / OBJ : 0samil0",
+      "genre": "TECHNO",
+      "id": 52,
+      "level": 1,
+      "title": "CYCLONE [EX]"
+    },
+    {
+      "artist": "SHIKI / rio",
+      "genre": "TRANCE CORE",
+      "id": 53,
+      "level": 2,
+      "title": "Air ANOTHER"
+    },
+    {
+      "artist": "SHIKI / air",
+      "genre": "TRANCE",
+      "id": 54,
+      "level": 2,
+      "title": "Lapis [Another+]"
+    },
+    {
+      "artist": "papyrus obj: air / Movie: \u6d6a\u6f2b\u6620\u50cf\u5236\u4f5c\u5036\u697d\u90e8",
+      "genre": "Grand Finale",
+      "id": 55,
+      "level": 2,
+      "title": "Papyrus (Maniac)"
+    },
+    {
+      "artist": "t+pazolite / yuyuko",
+      "genre": "Happy Hardcore -7 Another-",
+      "id": 56,
+      "level": 2,
+      "title": "Little \"Sister\" Bitch"
+    },
+    {
+      "artist": "\u6a0b\u5948\u6708\u307f\u3064 / obj:giselle",
+      "genre": "SOARLY TRANCE POP",
+      "id": 57,
+      "level": 2,
+      "title": "\u6771\u306e\u56fd\u306eFLYING PAPARAZZI\uff01 -ANOTHER-"
+    },
+    {
+      "artist": "Lubinn",
+      "genre": "Sepia chant",
+      "id": 58,
+      "level": 2,
+      "title": "\u591c\u660e\u3051\u306e\u5c11\u5973\u305f\u3061 [Another+]"
+    },
+    {
+      "artist": "\u4e94\u6761\u4e0b\u4f4d\uff06\u4ef2\u6751\u82bd\u8863\u5b50 // movie: kagi55x",
+      "genre": "HYPER J-POP YUKIATSU",
+      "id": 59,
+      "level": 2,
+      "title": "fragment of tears [ANOTHER]"
+    },
+    {
+      "artist": "xi",
+      "genre": "JAZZ FUSION",
+      "id": 60,
+      "level": 2,
+      "title": ".357 Magnum [Another]"
+    },
+    {
+      "artist": "keyc",
+      "genre": "Nu Style Gabba",
+      "id": 61,
+      "level": 2,
+      "title": "G.N. [B]"
+    },
+    {
+      "artist": "void feat. Hiroko",
+      "genre": "Euphoric Vocal J-Trance",
+      "id": 62,
+      "level": 2,
+      "title": "world devoid of you (fairydust radio edit // SP Another+)"
+    },
+    {
+      "artist": "SHIKI / DDX",
+      "genre": "HARD RENAISSANCE",
+      "id": 63,
+      "level": 2,
+      "title": "BABYLON [7Extreme]"
+    },
+    {
+      "artist": "wint",
+      "genre": "RAVE",
+      "id": 64,
+      "level": 2,
+      "title": "REWD \"B159 mix\" // (kei another7)"
+    },
+    {
+      "artist": "yassu / \u5c0f\u5bae\u771f\u592e / air",
+      "genre": "",
+      "id": 65,
+      "level": 2,
+      "title": "Midnight Driving -air mix-"
+    },
+    {
+      "artist": "beatMARIO",
+      "genre": "TECHNO",
+      "id": 66,
+      "level": 2,
+      "title": "HAMMER the TANGRAM\u3000\uff08\u82e6\u3057\u3055\u30a2\u30ca\u30b6\u30fc\u6e80\u5929\u306e\u661f\u7a7a\uff09"
+    },
+    {
+      "artist": "Sora / obj BUN\u00d7BUN",
+      "genre": "Epic Trance",
+      "id": 67,
+      "level": 2,
+      "title": "baby blue blanket -AAnother-"
+    },
+    {
+      "artist": "BMS:\u91d1\u30e9\u30e1\u30bf\u30ad\u30b7\u30fc\u30c9/MIDI:YNG-MK\uff06\u30f4\u30a1\u30a4\u30b9\u541b (7linear.SHOCK.C) / black train",
+      "genre": "Hard Rock",
+      "id": 68,
+      "level": 2,
+      "title": "Romancing Sa\uff65Ga3 \u30e9\u30b9\u30c8\u30d0\u30c8\u30eb RockArrange (\u864e\u306eANOTHER)"
+    },
+    {
+      "artist": "2TORI obj:lime",
+      "genre": "TRANCE",
+      "id": 69,
+      "level": 2,
+      "title": "\u98db\u71d5\u8349 [BITTER]"
+    },
+    {
+      "artist": "Team Shanghai Alice (Remixed by Est)/A-zert",
+      "genre": "TRANCE",
+      "id": 70,
+      "level": 2,
+      "title": "In a dream (MANIAC)"
+    },
+    {
+      "artist": "Sentire /A-zert",
+      "genre": "TRAUMA",
+      "id": 71,
+      "level": 2,
+      "title": "Full of Tears -full-"
+    },
+    {
+      "artist": "sasakure.UK",
+      "genre": "Intelligence(7-AquAStorm)",
+      "id": 72,
+      "level": 2,
+      "title": "searoad tracks =side blue="
+    },
+    {
+      "artist": "\u83ca\u7530\u7814\u7a76\u6240/lactate",
+      "genre": "progressive jazz",
+      "id": 73,
+      "level": 2,
+      "title": "Free Hand zero [ANOTHER]"
+    },
+    {
+      "artist": "kanone/\u5dee\u5206\u3000\u8d64\u3044\u4eba mov:deadblue238",
+      "genre": "ENERGETIC TRANCE",
+      "id": 74,
+      "level": 2,
+      "title": "Cross Galaxy [HARD]"
+    },
+    {
+      "artist": "Grand Thaw",
+      "genre": "Neo Pagan Folk",
+      "id": 75,
+      "level": 2,
+      "title": "Aeventyr [MX]"
+    },
+    {
+      "artist": "unlimited player(s) / Kz",
+      "genre": "JAZZSTEP",
+      "id": 76,
+      "level": 2,
+      "title": "qriving plare"
+    },
+    {
+      "artist": "rider",
+      "genre": "NUSTYLE GABBA",
+      "id": 77,
+      "level": 2,
+      "title": "Freja [SP ANOTHER]"
+    },
+    {
+      "artist": "\u3084\u3063\u3059\u301c/A-zert",
+      "genre": "HAPPY TRANCECORE",
+      "id": 78,
+      "level": 2,
+      "title": "Memories of Sky-CoolDownMIX- [7another]"
+    },
+    {
+      "artist": "orihika & XeON",
+      "genre": "Jungle",
+      "id": 79,
+      "level": 2,
+      "title": "une fleur [EXTRA]"
+    },
+    {
+      "artist": "\u3057\u3089\u3044\u3057",
+      "genre": "Classical Trance",
+      "id": 80,
+      "level": 2,
+      "title": "Loki [7ANOTHER]"
+    },
+    {
+      "artist": "DJ TAKUAN \u53ca\u3073 \u767d\u7fbd\u7f8e\u4f9d / Note:\u8584\u674f",
+      "genre": "J\u30cf\u30c3\u30d4\u30b3\uff01",
+      "id": 81,
+      "level": 2,
+      "title": "HAPPY\u2606LUCKY\u2606BABY -UNHAPPY-"
+    },
+    {
+      "artist": "Grand Thaw",
+      "genre": "R'n'Balkan",
+      "id": 82,
+      "level": 2,
+      "title": "SOLROS [MX]"
+    },
+    {
+      "artist": "zun bms:\u4e59UN+-",
+      "genre": "\u6771\u65b9\u5996\u3005\u5922",
+      "id": 83,
+      "level": 2,
+      "title": "\u5e7d\u96c5\u306b\u54b2\u304b\u305b\u3001\u58a8\u67d3\u306e\u685c [biginner]"
+    },
+    {
+      "artist": "Luxion",
+      "genre": "OVERKILL",
+      "id": 84,
+      "level": 2,
+      "title": "High-Priestess [HYPER]"
+    },
+    {
+      "artist": "kireji obj\uff0bBGA\uff1aMiSTY",
+      "genre": "HARDCORE",
+      "id": 85,
+      "level": 2,
+      "title": "DANJIRI - Spanking Mix - [Hyper]"
+    },
+    {
+      "artist": "kozato+-",
+      "genre": "Dramatical",
+      "id": 86,
+      "level": 2,
+      "title": "\u56db\u5341\u4e94\u5e74\u30ce\u96ea\u685c [Another+]"
+    },
+    {
+      "artist": "puru / kkkfff2 obj.sialua",
+      "genre": "ProgressiveTrance",
+      "id": 87,
+      "level": 2,
+      "title": "Toki [ClockWise]"
+    },
+    {
+      "artist": "ueotan / obj:mo_no_chrome",
+      "genre": "GAMEMUSIC",
+      "id": 88,
+      "level": 2,
+      "title": "Mario Paint (Time Regression Mix for BMS) [ANOTHER]"
+    },
+    {
+      "artist": "ginkiha / \u5dee\u5206 \u8d64\u3044\u4eba",
+      "genre": "TRANCE",
+      "id": 89,
+      "level": 2,
+      "title": "Fading Star [HARD]"
+    },
+    {
+      "artist": "\u30d1\u30f3\u30c0\uff17\uff17\u53f7",
+      "genre": "Tech electro",
+      "id": 90,
+      "level": 2,
+      "title": "HOOKER [7_ex]"
+    },
+    {
+      "artist": "Ym1024 feat. lamie*/\u3055 Movie : highluin",
+      "genre": "J-Airy Pop",
+      "id": 91,
+      "level": 2,
+      "title": "Everblue [7key Sabother]"
+    },
+    {
+      "artist": "white crystal / black train",
+      "genre": "euro trance",
+      "id": 92,
+      "level": 2,
+      "title": "sensitive (\u864e\u306eANOTHER)"
+    },
+    {
+      "artist": "-RYO- Movie : Limit_cancel",
+      "genre": "Piano Trance",
+      "id": 93,
+      "level": 2,
+      "title": "Ray of Moonlight [BGA ON]"
+    },
+    {
+      "artist": "campanellina / obj:Alf",
+      "genre": "\u30b9\u30da\u30e9\u30f3\u30c4\u30a1",
+      "id": 94,
+      "level": 2,
+      "title": "\u6708\u3068\u72fc\u3068\u7802\u7cd6\u83d3\u5b50 -Cookie-"
+    },
+    {
+      "artist": "naotyu- / obj:midori",
+      "genre": "Progressive Breaks",
+      "id": 95,
+      "level": 2,
+      "title": "Velaciela -damepo7-"
+    },
+    {
+      "artist": "maxXx65535 / cyclia",
+      "genre": "Artcore",
+      "id": 96,
+      "level": 2,
+      "title": "Cynthia (7-EX)"
+    },
+    {
+      "artist": "E.Elgar rmx by bbangsami / deadblue238 obj.sialua",
+      "genre": "Pomp and hardCore Marches No.1",
+      "id": 97,
+      "level": 2,
+      "title": "PCM (7 another)"
+    },
+    {
+      "artist": "shimizushi BGA :vol-t & a.a  / obj:DJ.END",
+      "genre": "White Canvas",
+      "id": 98,
+      "level": 2,
+      "title": "BRILLIANT STAR \u301c\u714c\u661f\u306e\u96eb\u301c [WHITE ANOTHER]"
+    },
+    {
+      "artist": "Gun-SEKI feat.\u90a3\u73c2 / U",
+      "genre": "IDOL SONG",
+      "id": 99,
+      "level": 2,
+      "title": "\u604b\u306e2-4-11(BMS Edit) -\u6539-"
+    },
+    {
+      "artist": "Clotho feat.Salita",
+      "genre": "Liberty Song",
+      "id": 100,
+      "level": 2,
+      "title": "Blink [SP BLACK ANOTHER]"
+    },
+    {
+      "artist": "\u3042\u3042\u3042\u3042 obj.XYZZZZ",
+      "genre": "game music",
+      "id": 101,
+      "level": 2,
+      "title": "\u50d5\u305f\u3061\u306e\u65c5\u3068\u30a8\u30d4\u30ed\u30fc\u30b0\u3002"
+    },
+    {
+      "artist": "A4paper/obj_jakko",
+      "genre": "Energetic Trance",
+      "id": 102,
+      "level": 2,
+      "title": "Supernova [Another+]"
+    },
+    {
+      "artist": "\u30e2\u30ea\u30e2\u30ea\u3042\u3064\u3057 obj:LAPIS",
+      "genre": "Future Bass",
+      "id": 103,
+      "level": 2,
+      "title": "MilK [Low Fat]"
+    },
+    {
+      "artist": "\u7d50\u6708\u3086\u304b\u308a and Ark-Z obj:SUZUKAZE\u039b",
+      "genre": "VOCALOID-TRANCEPOP",
+      "id": 104,
+      "level": 2,
+      "title": "RE:START [ZOI]"
+    },
+    {
+      "artist": "\u7267\u91ce / obj:nov",
+      "genre": "\u3059\u3053\u3084\u304b FUTURE POP",
+      "id": 105,
+      "level": 2,
+      "title": "\u30a2\u30ca\u30ed\u30b0\u6a2a\u4e01 [nova]"
+    },
+    {
+      "artist": "sak respect for Arata Iiyoshi Movie:Optie Illust:\u3068\u3056\u304f\u308d Object:k-spin",
+      "genre": "Finale",
+      "id": 106,
+      "level": 2,
+      "title": "Reason of being [K.S-ANOTHER]"
+    },
+    {
+      "artist": "yukitani / obj:\u307f\u3063\u3068",
+      "genre": "Boogie Woogie",
+      "id": 107,
+      "level": 2,
+      "title": "Amusing Night Party. [Panic]"
+    },
+    {
+      "artist": "polysha BGI : \u3048\u308b\u306a\u3070 / obj:SUZUKAZE\u039b",
+      "genre": "House",
+      "id": 108,
+      "level": 2,
+      "title": "Jasmine Tea Girl [ZOI]"
+    },
+    {
+      "artist": "\u7be0\u87ba\u60a0\u90a3 feat. \u9bdb\u306e\u5c0f\u9aa8",
+      "genre": "Euro Rave",
+      "id": 109,
+      "level": 3,
+      "title": "Imperishable Night 2006 -SP ANOTHER-"
+    },
+    {
+      "artist": "SHIKI / black train",
+      "genre": "TRANCE CORE",
+      "id": 110,
+      "level": 3,
+      "title": "Air ANOTHER+"
+    },
+    {
+      "artist": "\u30ab\u30e9\u30d5\u30eb\u30fb\u30b5\u30a6\u30f3\u30ba\u30fb\u30dd\u30fc\u30c8 / Ds",
+      "genre": "classical crossover pop",
+      "id": 111,
+      "level": 3,
+      "title": "\u98a8\u4ec1\u96f7\u4ec1 (EX)"
+    },
+    {
+      "artist": "\u88cf \u5409 \u5ddd",
+      "genre": "t r a n c e",
+      "id": 112,
+      "level": 3,
+      "title": "A c i - L - A"
+    },
+    {
+      "artist": "\u9ad8\u5dba\u3000\u611b\u82b1 BGA : \u5ba4\u8c37 / object:MILK-T",
+      "genre": "Maiden House",
+      "id": 113,
+      "level": 3,
+      "title": "elegante [Another Plus+]"
+    },
+    {
+      "artist": "\u5f69\u97f3 / \u5c0f\u5bae\u771f\u592e / obj: black train",
+      "genre": "oriental",
+      "id": 114,
+      "level": 3,
+      "title": "\u591c\u685c -\u5341\u516d\u5206\u54b2\u304d-"
+    },
+    {
+      "artist": "\u6a0b\u5948\u6708\u307f\u3064 (sequence by dj SIGMA)",
+      "genre": "SOARLY TRANCE POP",
+      "id": 115,
+      "level": 3,
+      "title": "\u6771\u306e\u56fd\u306eFLYING PAPARAZZI\uff01 -Lunatic-"
+    },
+    {
+      "artist": "Kinato/obj:kaz?",
+      "genre": "Techno Trance",
+      "id": 116,
+      "level": 3,
+      "title": "Plasma Strike (small-boss7)"
+    },
+    {
+      "artist": "Junk / obj.swa",
+      "genre": "Future Pop",
+      "id": 117,
+      "level": 3,
+      "title": "Qualia [sLunatic]"
+    },
+    {
+      "artist": "incinerate",
+      "genre": "OVERKILL",
+      "id": 118,
+      "level": 3,
+      "title": "\u7149\u7344-Purgatorium- [HYPER]"
+    },
+    {
+      "artist": "AKITO/http://d.hatena.ne.jp/xki/",
+      "genre": "JP-SPIRITUAL POP",
+      "id": 119,
+      "level": 3,
+      "title": "\u685c\u83ef\u6708 \u30a6\u30eb\u30c8\u30e9\u30bb\u30d6\u30f3"
+    },
+    {
+      "artist": "\u306d\u3053\u307f\u308a\u3093 feat.\u307f\u3086 / \u3080\u3089\u3057\u3093",
+      "genre": "AKIBA POP",
+      "id": 120,
+      "level": 3,
+      "title": "\u304a\u3067\u3093\u3071\u2606\u30e9\u30f4\u30ac\u30fc\u30eb -BMS EDIT- [Kei-Another7 +]"
+    },
+    {
+      "artist": "System SFM",
+      "genre": "TRANCE",
+      "id": 121,
+      "level": 3,
+      "title": "affected (ANOTHER7)"
+    },
+    {
+      "artist": "ZUN remix by 44teru-k / obj:SUKIMA",
+      "genre": "trance core",
+      "id": 122,
+      "level": 3,
+      "title": "\u611f\u60c5\u306e\u6469\u5929\u697c\u301cPandoraBox"
+    },
+    {
+      "artist": "\u7be0\u87ba\u60a0\u90a3 / 29",
+      "genre": "fantasia",
+      "id": 123,
+      "level": 3,
+      "title": "\u7269\u602a\u821e\u8e0f [29Another]"
+    },
+    {
+      "artist": "SHIKI/ \u58f1air/obj:lobsak",
+      "genre": "Trance",
+      "id": 124,
+      "level": 3,
+      "title": "Jade Star [alternative]"
+    },
+    {
+      "artist": "SHIKI/http://d.hatena.ne.jp/xki/",
+      "genre": "HAPPY HARDCORE",
+      "id": 125,
+      "level": 3,
+      "title": "A BEAUTIFUL WINGS -Extra7-"
+    },
+    {
+      "artist": "\u30c4\u30ca\u30de\u30e8\u3061\u3083\u3093 / obj: black train",
+      "genre": "\u6728\u5de5\u30dc\u30f3\u30c9\u30aa\u30d6\u30b8\u30a7",
+      "id": 126,
+      "level": 3,
+      "title": "Bird Sprite -D.K.R. mix- (afother)"
+    },
+    {
+      "artist": "\u5929\u97f3/http://d.hatena.ne.jp/xki/",
+      "genre": "Drum 'n' Ambient",
+      "id": 127,
+      "level": 3,
+      "title": "\u305d\u306e\u65af\u304f\u3082\u7f8e\u3057\u304d\u7d05\u306b (EX)"
+    },
+    {
+      "artist": "tarolabo BGA:MiRA vo:\u5c0f\u5bae\u771f\u592e",
+      "genre": "[Orchestra]",
+      "id": 128,
+      "level": 3,
+      "title": "\u65a7\u3068\u76fe [7key_hard]"
+    },
+    {
+      "artist": "maklow",
+      "genre": "dream trance",
+      "id": 129,
+      "level": 3,
+      "title": "Lostlove -BMS ver. another-"
+    },
+    {
+      "artist": "CrossGear",
+      "genre": "Progressive Trance",
+      "id": 130,
+      "level": 3,
+      "title": "Faith. [SP Lunatic]"
+    },
+    {
+      "artist": "\u3057\u308d / black train",
+      "genre": "j-euro",
+      "id": 131,
+      "level": 3,
+      "title": "J2U (crazy remix 7AFOTHER)"
+    },
+    {
+      "artist": "\u3084\u3063\u3059\u301c/\u7af9\u30dc\u30fc\u30ad",
+      "genre": "Instrumental Rock",
+      "id": 132,
+      "level": 3,
+      "title": "Over the Sky [ANOTHER7]"
+    },
+    {
+      "artist": "ken ;bgaparty/http://d.hatena.ne.jp/xki/",
+      "genre": "Digi rock",
+      "id": 133,
+      "level": 3,
+      "title": "night starter Another"
+    },
+    {
+      "artist": "Saz",
+      "genre": "trance",
+      "id": 134,
+      "level": 3,
+      "title": "Act #000000 (short)"
+    },
+    {
+      "artist": "narve BGA:tes (obj.mp)",
+      "genre": "ibiza trance",
+      "id": 135,
+      "level": 3,
+      "title": "the sorrow of the islands (7keys:maniac)"
+    },
+    {
+      "artist": "Est",
+      "genre": "TRANCE",
+      "id": 136,
+      "level": 3,
+      "title": "Mirai (busy)"
+    },
+    {
+      "artist": "ridis / obj:black train",
+      "genre": "intelligence",
+      "id": 137,
+      "level": 3,
+      "title": "x-Aria -\u864e\u4e4banother-"
+    },
+    {
+      "artist": "clap stick",
+      "genre": "rotterdam house tatse",
+      "id": 138,
+      "level": 3,
+      "title": "ROTTELER'S HOME \"seven eduardo edit\""
+    },
+    {
+      "artist": "Junk",
+      "genre": "HYPER TRANCE",
+      "id": 139,
+      "level": 3,
+      "title": "Ocean Memory [Rea'du]"
+    },
+    {
+      "artist": "\u4e0a\u6749\u3046\u305f feat.ARU\uff06MIKU / obj:\u971c\u6df1",
+      "genre": "jp-trance",
+      "id": 140,
+      "level": 3,
+      "title": "You're My Shining Star [PLANET]"
+    },
+    {
+      "artist": "\u30ab\u30e9\u30d5\u30eb\u30fb\u30b5\u30a6\u30f3\u30ba\u30fb\u30dd\u30fc\u30c8 \uff0b aya (Sequence)",
+      "genre": "Bubblegum Dance",
+      "id": 141,
+      "level": 3,
+      "title": "CHERRY DOLL (Imperial Rose)"
+    },
+    {
+      "artist": "nora2r / \u51fa\u524d /obj_jakko",
+      "genre": "UK HARDCORE",
+      "id": 142,
+      "level": 3,
+      "title": "B.B.K.K.B.K.K. (toidi)"
+    },
+    {
+      "artist": "Ym1024 feat. lamie*\u3000/obj:BAECON BGA : Mentalstock",
+      "genre": "J-Airy Pop",
+      "id": 143,
+      "level": 3,
+      "title": "started [7key/Ex]"
+    },
+    {
+      "artist": "guna with \u30c1\u30fc\u30e0\u30fb\u30ad\u30e5\u30c3\u30ad\u30e5/ obj:kaz?",
+      "genre": "instrumental",
+      "id": 144,
+      "level": 3,
+      "title": "subconsciousness - another+ -"
+    },
+    {
+      "artist": "KA-KU/obj:Azel",
+      "genre": "SYMPHONIC WAVE",
+      "id": 145,
+      "level": 3,
+      "title": "\u0394\u0394 [Another+]"
+    },
+    {
+      "artist": "44teru-k obj:42",
+      "genre": "artcore",
+      "id": 146,
+      "level": 3,
+      "title": "\u6b7b\u8150\u4e43\u7f8e\u300c\u5f7c\u5cb8\u82b1\u300d\u7b2c\u4e8c\u301c\u7a7a\u865a\u507d\u5fc3\u301c\u8d64\u7d05 [Lycoris]"
+    },
+    {
+      "artist": "paraoka object by Kz",
+      "genre": "Progressive",
+      "id": 147,
+      "level": 3,
+      "title": "L9 -\u843d\u3068\u3057\u7a74 perfect edition-"
+    },
+    {
+      "artist": "bubbles obj:mattun",
+      "genre": "RAVE",
+      "id": 148,
+      "level": 3,
+      "title": "F -Extra-"
+    },
+    {
+      "artist": "\u524a\u9664 / \u3046\u307e\u3044\u68d2 / obj.siokaze",
+      "genre": "Desire",
+      "id": 149,
+      "level": 3,
+      "title": "Kronos (EX)"
+    },
+    {
+      "artist": "knot obj:Fender",
+      "genre": "TECHNO",
+      "id": 150,
+      "level": 3,
+      "title": "cold planet [F]"
+    },
+    {
+      "artist": "P4koo/obj_jakko Visual : HAEGOE",
+      "genre": "Space Techno",
+      "id": 151,
+      "level": 3,
+      "title": "8th:Planet [SP ANOTHER+]"
+    },
+    {
+      "artist": "Ras obj.screw",
+      "genre": "Tech electro",
+      "id": 152,
+      "level": 3,
+      "title": "STAGER [7_Success]"
+    },
+    {
+      "artist": "sweez, tigerlily, roop feat. lily, photonskyto/\u3055",
+      "genre": "ELECTRO",
+      "id": 153,
+      "level": 3,
+      "title": "Debut -SABOTHER-"
+    },
+    {
+      "artist": "siromaru / 29",
+      "genre": "Game Music Arrange",
+      "id": 154,
+      "level": 3,
+      "title": "Super Mario Brothers Main Theme [29Another]"
+    },
+    {
+      "artist": "LeaF Movie:Optie",
+      "genre": "DEPENDANCE MUSIC",
+      "id": 155,
+      "level": 3,
+      "title": "Poison AND\u00f7OR Affection [INSANE]"
+    },
+    {
+      "artist": "Ras/ \u5dee\u5206 \u8d64\u3044\u4eba",
+      "genre": "ELECTRO",
+      "id": 156,
+      "level": 3,
+      "title": "PrayStation [HARD]"
+    },
+    {
+      "artist": "daisan / zue-row obj. DK",
+      "genre": "Euphoric Artbreaks",
+      "id": 157,
+      "level": 3,
+      "title": "\u96ea\u89e3\u3051\u8272\u30d5\u30e9\u30ef\u30fc\u30ba [Defrost]"
+    },
+    {
+      "artist": "mommy",
+      "genre": "HOUSE",
+      "id": 158,
+      "level": 3,
+      "title": "88D [\u5c0f\u3055\u3044]"
+    },
+    {
+      "artist": "mo_no_chrome feat.Salita / obj:ELIGOS",
+      "genre": "House",
+      "id": 159,
+      "level": 3,
+      "title": "kindly breeze [ELITHER]"
+    },
+    {
+      "artist": "TiS feat.\u7d05\u6894\u5b50",
+      "genre": "EUROBEAT",
+      "id": 160,
+      "level": 3,
+      "title": "Starry Fate (Dif)"
+    },
+    {
+      "artist": "nao/\u96ea\u4ec1/\u6c34\u57ce\u65b0\u4eba remixed by Lemon beads eclair et fleur",
+      "genre": "\u30cd\u30b3\u3071\u3089 Vol.1 \u301c\u30bd\u30ec\u30a4\u30e6\u958b\u5e97\u3057\u307e\u3057\u305f\uff01\u301c",
+      "id": 161,
+      "level": 3,
+      "title": "\u30bf\u30a4\u30e8\u30a6\u30d1\u30e9\u30c0\u30a4\u30b9(Lemon beads J-core bootleg) [Les Deux Chattes]"
+    },
+    {
+      "artist": "\u306d\u3053\u307f\u307f\u9b54\u6cd5\u4f7f\u3044 / obj: black train",
+      "genre": "HappY PoPcorN(\u864e\u306e\u7a747)",
+      "id": 162,
+      "level": 4,
+      "title": "\u2605LittlE HearTs\u2605 (\u864e\u306e\u7a74)"
+    },
+    {
+      "artist": "SHIKI (obj.mp)",
+      "genre": "TRANCE",
+      "id": 163,
+      "level": 4,
+      "title": "Angelic layer -ANOTHER-"
+    },
+    {
+      "artist": "Hate vs Brilliance",
+      "genre": "FREEFORM",
+      "id": 164,
+      "level": 4,
+      "title": "Quark"
+    },
+    {
+      "artist": "SHIKI / obj:sok",
+      "genre": "TRANCE CORE",
+      "id": 165,
+      "level": 4,
+      "title": "Pure Ruby -JUNK7-"
+    },
+    {
+      "artist": "Nankumo / BGA\uff1aCube3 / obj\uff1a18",
+      "genre": "HAPPY",
+      "id": 166,
+      "level": 4,
+      "title": "DRAGONLADY (7keyEX)"
+    },
+    {
+      "artist": "syatten / air",
+      "genre": "European Trance",
+      "id": 167,
+      "level": 4,
+      "title": "aliceblue (Radio Edit) (SP EX+)"
+    },
+    {
+      "artist": "xi / obj:kaz?",
+      "genre": "HAPPY HARDCORE",
+      "id": 168,
+      "level": 4,
+      "title": "FREEDOM DiVE [k 7]"
+    },
+    {
+      "artist": "\u306d\u3053\u307f\u308a\u3093 / \u971c\u6df1",
+      "genre": "CRYSTAL TRANCE",
+      "id": 169,
+      "level": 4,
+      "title": "Durandal -Magical Freezing- (Radio Edit) [PLANET]"
+    },
+    {
+      "artist": "Grand Thaw",
+      "genre": "Musette",
+      "id": 170,
+      "level": 4,
+      "title": "Flesvelka MX"
+    },
+    {
+      "artist": "\u306d\u3053\u307f\u307f\u9b54\u6cd5\u4f7f\u3044",
+      "genre": "Synth Rock",
+      "id": 171,
+      "level": 4,
+      "title": "theme of Maia -maniac-"
+    },
+    {
+      "artist": "\u6e90\u5c4bfeat.\u30e6\u30b9\u30e9 / air",
+      "genre": "Akiba Pop",
+      "id": 172,
+      "level": 4,
+      "title": "Magical Love Words (Maniac)"
+    },
+    {
+      "artist": "\u30d5\u30ed\u30f3 / \u30e9\u30ba\u30d9\u30ea\u30eb / obj: black train",
+      "genre": "LOVELY HIGHSPEED",
+      "id": 173,
+      "level": 4,
+      "title": "Love & Justice [AFOTHER]"
+    },
+    {
+      "artist": "\u306d\u3053\u307f\u307f\u9b54\u6cd5\u4f7f\u3044 / black train",
+      "genre": "shuffle",
+      "id": 174,
+      "level": 4,
+      "title": "\u3042\u3081\u3075\u308a\u3053\u306d\u3053 (AFOTHER)"
+    },
+    {
+      "artist": "SHIKI/-45 obj:arufis",
+      "genre": "TRANCE",
+      "id": 175,
+      "level": 4,
+      "title": "SEPIA -EX\u8272-"
+    },
+    {
+      "artist": "cranky / obj: black train",
+      "genre": "RAVE",
+      "id": 176,
+      "level": 4,
+      "title": "Party 4U (AFOTHER)"
+    },
+    {
+      "artist": "\u6e90\u5c4b (obj.mp)",
+      "genre": "Trance",
+      "id": 177,
+      "level": 4,
+      "title": "Liberte-SuperSaw Epic mix- -ANOTHER-"
+    },
+    {
+      "artist": "\u9ad8\u5dba\u3000\u611b\u82b1 / obj:\u5bc6",
+      "genre": "Uplifting Trance",
+      "id": 178,
+      "level": 4,
+      "title": "Aihana(Radio Edit) [SADISTIC]"
+    },
+    {
+      "artist": "Grand thaw",
+      "genre": "NOCTURNE",
+      "id": 179,
+      "level": 4,
+      "title": "AltMirrorBell MX"
+    },
+    {
+      "artist": "Awesomeman / obj:\u3042\u30fc\u3055\u3093",
+      "genre": "\u30de\u30a4\u30a2\u30df\u30d9\u30fc\u30b9",
+      "id": 180,
+      "level": 4,
+      "title": "Here we go\uff01 (TM edit)"
+    },
+    {
+      "artist": "Needle Valley",
+      "genre": "TECHNO",
+      "id": 181,
+      "level": 4,
+      "title": "A.S.D.F [EX]"
+    },
+    {
+      "artist": "sasakure.UK / black train",
+      "genre": "UNIVERSE(AFOTHER)",
+      "id": 182,
+      "level": 4,
+      "title": "X (AFOTHER)"
+    },
+    {
+      "artist": "chocolate max / black train",
+      "genre": "HappY PoPcorN(torather7)",
+      "id": 183,
+      "level": 4,
+      "title": "\u2605SweeT DiscoverY\u2605 (\u864e\u306eANOTHER)"
+    },
+    {
+      "artist": "saikoro / 29",
+      "genre": "trancestep",
+      "id": 184,
+      "level": 4,
+      "title": "cadence [29Another]"
+    },
+    {
+      "artist": "moma / 29",
+      "genre": "",
+      "id": 185,
+      "level": 4,
+      "title": "Eclisse [29Another]"
+    },
+    {
+      "artist": "Nene Anegasaki feat. Salita/\u3055 Movie : Ryuka",
+      "genre": "PIANO HOUSE",
+      "id": 186,
+      "level": 4,
+      "title": "Act Beloved [SP EX]"
+    },
+    {
+      "artist": "TAK/eff_01x",
+      "genre": "Trance",
+      "id": 187,
+      "level": 4,
+      "title": "Ultramarine [Ultra(7)]"
+    },
+    {
+      "artist": "nez (obj.mp)",
+      "genre": "Happy HardCore",
+      "id": 188,
+      "level": 4,
+      "title": "That's the style!! (7key:Maniac)"
+    },
+    {
+      "artist": "455 / rio / black train",
+      "genre": "P s y",
+      "id": 189,
+      "level": 4,
+      "title": "G e n g a o z o _ A F O"
+    },
+    {
+      "artist": "wa. / deadblue238",
+      "genre": "Gothic Lolita Memoir",
+      "id": 190,
+      "level": 4,
+      "title": "Lieselotte  [INSANE]"
+    },
+    {
+      "artist": "jet:tones",
+      "genre": "Liquid Funk",
+      "id": 191,
+      "level": 4,
+      "title": "Romancecar (Kukan Junkyu Edit) [7keys Another*]"
+    },
+    {
+      "artist": "keyc",
+      "genre": "m9 MINIMAL",
+      "id": 192,
+      "level": 4,
+      "title": "Wicked plot [N]"
+    },
+    {
+      "artist": "nmk/\u304b\u306a\u3048\u3086\u3081",
+      "genre": "EUROBEAT",
+      "id": 193,
+      "level": 4,
+      "title": "Childie Sharp [HyperWeapon]"
+    },
+    {
+      "artist": "455 / rio",
+      "genre": "P s y",
+      "id": 194,
+      "level": 4,
+      "title": "G e n g a o z o _ E X"
+    },
+    {
+      "artist": "NAOSUKE / obj:\u3042\u30fc\u3055\u3093",
+      "genre": "MPB",
+      "id": 195,
+      "level": 4,
+      "title": "Caixa D' Aqua"
+    },
+    {
+      "artist": "parakeet 41 / G / obj by ya2ha4",
+      "genre": "TERROR",
+      "id": 196,
+      "level": 4,
+      "title": "wilis -SABUN-"
+    },
+    {
+      "artist": "SAMBA MASTER \u4f50\u85e4 -SATOH- / obj:MOK2",
+      "genre": "\u3086\u3063\u305f\u308a\u7cfb\u30b5\u30f3\u30d0",
+      "id": 197,
+      "level": 4,
+      "title": "\u30b5\u30f3\u30d0\u30e9\u30f3\u30c9 [POROTHER]"
+    },
+    {
+      "artist": "guna / obj:Monsta",
+      "genre": "fantasia",
+      "id": 198,
+      "level": 4,
+      "title": "\u96ea\u6708\u591c\u9418 -Monsther-"
+    },
+    {
+      "artist": "MILK",
+      "genre": "TRANCE",
+      "id": 199,
+      "level": 4,
+      "title": "kyrka [Extra]"
+    },
+    {
+      "artist": "Grand thaw/obj.kei",
+      "genre": "EPIC TRANCE",
+      "id": 200,
+      "level": 4,
+      "title": "AutumnBreeze (kei-another)"
+    },
+    {
+      "artist": "mattaku",
+      "genre": "game music",
+      "id": 201,
+      "level": 4,
+      "title": "\u30a8\u30b9\u30c8\u30dd\u30ea\u30b9\u4f1d\u8a18II \u301c\u30d0\u30c8\u30eb#2\u301c (SP BLACK ANOTHER)"
+    },
+    {
+      "artist": "Syatten obj:arufis",
+      "genre": "Trance",
+      "id": 202,
+      "level": 4,
+      "title": "beyond the limit -7keyex-"
+    },
+    {
+      "artist": "mommy",
+      "genre": "PIANO SOLO",
+      "id": 203,
+      "level": 4,
+      "title": "rough [7key,Another]"
+    },
+    {
+      "artist": "ZUN remixed by LeaF Movie:Optie obj:Fender",
+      "genre": "EMOTIONAL HARDCORE TECHNO",
+      "id": 204,
+      "level": 4,
+      "title": "Calamity Fortune [F]"
+    },
+    {
+      "artist": "\u30bb\u30ca/\u5dee\u5206naiya BGA\uff1aMilk_tya Illust\uff1a\u795e\u5948\u5ddd\u308f\u304b\u5948",
+      "genre": "Crab Music",
+      "id": 205,
+      "level": 4,
+      "title": "\u7279\u52b9\u85ac\u306f\u30ab\u30cb\u30d4\u30e9\u30d5 (KANITHER)"
+    },
+    {
+      "artist": "q/stol / obj_jakko",
+      "genre": "ELECTRO FUNK",
+      "id": 206,
+      "level": 4,
+      "title": "GIN TONIC FLAVOR [aspER7]"
+    },
+    {
+      "artist": "NIKITA obj by DK",
+      "genre": "HARD ELECTRO pf",
+      "id": 207,
+      "level": 4,
+      "title": "DESPERATE -fatal-"
+    },
+    {
+      "artist": "wigen / mov : Lepusnette obj by sound piercer",
+      "genre": "art core",
+      "id": 208,
+      "level": 4,
+      "title": "linear umbra [SP-RX INSANE]"
+    },
+    {
+      "artist": "ATM /bga pamnes/ kusofumen lovers",
+      "genre": "organic dnb",
+      "id": 209,
+      "level": 4,
+      "title": "omega iii - beyond the flare (7kitty)"
+    },
+    {
+      "artist": "Feryquitous movie:Sight / obj_jakko",
+      "genre": "fake out",
+      "id": 210,
+      "level": 4,
+      "title": "Dstorv [false_fix]"
+    },
+    {
+      "artist": "Ras obj:Fender",
+      "genre": "Tech electro",
+      "id": 211,
+      "level": 4,
+      "title": "TURNDOWN [F]"
+    },
+    {
+      "artist": "daisan feat. \u3048\u307f\u3085\u3046\u3002 / zue-row obj.B_K",
+      "genre": "Waltz",
+      "id": 212,
+      "level": 4,
+      "title": "Dance Doll Dream [puppet]"
+    },
+    {
+      "artist": "\u306f\u304c\u306d / bga:BspotV / object:0war1a",
+      "genre": "Melodic DnB",
+      "id": 213,
+      "level": 4,
+      "title": "FirmamenT"
+    },
+    {
+      "artist": "wa. / OBJ:J-SON",
+      "genre": "IntelligenceTerror",
+      "id": 214,
+      "level": 5,
+      "title": "\u30e2\u30ea\u30aa\u30f3\u306e\u59eb [INSANE]"
+    },
+    {
+      "artist": "\u3057\u3089\u3044\u3057",
+      "genre": "Classical Trance",
+      "id": 215,
+      "level": 5,
+      "title": "Odin [Black_Another]"
+    },
+    {
+      "artist": "SHIKI/fity / obj:A-zert",
+      "genre": "Trance core",
+      "id": 216,
+      "level": 5,
+      "title": "Xecus [Maniac]"
+    },
+    {
+      "artist": "SHIKI / obj BUN\u00d7BUN",
+      "genre": "TRANCE",
+      "id": 217,
+      "level": 5,
+      "title": "Angelic layer\u3000 \u301cReincarnation\u301c"
+    },
+    {
+      "artist": "beatMARIO / tomsfir / black train",
+      "genre": "HyperEuroBeat(AFOTHER)",
+      "id": 218,
+      "level": 5,
+      "title": "Last! Least! Regrets!! (AFOTHER)"
+    },
+    {
+      "artist": "\u5f69\u97f3 / \u5c0f\u5bae\u771f\u592e / obj: black train",
+      "genre": "oriental",
+      "id": 219,
+      "level": 5,
+      "title": "\u591c\u685c -\u685c\u5439\u96ea-"
+    },
+    {
+      "artist": "SHIKI / obj Risky*",
+      "genre": "Dutch Trance",
+      "id": 220,
+      "level": 5,
+      "title": "- JUPITER - [ANOTHER++]"
+    },
+    {
+      "artist": "\u3077\u3089\u3059\u3061\u3063\u304f\u3068\u5973\u306e\u5b50",
+      "genre": "\u30b3\u30fc\u30d7\u30b9\u30c0\u30f3\u30b9",
+      "id": 221,
+      "level": 5,
+      "title": "\u5c11\u5973\u306e\u821e\u846c"
+    },
+    {
+      "artist": "TAK/A-zert",
+      "genre": "Techno",
+      "id": 222,
+      "level": 5,
+      "title": "Trinity [Maniac]"
+    },
+    {
+      "artist": "\u5c0f\u5bae\u771f\u592e with Na+",
+      "genre": "J-EuroPop",
+      "id": 223,
+      "level": 5,
+      "title": "Love's Rebirth '06 -7another-"
+    },
+    {
+      "artist": "Ym1024/\u3055",
+      "genre": "Airy Trance",
+      "id": 224,
+      "level": 5,
+      "title": "Another Sky\u3000 [7key/Ex]"
+    },
+    {
+      "artist": "\u6fc0\u8f9b\u30de\u30cb\u30a2",
+      "genre": "Crazy Arrabbiata",
+      "id": 225,
+      "level": 5,
+      "title": "Auston (7another)"
+    },
+    {
+      "artist": "DJ TAKUAN \u53ca\u3073 \u4f50\u5009\u30a2\u30e4\u30ad \u3000\u53ca\u3000\u3073 obj:BAECON",
+      "genre": "TRANCE",
+      "id": 226,
+      "level": 5,
+      "title": "\u7e54\u59eb -VEGA-"
+    },
+    {
+      "artist": "wint / obj: black train",
+      "genre": "HYPER EURO RAVE",
+      "id": 227,
+      "level": 5,
+      "title": "Red-rize \"B172 mix\" // 7keys Afother"
+    },
+    {
+      "artist": "\u91d1\u30e9\u30e1\u30bf\u30ad\u30b7\u30fc\u30c9 / obj:SUKIMA",
+      "genre": "Synth Rock",
+      "id": 228,
+      "level": 5,
+      "title": "\u5b50\u5348\u7dda\u306e\u7940\u308a [\u30de\u30ca\u306e\u5263]"
+    },
+    {
+      "artist": "Kinato / vese",
+      "genre": "Hyper Techno",
+      "id": 229,
+      "level": 5,
+      "title": "T.S : Terminal Strike"
+    },
+    {
+      "artist": "Transin /A-zert",
+      "genre": "Trance",
+      "id": 230,
+      "level": 5,
+      "title": "Exit (another7)"
+    },
+    {
+      "artist": "sun3",
+      "genre": "GAME MUSIC",
+      "id": 231,
+      "level": 5,
+      "title": "Lunatic of the Full-Moon (---)"
+    },
+    {
+      "artist": "Rabbit Bat obj:umes",
+      "genre": "Romantic Beats",
+      "id": 232,
+      "level": 5,
+      "title": "rainy beauty [ANOTER+]"
+    },
+    {
+      "artist": "recognize m. / bga-RED / object-black train",
+      "genre": "rapid pop",
+      "id": 233,
+      "level": 5,
+      "title": "happy century AFOTHER"
+    },
+    {
+      "artist": "Mad-Script obj:\u6c5f\u6fa4",
+      "genre": "Digi Rock",
+      "id": 234,
+      "level": 5,
+      "title": "Atomic Bomb [\ufffdd\u306b\u6367\u3052\u308b\u8b5c\u9762]"
+    },
+    {
+      "artist": "nmk feat.\u304b\u306a\u3048\u3086\u3081 / \u5948\u90a3\u6a39",
+      "genre": "\u5f7c\u5973\u305f\u3061\u306e\u6d41\u5100",
+      "id": 235,
+      "level": 5,
+      "title": "Red -reduction division- [NANATHER]"
+    },
+    {
+      "artist": "SB YUNE  obj:YUJI",
+      "genre": "Dramatic Trance",
+      "id": 236,
+      "level": 5,
+      "title": "Rosario -another story- (busy)"
+    },
+    {
+      "artist": "cosMo / nmk / \u5948\u90a3\u6a39",
+      "genre": "DTX STARTER PACK_Extra",
+      "id": 237,
+      "level": 5,
+      "title": "\u899a\u9192\u30d5\u30a3\u30fc\u30eb\u30c9 -A.T.\u30d5\u30a3\u30fc\u30eb\u30c9-"
+    },
+    {
+      "artist": "\u306f\u3080\uff06kyuu / NORE",
+      "genre": "Happy Eurocore",
+      "id": 238,
+      "level": 5,
+      "title": "REspEcT-B.A.U MIX- EX"
+    },
+    {
+      "artist": "pastel white/Liz...",
+      "genre": "starry pop",
+      "id": 239,
+      "level": 5,
+      "title": "\u9053\u3057\u308b\u3079 -Lunatic-"
+    },
+    {
+      "artist": "\u7531\u862d / \u5948\u90a3\u6a39",
+      "genre": "\u6771\u65b9\u82b1\u6620\u585a",
+      "id": 240,
+      "level": 5,
+      "title": "\u6625\u8272\u5c0f\u5f84 \u301c Colorful Path -lunatic7-"
+    },
+    {
+      "artist": "dj sept-em / air",
+      "genre": "Goa Trance Techno",
+      "id": 241,
+      "level": 5,
+      "title": "OAA-\u03b3 [EX]"
+    },
+    {
+      "artist": "void BGA : Identity 7",
+      "genre": "Filmscore / Trance",
+      "id": 242,
+      "level": 5,
+      "title": "Ordeal"
+    },
+    {
+      "artist": "recognize m. / helix / blacktrain",
+      "genre": "EPIC TRANCE",
+      "id": 243,
+      "level": 5,
+      "title": "A BEAUTIFUL SKY -OB style- AFOTHER"
+    },
+    {
+      "artist": "Ym1024/obj.kei",
+      "genre": "Epic Trance",
+      "id": 244,
+      "level": 5,
+      "title": "Cosmoscape\u3000 [kei another]"
+    },
+    {
+      "artist": "DETRO / obj:\u3042\u30fc\u3055\u3093",
+      "genre": "\u30dc\u30eb\u30b1\u30fc\u30ce",
+      "id": 245,
+      "level": 5,
+      "title": "volcanic -vaporize-"
+    },
+    {
+      "artist": "LOKI / obj:JEYSON",
+      "genre": "ETHEREAL BREAKS ATMOSPHERIC",
+      "id": 246,
+      "level": 5,
+      "title": "\u30e2\u30ce\u30ea\u30b9\u306e\u5712 [\u30df\u30e9\u30af\u30eb]"
+    },
+    {
+      "artist": "sept",
+      "genre": "psychedelic",
+      "id": 247,
+      "level": 5,
+      "title": "Extinction and reproduction [SP Ex]"
+    },
+    {
+      "artist": "Xacla / TOHRU MiTSUHASHi / obj:sok",
+      "genre": "Euphoric Trance",
+      "id": 248,
+      "level": 5,
+      "title": "oceanbird [benefic7]"
+    },
+    {
+      "artist": "LeaF Movie:To7",
+      "genre": "EINSAMKEIT",
+      "id": 249,
+      "level": 5,
+      "title": "Doppelganger [ANOTHER]"
+    },
+    {
+      "artist": "kagerow",
+      "genre": "Super Bombeat (4622)",
+      "id": 250,
+      "level": 5,
+      "title": "\u304a\u3069\u308c\u30d5\u30eb\u30d5\u30a1\u30a4\u30a2\u30fc"
+    },
+    {
+      "artist": "white crystal / black train",
+      "genre": "euro trance",
+      "id": 251,
+      "level": 5,
+      "title": "sensitive (AFOTHER)"
+    },
+    {
+      "artist": "Phorni // obj:arnain",
+      "genre": "\u548c\u88fd\u5186\u821e\u66f2",
+      "id": 252,
+      "level": 5,
+      "title": "\u82b1\u9ce5\u98a8\u6708 [Crystal]"
+    },
+    {
+      "artist": "\u306d\u3053\u307f\u308a\u3093 feat.\u307f\u3086/\u3055 BGA:HYOUTAN/ILL:\u96fb\u4fe1\u67f1\uff06\u77f3\u738b\u30de\u30b5\u30c8/SUP:SOA\uff06spine",
+      "genre": "MUST DIENING",
+      "id": 253,
+      "level": 5,
+      "title": "\u5b87\u5b99\u306eMI'S\u30ad\u30c3\u30c1\u30f3 [EX7]"
+    },
+    {
+      "artist": "Cosmos remix by polysha obj:Fender",
+      "genre": "J-Core",
+      "id": 254,
+      "level": 5,
+      "title": "fragments J-CoreRemix [E]"
+    },
+    {
+      "artist": "daisan obj. DK",
+      "genre": "Dirt Art",
+      "id": 255,
+      "level": 5,
+      "title": "-+ [dy/dx]"
+    },
+    {
+      "artist": "daisan/obj_jakko",
+      "genre": "Mirage Story",
+      "id": 256,
+      "level": 5,
+      "title": "\u5e73\u8861\u4e16\u754c [Another+]"
+    },
+    {
+      "artist": "ueotan / Photonskyto / Note:\u8584\u674f",
+      "genre": "\u30c8\u30ec\u30f3\u30c7\u30a3\u30fc\u30cf\u30c3\u30d4\u30fc\u30cf\u30fc\u30c9\u30b3\u30a2",
+      "id": 257,
+      "level": 5,
+      "title": "THE ONE [EX]"
+    },
+    {
+      "artist": "\u6e0b\u8c37\u51db / D",
+      "genre": "IDOL SONG / NEW GENERATION",
+      "id": 258,
+      "level": 5,
+      "title": "\u30d9\u30b9\u30c8\u30d5\u30ec\u30f3\u30c9\uff3bsmiling\uff3d"
+    },
+    {
+      "artist": "wigen mov.Lepusnette / obj:LTFE\u266a",
+      "genre": "05' shibuyakei",
+      "id": 259,
+      "level": 5,
+      "title": "PLASTIC GIRLS (ft. Seorryang) [Stripe]"
+    },
+    {
+      "artist": "anubasu-anubasu / Note:\u8584\u674f BGA by \u51fa\u524d",
+      "genre": "ENERGETIC TRANCE",
+      "id": 260,
+      "level": 5,
+      "title": "The Island of Albatross [EXTRA]"
+    },
+    {
+      "artist": "\u306d\u3053\u307f\u307f\u9b54\u6cd5\u4f7f\u3044 / obj: Alf for \u67f4\u5d0e\u82a6\u82b1",
+      "genre": "chiptune",
+      "id": 261,
+      "level": 5,
+      "title": "\u5f7c\u5973\u306e\u8a00\u3044\u5206 -\uff8b\uff9f\uff7a\uff8b\uff9f\uff7aedit- [\u3060\u3063\u3066\u301c\u3067\u3082]"
+    },
+    {
+      "artist": "mommy /\u5dee\u5206 \u8d64\u3044\u4eba",
+      "genre": "FUNK",
+      "id": 262,
+      "level": 5,
+      "title": "Funny Funky Freaky [HARD]"
+    },
+    {
+      "artist": "Grand thaw",
+      "genre": "J-ROCK",
+      "id": 263,
+      "level": 5,
+      "title": "Crescent Edge MX"
+    },
+    {
+      "artist": "Qga obj:Fender",
+      "genre": "Techdance/Breakbeats",
+      "id": 264,
+      "level": 5,
+      "title": "Flicker [E]"
+    },
+    {
+      "artist": "LSD / obj:K-SPIN",
+      "genre": "",
+      "id": 265,
+      "level": 5,
+      "title": "square and breaks -collapse-"
+    },
+    {
+      "artist": "mommy",
+      "genre": "PIANO SOLO",
+      "id": 266,
+      "level": 5,
+      "title": "Precious!!! [7key,Bonus]"
+    },
+    {
+      "artist": "NS-Factory obj:LAPIS",
+      "genre": "Oriental Edge",
+      "id": 267,
+      "level": 5,
+      "title": "MASAMUNE [\u4e09\u65e5\u6708]"
+    },
+    {
+      "artist": "litmus* obj:SUZUKAZE\u039b",
+      "genre": "Moombahcore",
+      "id": 268,
+      "level": 5,
+      "title": "All is fair in Rage [ZOI]"
+    },
+    {
+      "artist": "\u306f\u304c\u306d obj:B_K + Fender",
+      "genre": "Darkpsy",
+      "id": 269,
+      "level": 5,
+      "title": "YAKUI [Benzene]"
+    },
+    {
+      "artist": "q/stol obj:krg",
+      "genre": "Glitch Hop\u00d7electronica",
+      "id": 270,
+      "level": 5,
+      "title": "LOVE THIS MOMENT [ManiaK]"
+    },
+    {
+      "artist": "minun\u2642 Remixed by AMAZE obj:SUZUKAZE\u039b",
+      "genre": "BIG BEAT",
+      "id": 271,
+      "level": 5,
+      "title": "Dai-katsugeki\u3014AMAZE Remix\u3015 [ZOI]"
+    },
+    {
+      "artist": "\u9577\u6cbc\u6d69\u592a(\u9b5a\u5c4b) vs \u9577\u6cbc\u6d69\u592a(\u6c17\u5206\u8ee2\u63db\u304f\u3089\u3044\u306e\u30ce\u30ea\u3067\u884c\u304d\u307e\u30fc\u3059) bga:\u9577\u6cbc\u6d69\u592a(\u9b5a\u5c4b) vs \u9577\u6cbc\u6d69\u592a(\u30ac\u30aa\u30fc\u7834) ex.\u9577\u6cbc\u6d69\u592a(\u9593\u5408\u3044\u5c4b) obj:saaa(WiiU\u6b32\u3057\u3044\u3088\u306d)",
+      "genre": "\u9b5a\u5c4bSTEP",
+      "id": 272,
+      "level": 5,
+      "title": "SHI\u2606O\u2606KA\u2606RA [Splatoon]"
+    },
+    {
+      "artist": "siromaru + cranky // movie: iimo",
+      "genre": "HARMONIC SCHRANZ",
+      "id": 273,
+      "level": 6,
+      "title": "conflict [EX-HARD]"
+    },
+    {
+      "artist": "SHIKI / black train",
+      "genre": "TRANCE CORE",
+      "id": 274,
+      "level": 6,
+      "title": "Air -MANIAQ-"
+    },
+    {
+      "artist": "\u30e1\u30b9\u30af\u30e9 (\u30a8\u30f4\u30a1\u305f\u3093\uff06\u30e1\u30b3\u305f\u3093) / obj:midori",
+      "genre": "\u30eb\u30cd\u30c3\u30b5\u30f3\u30b9\u30b3\u30a2",
+      "id": 275,
+      "level": 6,
+      "title": "\u30a2\u30ba\u30fc\u30eb \u30ea\u30df\u30c3\u30af\u30b9 -damepo7-"
+    },
+    {
+      "artist": "\u524a\u9664 feat. void / \u6d6a\u6f2b\u6620\u50cf\u5236\u4f5c\u5036\u697d\u90e8 / obj : xi",
+      "genre": "Act / Wars",
+      "id": 276,
+      "level": 6,
+      "title": "Black Lair [INSANE]"
+    },
+    {
+      "artist": "\u30c1\u30e3\u30c1\u30e3/zun/y",
+      "genre": "\u6771\u65b9\u7d05\u9b54\u90f7\u3000\u301c the Embodiment of Scarlet Devil.",
+      "id": 277,
+      "level": 6,
+      "title": "\u4ea1\u304d\u7687\u5973\u306e\u70ba\u306e\u30bb\u30d7\u30c6\u30c3\u30c8 [BEGINNER]"
+    },
+    {
+      "artist": "keyc",
+      "genre": "Nu Style Gabba",
+      "id": 278,
+      "level": 6,
+      "title": "G.N. [N]"
+    },
+    {
+      "artist": "onoken / NORE",
+      "genre": "drum'n bass",
+      "id": 279,
+      "level": 6,
+      "title": "FELYS EX"
+    },
+    {
+      "artist": "\u7531\u862d / ALICE*",
+      "genre": "\u6771\u65b9\u602a\u7dba\u8ac7",
+      "id": 280,
+      "level": 6,
+      "title": "\u4e0d\u601d\u8b70\u306e\u56fd\u306e\u30a2\u30ea\u30b9 -ALITHER-"
+    },
+    {
+      "artist": "SHIKI/-45 / black train",
+      "genre": "TRANCE",
+      "id": 281,
+      "level": 6,
+      "title": "SEPIA -AFOTHER-"
+    },
+    {
+      "artist": "SHOCK.C (obj. by arufis)",
+      "genre": "Latin Pop",
+      "id": 282,
+      "level": 6,
+      "title": "Colorful Sunday (7keys:EX)"
+    },
+    {
+      "artist": "Project Necro Fantasia / obj:arufis",
+      "genre": "orientali",
+      "id": 283,
+      "level": 6,
+      "title": "\u30d6\u30af\u30ec\u30b7\u30e5\u30c6\u30a3\u306e\u4eba\u5f62\u5e2b -GILEX-"
+    },
+    {
+      "artist": "\u732b\u87f9\u4e38 / obj:black train",
+      "genre": "SawAmbient",
+      "id": 284,
+      "level": 6,
+      "title": "5.1.1(ReMix) [Afother]"
+    },
+    {
+      "artist": "celas",
+      "genre": "th trance",
+      "id": 285,
+      "level": 6,
+      "title": "The infant daughter Frandle's [BLACK ANOTHER]"
+    },
+    {
+      "artist": "adumac / dp131 / obj:AMERIA",
+      "genre": "HOUSE",
+      "id": 286,
+      "level": 6,
+      "title": "Cinderella Story -SP AMETHER-"
+    },
+    {
+      "artist": "\u306a\u304a\u304d\u3061",
+      "genre": "Classic(ANOTHER)",
+      "id": 287,
+      "level": 6,
+      "title": "\uff2d \uff08\u3055\u3041\u3001\u3069\u3046\u3057\u3088\u3046\u304b\u30a2\u30ca\u30b6\u30fc\uff09"
+    },
+    {
+      "artist": "orangentle / obj: black train",
+      "genre": "Lounge Pop",
+      "id": 288,
+      "level": 6,
+      "title": "l'amour d'amour --- \u864e\u306eANOTHER"
+    },
+    {
+      "artist": "\u3084\u3063\u3059\u301c / obj:black train",
+      "genre": "Instrumental",
+      "id": 289,
+      "level": 6,
+      "title": "before... [7key/AFOTHER]"
+    },
+    {
+      "artist": "fether / obj: black train",
+      "genre": "kirby pop (afother7)",
+      "id": 290,
+      "level": 6,
+      "title": "\u2606 twinklesky \u2606 _13 AFOTHER"
+    },
+    {
+      "artist": "Junk/\u3055",
+      "genre": "Urban Electro",
+      "id": 291,
+      "level": 6,
+      "title": "The Panorama [EX]"
+    },
+    {
+      "artist": "maklow",
+      "genre": "dream trance",
+      "id": 292,
+      "level": 6,
+      "title": "Lostlove - maniac -"
+    },
+    {
+      "artist": "NAGI / black train",
+      "genre": "euro beat",
+      "id": 293,
+      "level": 6,
+      "title": "la noche (AFOTHER)"
+    },
+    {
+      "artist": "narve arranged by FMN (obj.mp)",
+      "genre": "ibiza trance",
+      "id": 294,
+      "level": 6,
+      "title": "the sorrow of the islands(Flow Edition) -ANOTHER-"
+    },
+    {
+      "artist": "Wirel : Yourl (BGA : RED) (obj.mp)",
+      "genre": "Hard Trance",
+      "id": 295,
+      "level": 6,
+      "title": "The Beautiful Sunset of That Day(Radio Edit) -ANOTHER-"
+    },
+    {
+      "artist": "G.G-G\u2606",
+      "genre": "FINAL ATTACK",
+      "id": 296,
+      "level": 6,
+      "title": "LEthAl wEApOn (ANOTHER7)"
+    },
+    {
+      "artist": "maklow obj;\u6c5f\u6fa4",
+      "genre": "Drum`n`bass",
+      "id": 297,
+      "level": 6,
+      "title": "LABO (ANOTHER)"
+    },
+    {
+      "artist": "mommy / obj:\u3042\u30fc\u3055\u3093",
+      "genre": "HOUSE",
+      "id": 298,
+      "level": 6,
+      "title": "More Selfish -fickle-"
+    },
+    {
+      "artist": "chocolate max / black train",
+      "genre": "HappY PoPcorN(afother7)",
+      "id": 299,
+      "level": 6,
+      "title": "\u2605SweeT DiscoverY\u2605 (AFOTHER)"
+    },
+    {
+      "artist": "eir / orig: Soushi Mizutani / air",
+      "genre": "INSTRUMENTAL",
+      "id": 300,
+      "level": 6,
+      "title": "eve solstice mix -kuso-"
+    },
+    {
+      "artist": "yukitani feat. DJ YKTN and DJ UMA",
+      "genre": "Nerd Funk",
+      "id": 301,
+      "level": 6,
+      "title": "Master of GENOCIDE [ANOTHER7]"
+    },
+    {
+      "artist": "\u30eb\u30bc",
+      "genre": "PANDORA BOX",
+      "id": 302,
+      "level": 6,
+      "title": "ZEUS [Another+]"
+    },
+    {
+      "artist": "ESTi remixed by bbangsami / LeaH & SMIN / ARIA",
+      "genre": "Space Idol Hardcore",
+      "id": 303,
+      "level": 6,
+      "title": "Ladymade corestar (7 MAIN+)"
+    },
+    {
+      "artist": "insanity tOY",
+      "genre": "\u30d1\u30f3\u30c9\u30e9",
+      "id": 304,
+      "level": 6,
+      "title": "prohibition of world (dear a box given allll.)"
+    },
+    {
+      "artist": "kanone",
+      "genre": "Energetic Trance",
+      "id": 305,
+      "level": 6,
+      "title": "Blue Dragoon [Another]"
+    },
+    {
+      "artist": "Lime / Roaring Flame/\u3055",
+      "genre": "Hardcore",
+      "id": 306,
+      "level": 6,
+      "title": "Daydreamer [SABOTHER]"
+    },
+    {
+      "artist": "s-don / \u7be0\u4e43\u3061\u3088 / La*2\u2103",
+      "genre": "Tech Dance",
+      "id": 307,
+      "level": 6,
+      "title": "Gamegame (bms edit -Lanother-)"
+    },
+    {
+      "artist": "DJ PrimeMIX/obj_jakko BGA : Tofa Kim",
+      "genre": "HAPPY HARDCORE",
+      "id": 308,
+      "level": 6,
+      "title": "FRANTIC\u2606ARCADE [otogamER]"
+    },
+    {
+      "artist": "\u30d1\u30f3\u30c018\u53f7 / Note:\u8584\u674f",
+      "genre": "ENDROLL",
+      "id": 309,
+      "level": 6,
+      "title": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb [Encore]"
+    },
+    {
+      "artist": "5*LEAF / obj:\u307f\u3063\u3068 BGA by To7",
+      "genre": "Acid Techno",
+      "id": 310,
+      "level": 6,
+      "title": "Hybrid Intermission -Hy Speed Remix- [DHMO]"
+    },
+    {
+      "artist": "Music : eFeL / BGA : \u9453\u7530(Alpha complex)",
+      "genre": "Neuro Drum & Bass",
+      "id": 311,
+      "level": 6,
+      "title": "Engine [SP Insane]"
+    },
+    {
+      "artist": "vorbis obj:krg",
+      "genre": "Death Hyper Techno Mission of Juliana's Tokyo",
+      "id": 312,
+      "level": 6,
+      "title": "Back 2 Oldskool [Dead Or Alive]"
+    },
+    {
+      "artist": "er / obj.Ap",
+      "genre": "\u3084\u308b\u304d\u30d5\u30a1\u30f3\u30af",
+      "id": 313,
+      "level": 6,
+      "title": "\u5e74\u4e2d\u5922\u4e2d\u306a\u597d\u5947\u5fc3 [ExHard]"
+    },
+    {
+      "artist": "momo\u2605yama\u3000\u3000(BGA:\u30a2\u30ab\u30c4\u30ad\u30e6\u30a6) obj:LAPIS",
+      "genre": "ENERGETIC TRANCE",
+      "id": 314,
+      "level": 6,
+      "title": "JUMMER (HARD+)"
+    },
+    {
+      "artist": "taqumi obj:\u03be\u9752\u9f8d\u03be BGA:highluin / Illust:\u4e03\u66f2\u3058\u3083\u3093",
+      "genre": "UK HARDCORE",
+      "id": 315,
+      "level": 6,
+      "title": "DESIRE DRIVE (LLS HARDCORE REMIX) [SEIRYU ANOTHER]"
+    },
+    {
+      "artist": "be5moti / \u3046\u307e\u308b\u3064\u3075\u308a obj:Fender",
+      "genre": "betrayer",
+      "id": 316,
+      "level": 6,
+      "title": "Trahison [E]"
+    },
+    {
+      "artist": "daisan obj:\u79d8\u5bc6 vs Fender",
+      "genre": "\u548c\u594f\u96fb\u5e7b\u697d",
+      "id": 317,
+      "level": 6,
+      "title": "YASAKANI [\u795e\u74bd\u93e1\u5263 \u9670\u30ce\u52fe\u7389]"
+    },
+    {
+      "artist": "hapi\u21d2 obj:mute",
+      "genre": "BATTLE FINALE",
+      "id": 318,
+      "level": 6,
+      "title": "Theme of \"ULTIMATE IRIS\" [VEGA]"
+    },
+    {
+      "artist": "BACO / obj:yuu",
+      "genre": "ELECTROSHOCK",
+      "id": 319,
+      "level": 7,
+      "title": "DENGEKI Tube [12\u30dc\u30eb\u30c8]"
+    },
+    {
+      "artist": "BMS:\u304f\u3063\u3061\u30fc / BGA:\u3042\u3063\u304d\u30fc",
+      "genre": "DANCE SPEED",
+      "id": 320,
+      "level": 7,
+      "title": "Satori \u301c3rd EyEs (bms edit) [ANOTHER]"
+    },
+    {
+      "artist": "plastic feat.\u30b5\u30ad\u30c8/obj BUN\u00d7BUN",
+      "genre": "NU-STYLE GABBA",
+      "id": 321,
+      "level": 7,
+      "title": "\u3072\u3064\u304e\u3068\u3075\u305f\u3054 \u301c\u72c2\u6c17\u30ce\u5bb4\u301c"
+    },
+    {
+      "artist": "\u30e1\u30b9\u30af\u30e9 (\u30a8\u30f4\u30a1\u305f\u3093\uff06\u30e1\u30b3\u305f\u3093)",
+      "genre": "\u30eb\u30cd\u30c3\u30b5\u30f3\u30b9\u30b3\u30a2",
+      "id": 322,
+      "level": 7,
+      "title": "\u30a2\u30ba\u30fc\u30eb <ANOTHER>"
+    },
+    {
+      "artist": "sun3 / BGA:Johnny",
+      "genre": "HARD TECHNO",
+      "id": 323,
+      "level": 7,
+      "title": "Messier 333 (ANOTHER7)"
+    },
+    {
+      "artist": "naotyu- / obj:Risky*",
+      "genre": "progressive breaks",
+      "id": 324,
+      "level": 7,
+      "title": "Her Majesty [Another+]"
+    },
+    {
+      "artist": "\u30eb\u30bc",
+      "genre": "DRUM'N BASS",
+      "id": 325,
+      "level": 7,
+      "title": "DTD Emperor [ANOTHER]"
+    },
+    {
+      "artist": "Omnipotenx",
+      "genre": "SYMPHONIC SCHRANZ",
+      "id": 326,
+      "level": 7,
+      "title": "PEACE BREAKER [ANOTHER]"
+    },
+    {
+      "artist": "\u3053\u3069\u3082\u306e\u306a\u307f\u3060",
+      "genre": "\u30cf\u30c3\u30d4\u30fc\u30b1\u30a2\u30ac\u30fc\u30eb",
+      "id": 327,
+      "level": 7,
+      "title": "\u767d\u306e\u9b54\u6cd5\u306e\u5149"
+    },
+    {
+      "artist": "\u5c0f\u5bae\u771f\u592e with Na+ (obj.mp)",
+      "genre": "J-EuroPop",
+      "id": 328,
+      "level": 7,
+      "title": "Love's Rebirth '06 -7another-"
+    },
+    {
+      "artist": "ZUN (Arr.sun3) / air",
+      "genre": "Happy Hardcore",
+      "id": 329,
+      "level": 7,
+      "title": "\u7af9\u53d6\u306f\u3063\u3074\u30fc -AIRTHER-"
+    },
+    {
+      "artist": "-45 obj Kz / objectpakuri:arufis",
+      "genre": "techno pop",
+      "id": 330,
+      "level": 7,
+      "title": "\u5922\u4eba\u5f62 -Extra dream-"
+    },
+    {
+      "artist": "xi / obj Risky*",
+      "genre": "ARTCORE",
+      "id": 331,
+      "level": 7,
+      "title": "Ascension to Heaven [EXPART]"
+    },
+    {
+      "artist": "ABE3",
+      "genre": "DRUM'N'FORTE",
+      "id": 332,
+      "level": 7,
+      "title": "Ereshkigal (ANOTHER)"
+    },
+    {
+      "artist": "LUNE\u306e\u53f3\u624b\u3068\u60a0\u91cc\u304a\u306d\u3047\u3061\u3083\u3093\u306e\u5de6\u811a",
+      "genre": "\u30aa\u30ab\u30eb\u30c8\u3055\u3093\u3068\u30d3\u30fc\u30c4\u304f\u3093-EX-",
+      "id": 333,
+      "level": 7,
+      "title": "\u3069\u3046\u304b\u79c1\u3092\u6bba\u3057\u3066\u4e0b\u3055\u3044"
+    },
+    {
+      "artist": "AKITO obj;\u6c5f\u6fa4",
+      "genre": "JP-SPIRITUAL POP",
+      "id": 334,
+      "level": 7,
+      "title": "\u685c\u83ef\u6708 (A3)"
+    },
+    {
+      "artist": "L_Z",
+      "genre": "\u4e11\u4e09\u30c4\u30ce\u523b[ANOTHER7]",
+      "id": 335,
+      "level": 7,
+      "title": "\u7d05\u67d3\u5341\u4e09\u756a\u8857\u9053"
+    },
+    {
+      "artist": "sasakure.UK / 29",
+      "genre": "progressive",
+      "id": 336,
+      "level": 7,
+      "title": "Jack-the-Ripper\u25c6 [29Another]"
+    },
+    {
+      "artist": "\u306b\u3093\u306b\u304f\u30de\u30cb\u30a2",
+      "genre": "battle concerto",
+      "id": 337,
+      "level": 7,
+      "title": "\u30d4\u30a2\u30ce\u72c2\u9a12\u66f2\u7b2c\u58f1\u756a\u300c\u6ec5\u5bb4\u300d (another7)"
+    },
+    {
+      "artist": "\u5929\u97f3 /A-zert",
+      "genre": "WORLD / ELECTRONICA",
+      "id": 338,
+      "level": 7,
+      "title": "Beyond The Alice (Phantasm7)"
+    },
+    {
+      "artist": "xi",
+      "genre": "JAZZ FUSION",
+      "id": 339,
+      "level": 7,
+      "title": ".357 Magnum (EXTREME)"
+    },
+    {
+      "artist": "void feat. Hiroko",
+      "genre": "Euphoric Vocal J-Trance",
+      "id": 340,
+      "level": 7,
+      "title": "world devoid of you (fairydust radio edit // SP MANIAC)"
+    },
+    {
+      "artist": "wint",
+      "genre": "RAVE",
+      "id": 341,
+      "level": 7,
+      "title": "REWD \"B159 mix\" // (kei-transcended 7)"
+    },
+    {
+      "artist": "A.I.TOYS",
+      "genre": "art core",
+      "id": 342,
+      "level": 7,
+      "title": "\u666f\u8272\u306e\u5883\u754c -EX-"
+    },
+    {
+      "artist": "\u9673 \u6b63\u5e73 / air",
+      "genre": "Happy Summer Memories",
+      "id": 343,
+      "level": 7,
+      "title": "ting ting [XRATED]"
+    },
+    {
+      "artist": "Marc-Andre' Hamelin",
+      "genre": "\u73fe\u4ee3\u97f3\u697d",
+      "id": 344,
+      "level": 7,
+      "title": "\u30b5\u30fc\u30ab\u30b9\u30fb\u30ae\u30e3\u30ed\u30c3\u30d7 -normal-"
+    },
+    {
+      "artist": "midori (obj.mp)",
+      "genre": "Trance",
+      "id": 345,
+      "level": 7,
+      "title": "Pluto -Maniac7-"
+    },
+    {
+      "artist": "\u4f5c\u66f2/GEMA BMS/GYAON",
+      "genre": "ROCOCO TEK",
+      "id": 346,
+      "level": 7,
+      "title": "dance in the dark [7key-EX]"
+    },
+    {
+      "artist": "Mr.ABC",
+      "genre": "SCOUSE HOUSE",
+      "id": 347,
+      "level": 7,
+      "title": "HE is an Energizer (7keys sarather)"
+    },
+    {
+      "artist": "ZUN remixed by LeaF Movie:Optie",
+      "genre": "EMOTIONAL HARDCORE TECHNO",
+      "id": 348,
+      "level": 7,
+      "title": "Calamity Fortune [ANOTHER]"
+    },
+    {
+      "artist": "Syatten / obj:midori",
+      "genre": "Dutch Trance",
+      "id": 349,
+      "level": 7,
+      "title": "Astrograph -damepo7-"
+    },
+    {
+      "artist": "BMS:\u91d1\u30e9\u30e1\u30bf\u30ad\u30b7\u30fc\u30c9/MIDI:YNG-MK\uff06\u30f4\u30a1\u30a4\u30b9\u541b (7linear.SHOCK.C) / black train",
+      "genre": "Hard Rock",
+      "id": 350,
+      "level": 7,
+      "title": "Romancing Sa\uff65Ga3 \u30e9\u30b9\u30c8\u30d0\u30c8\u30eb RockArrange (AFOTHER)"
+    },
+    {
+      "artist": "LaValse (obj.mp)",
+      "genre": "TRANCE AMBIENT (MANIAC)",
+      "id": 351,
+      "level": 7,
+      "title": "marine snow"
+    },
+    {
+      "artist": "\u30bf\u30ea\u30ad\u30e9\u30d9\u30f3\u30c0\u30fc metamorphosing LOKI / obj:\u3042\u30fc\u3055\u3093",
+      "genre": "ORIENTAL GROOVE",
+      "id": 352,
+      "level": 7,
+      "title": "code : endymion [FRS Mk.1]"
+    },
+    {
+      "artist": "xellox / Symphonian",
+      "genre": "PSYCHEDELIC TRANCE",
+      "id": 353,
+      "level": 7,
+      "title": "Cosmic Raid [Extreme]"
+    },
+    {
+      "artist": "Psyche/A-zert",
+      "genre": "Instrumental (Maniac7)",
+      "id": 354,
+      "level": 7,
+      "title": "am Ende -Wiedersehen-"
+    },
+    {
+      "artist": "-45 obj:arufis",
+      "genre": "Trance/7key 2DXtic EX",
+      "id": 355,
+      "level": 7,
+      "title": "\u85cd\u7149\u306e\u4eba\u5f62 -EX-"
+    },
+    {
+      "artist": "Urban Techno Cafe arrange by RYO1",
+      "genre": "PROGRESSIVE",
+      "id": 356,
+      "level": 7,
+      "title": "orbit \uff08\u7460\u91ce\u4e9c's edition\uff09 [MANIAC]"
+    },
+    {
+      "artist": "Yusuke Takeuchi /+-",
+      "genre": "d'n'b",
+      "id": 357,
+      "level": 7,
+      "title": "Vlll -Lachesis- [Another]"
+    },
+    {
+      "artist": "Urban Techno Cafe / obj:arufis",
+      "genre": "NRG",
+      "id": 358,
+      "level": 7,
+      "title": "orbit (7keyA mania of mania mix)"
+    },
+    {
+      "artist": "Gun string",
+      "genre": "Mixture",
+      "id": 359,
+      "level": 7,
+      "title": "I believe -EX-"
+    },
+    {
+      "artist": "orangentle / deadblue238 / Note:\u8584\u674f",
+      "genre": "Dissociative Identity Disorder",
+      "id": 360,
+      "level": 7,
+      "title": "HAELEQUIN [EX]"
+    },
+    {
+      "artist": "\u30ab\u30e9\u30d5\u30eb\u30fb\u30b5\u30a6\u30f3\u30ba\u30fb\u30dd\u30fc\u30c8 / \u811a\u672c:\u8584\u674f",
+      "genre": "ANIME POP",
+      "id": 361,
+      "level": 7,
+      "title": "ETERNAL DRAIN \u300c\u7b2c\u4e00\u8a71 \u767a\u72c2\u8b5c\u9762\u300d"
+    },
+    {
+      "artist": "ZUN Remixed by rider obj:Ark-Z",
+      "genre": "JUMPSTYLE",
+      "id": 362,
+      "level": 7,
+      "title": "DEEP MARINE STRIKER -DEEP SINKER-"
+    },
+    {
+      "artist": "\u30d4\u30e8\u30b9\u30b1 / air",
+      "genre": "PoPStepS",
+      "id": 363,
+      "level": 7,
+      "title": "P-ChicK-ParK(\u30fb\u25c7\u30fb) [ANOTHER+]"
+    },
+    {
+      "artist": "\u306d\u3053\u307f\u307f\u9b54\u6cd5\u4f7f\u3044 obj:WAYA",
+      "genre": "pop",
+      "id": 364,
+      "level": 7,
+      "title": "Moon phase Encounter (\u6708\u9762\u65c5\u884c)"
+    },
+    {
+      "artist": "wa. obj:Fender",
+      "genre": "OMNIVERSE",
+      "id": 365,
+      "level": 7,
+      "title": "\u4e8b\u8c61\u306e\u5730\u5e73 [F]"
+    },
+    {
+      "artist": "nmk obj:Fender vs \u79d8\u5bc6",
+      "genre": "ArtCore",
+      "id": 366,
+      "level": 7,
+      "title": "sola [Fi]"
+    },
+    {
+      "artist": "SioN / \u7be0\u4e43\u3061\u3088 obj:Fender",
+      "genre": "Solitude Melodic Trance",
+      "id": 367,
+      "level": 7,
+      "title": "\u5fc3\u58ca\u306e\u30a2\u30ac\u30eb\u30de\u30c8\u30d5\u30a3\u30ea\u30a2 [F]"
+    },
+    {
+      "artist": "paraoka / BGA ers /obj.D-BLUE",
+      "genre": "bigbeat(7key)",
+      "id": 368,
+      "level": 7,
+      "title": "witchcraft -EX7-"
+    },
+    {
+      "artist": "s-don / kkkfff2/obj.poly hi-low",
+      "genre": "Last Day",
+      "id": 369,
+      "level": 7,
+      "title": "Meteor Lights [JUDGMENT]"
+    },
+    {
+      "artist": "Yu^ta w. Satoguchi Yu / obj:Azel",
+      "genre": "Cut up Trance",
+      "id": 370,
+      "level": 7,
+      "title": "Neural Network [Append]"
+    },
+    {
+      "artist": "LiA obj:\u30e9\u30d4\u30b9",
+      "genre": "HAPPY HARD GENOXIDE",
+      "id": 371,
+      "level": 7,
+      "title": "\u4e16\u754c\u6bba\u622e\u30d6\u30e9\u30c3\u30c9\u30ed\u30fc\u30ba [ROSEBATTLER]"
+    },
+    {
+      "artist": "\u9ec4\u6cc9\u8def\u30c6\u30c2\u30fc\u30e2 / \u51fa\u524d\u00d7\u7be0\u4e43\u3061\u3088 obj. B_K",
+      "genre": "Flat design",
+      "id": 372,
+      "level": 7,
+      "title": "\u30ed\u30ea\u30ad\u30fc\u30c8 [\u30bf\u30a4\u30dd\u30b0\u30e9\u30d5\u30a3]"
+    },
+    {
+      "artist": "EBIMAYO / obj. B_K \u67cf\u99c5\u6771\u53e3\u304b\u3089\u5f92\u6b6910\u5206",
+      "genre": "GOODCORE",
+      "id": 373,
+      "level": 7,
+      "title": "GOODMEN [\u8e0f\u5341\u91cc\u99c5\u304b\u3089\u5f92\u6b6910\u5206]"
+    },
+    {
+      "artist": "\u03b1-2",
+      "genre": "INFLUX",
+      "id": 374,
+      "level": 7,
+      "title": "At the edge of dreams (FIERCE)"
+    },
+    {
+      "artist": "\u6d77\u79cb(Umiai) obj:0war1a",
+      "genre": "Short story",
+      "id": 375,
+      "level": 7,
+      "title": "\u6c88\u3093\u3060\u601d\u3044\u51fa\u3001\u6253\u3061\u4e0a\u3052\u3066 [Epic_fix]"
+    },
+    {
+      "artist": "Chitose (Movie:zue-row) / obj:\u30e9\u30d4\u30b9 vs K-SPIN",
+      "genre": "World/Crossover",
+      "id": 376,
+      "level": 7,
+      "title": "Musica de Aves [windmill]"
+    },
+    {
+      "artist": "MUE / mov : Lyrebird Ferdinant obj:krg vs \u79d8\u5bc6",
+      "genre": "Ethnic House",
+      "id": 377,
+      "level": 7,
+      "title": "Danse de Romani [Professional]"
+    },
+    {
+      "artist": "polycube mov : \u30ec\u30af / obj : ELIGOS",
+      "genre": "ELECTRONIC DANCE",
+      "id": 378,
+      "level": 7,
+      "title": "Another [transcend]"
+    },
+    {
+      "artist": "ZUN(Arr.sun3)",
+      "genre": "MYSTIC SEQUENCER",
+      "id": 379,
+      "level": 8,
+      "title": "\u51a5\u754c\u5e30\u822a (ANOTHER)"
+    },
+    {
+      "artist": "SHIKI / black train",
+      "genre": "TRANCE CORE",
+      "id": 380,
+      "level": 8,
+      "title": "Air -AFOTHER-"
+    },
+    {
+      "artist": "honey princess",
+      "genre": "H.H.P(one more mix)",
+      "id": 381,
+      "level": 8,
+      "title": "LOVE\u2606BEAM (orange summer mix)"
+    },
+    {
+      "artist": "\u59c9\u30f6\u5d0e \u5be7\u3005 / obj:sok BGA : photonskyto",
+      "genre": "FULL ON",
+      "id": 382,
+      "level": 8,
+      "title": "ZENITHALIZE -LUMINOUS-"
+    },
+    {
+      "artist": "sound piercer / mov : deadblue238 illust by monicaNC & mzet:-P / obj by kireji",
+      "genre": "HAPPY HARDCORE",
+      "id": 383,
+      "level": 8,
+      "title": "Candy & Baguette [SP INSANE]"
+    },
+    {
+      "artist": "beatMARIO / obj: black train",
+      "genre": "HAPPY HARDCORE",
+      "id": 384,
+      "level": 8,
+      "title": "\u7d04\u675f -HappyHyperStarmiX- (AFOTHER)"
+    },
+    {
+      "artist": "wa. remixed celas / obj\uff1a18 BGA:TOHRU MiTSUHASHi",
+      "genre": "hard nrg",
+      "id": 385,
+      "level": 8,
+      "title": "\u9280\u306e\u98a8 [7keyANOTHER+]"
+    },
+    {
+      "artist": "shammy obj:\u7121\u8336\uff50&arufis",
+      "genre": "FINAL FANTASY \ufffdX",
+      "id": 386,
+      "level": 8,
+      "title": "\u30d3\u30c3\u30b0\u30d6\u30ea\u30c3\u30c2\u306e\u6b7b\u95d8 -EX-"
+    },
+    {
+      "artist": "Team:SASAKURATION /obj.D-BLUE",
+      "genre": "WORLDTRONICA",
+      "id": 387,
+      "level": 8,
+      "title": "\u30a8\u30d4\u30c8\u30a5\u30ea\u30ab\u306e\u7940 [MANIAC]"
+    },
+    {
+      "artist": "tarolabo BGA:140 http://d.hatena.ne.jp/xki/",
+      "genre": "[dry Moon bass]",
+      "id": 388,
+      "level": 8,
+      "title": "\u5996\u6676\u96f6\u5f10 -\u03a9-"
+    },
+    {
+      "artist": "beatMARIO /A-zert",
+      "genre": "EURO BEAT(7Line Maniac)",
+      "id": 389,
+      "level": 8,
+      "title": "\u5c11\u5973\u306e\u6abb \"Last Night, Last Dancing.\""
+    },
+    {
+      "artist": "HOUJIROU",
+      "genre": "JP-S RAVE",
+      "id": 390,
+      "level": 8,
+      "title": "\u821e\u59eb \u301cbuki\u301c\u3000 [7key AFOTHER]"
+    },
+    {
+      "artist": "ZUN(Arr.sun3)",
+      "genre": "MYSTIC SEQUENCER",
+      "id": 391,
+      "level": 8,
+      "title": "\u5f7c\u5cb8\u5e30\u822a -idling mix-"
+    },
+    {
+      "artist": "\u30c4\u30ca\u30de\u30e8\u3061\u3083\u3093 / obj: black train",
+      "genre": "\u6728\u5de5\u30dc\u30f3\u30c9\u30aa\u30d6\u30b8\u30a7",
+      "id": 392,
+      "level": 8,
+      "title": "Bird Sprite -D.K.R. mix- (maniaq)"
+    },
+    {
+      "artist": "SHIKI/-45 / black train",
+      "genre": "TRANCE",
+      "id": 393,
+      "level": 8,
+      "title": "SEPIA -MANIAQ-"
+    },
+    {
+      "artist": "SHIKI // BGA:\u3042\u304b\u304f\u3089\u3052 & M.H /obj.D-BLUE",
+      "genre": "HAPPY HARDCORE(7key)",
+      "id": 394,
+      "level": 8,
+      "title": "Endless Dream -Maniac-"
+    },
+    {
+      "artist": "MASA (obj.mp)",
+      "genre": "trance core",
+      "id": 395,
+      "level": 8,
+      "title": "Moonless Night (7KEY-MANIAC)"
+    },
+    {
+      "artist": "Project Necro Fantasia / obj:arufis",
+      "genre": "orientali",
+      "id": 396,
+      "level": 8,
+      "title": "\u30d6\u30af\u30ec\u30b7\u30e5\u30c6\u30a3\u306e\u4eba\u5f62\u5e2b -H\u306a\u4eba-"
+    },
+    {
+      "artist": "\u304f\u3063\u3061\u30fc / \u3042\u3063\u304d\u30fc",
+      "genre": "PIANO CONCERTO",
+      "id": 397,
+      "level": 8,
+      "title": "Remilia \u301c\u5438\u8840\u9b3c\u306e\u70ba\u306e\u5354\u594f\u66f2 [ANOTHER]"
+    },
+    {
+      "artist": "AKITO / obj:arufis",
+      "genre": "JP-SPIRITUAL POP",
+      "id": 398,
+      "level": 8,
+      "title": "\u685c\u83ef\u6708 [7key Extra]"
+    },
+    {
+      "artist": "wint / obj: black train",
+      "genre": "HYPER EURO RAVE",
+      "id": 399,
+      "level": 8,
+      "title": "Red-rize \"B172 mix\" // 7keys ManiaQ"
+    },
+    {
+      "artist": "Musical Masterpiece / obj: G-MENS",
+      "genre": "PRELUDE",
+      "id": 400,
+      "level": 8,
+      "title": "Retroactive Rain (ANOTHER+)"
+    },
+    {
+      "artist": "\u732b\u87f9\u4e38 / obj:black train",
+      "genre": "SawAmbient",
+      "id": 401,
+      "level": 8,
+      "title": "5.1.1(ReMix) [ManiaQ]"
+    },
+    {
+      "artist": "yuika yoshioka /obj lushe",
+      "genre": "Ambient(bmp)",
+      "id": 402,
+      "level": 8,
+      "title": "\u6681\u6708\u301c\u84bc\u3044\u5922 \u5922\u3046\u3064\u3064 (kuso edition)"
+    },
+    {
+      "artist": "orangentle / obj: black train",
+      "genre": "Lounge Pop",
+      "id": 403,
+      "level": 8,
+      "title": "l'amour d'amour --- AFOTHER"
+    },
+    {
+      "artist": "kawasaki under ground / ds",
+      "genre": "HARD TECHNO",
+      "id": 404,
+      "level": 8,
+      "title": "carnot (EX)"
+    },
+    {
+      "artist": "Auratus / A.M. / obj.swa",
+      "genre": "Psytrance",
+      "id": 405,
+      "level": 8,
+      "title": "Vorota [sLUNATIC]"
+    },
+    {
+      "artist": "daisan /\u5dee\u5206\u3000\u8d64\u3044\u4eba",
+      "genre": "IDM",
+      "id": 406,
+      "level": 8,
+      "title": "\u5929\u4e0a\u306e\u30dd\u30ea\u30b9\u30eb\u30a4\u30f3 [HARDEST]"
+    },
+    {
+      "artist": "\u30de\u30ad\u30ca",
+      "genre": "techno",
+      "id": 407,
+      "level": 8,
+      "title": "PuppyMill (Another)"
+    },
+    {
+      "artist": "otokaz",
+      "genre": "Shuffle Pop [EX7]",
+      "id": 408,
+      "level": 8,
+      "title": "STEPPING WIND -Wake Full Style-"
+    },
+    {
+      "artist": "ridis / obj:black train",
+      "genre": "intelligence",
+      "id": 409,
+      "level": 8,
+      "title": "x-Aria -afother-"
+    },
+    {
+      "artist": "dai / obj-7RIN",
+      "genre": "House",
+      "id": 410,
+      "level": 8,
+      "title": "Under The Sunshine -ANOTHER7-"
+    },
+    {
+      "artist": "Urban Techno Cafe / obj:arufis",
+      "genre": "NRG",
+      "id": 411,
+      "level": 8,
+      "title": "orbit -EX- (mania of mania mix)"
+    },
+    {
+      "artist": "Lime /\u5dee\u5206\u3000\u8d64\u3044\u4eba",
+      "genre": "Rosso Phantasma",
+      "id": 412,
+      "level": 8,
+      "title": "Ophelia [HARD]"
+    },
+    {
+      "artist": "DJ TAKUAN \u53ca\u3073 \u767d\u7fbd\u7f8e\u4f9d / obj:tzv",
+      "genre": "J\u30cf\u30c3\u30d4\u30b3\uff01",
+      "id": 413,
+      "level": 8,
+      "title": "HAPPY\u2606LUCKY\u2606BABY [Blissful]"
+    },
+    {
+      "artist": "\u3042\u308b\u3055\u3093",
+      "genre": "European-Latin",
+      "id": 414,
+      "level": 8,
+      "title": "Bohemian Chic [SP INSANE]"
+    },
+    {
+      "artist": "adamthix",
+      "genre": "TECHNO",
+      "id": 415,
+      "level": 8,
+      "title": "res extensa [ANOTHER]"
+    },
+    {
+      "artist": "Andy Lee arranged by Saka-ROW\u7d44 arranged by \u30b9\u30c8\u30ed\u30fc/\u5dee\u5206 \u8d64\u3044\u4eba",
+      "genre": "Pop Rock",
+      "id": 416,
+      "level": 8,
+      "title": "L.D.(Rock Arrange Ver.) [HARD]"
+    },
+    {
+      "artist": "paraoka/bga-RED/ BANZAI",
+      "genre": "Progressive Breaks",
+      "id": 417,
+      "level": 8,
+      "title": "platinum garden -another7+-"
+    },
+    {
+      "artist": "DWM\u03c9",
+      "genre": "\u53e4\u4f1d\u65b0\u97fb\u4e8c\u5341\u6253\u3061",
+      "id": 418,
+      "level": 8,
+      "title": "\u767d\u5c71\u6bd4\ufffd\u76d7_ (ANOTHER)"
+    },
+    {
+      "artist": "-45 remixed by SABREMISSILE / akusil(mov) obj:Fender",
+      "genre": "GOTH FANTASIA",
+      "id": 419,
+      "level": 8,
+      "title": "\u6a1f\u8449(remix) [F]"
+    },
+    {
+      "artist": "Dr.A (BGA:\u516b\u5d8b OBJ:\u4e09\u4e00)",
+      "genre": "DRUMSTEP",
+      "id": 420,
+      "level": 8,
+      "title": "\u5148\u624b\u5fc5\u52dd\u6226\u95d8\u6a5f\u3000\u9cf3 -\u4e0a\u6607-"
+    },
+    {
+      "artist": "dawn-system\uff08\u9ece\u660e\u7d00\u884c\uff09 Vocal:\uff2f\uff32\uff29\u59eb / BGA:\u77f3\u738b\u30de\u30b5\u30c8 / obj : A",
+      "genre": "POPS / POST SOFT ROCK",
+      "id": 421,
+      "level": 8,
+      "title": "\u30de\u30b8\u30e7\u30ea\u30c6\u3078\u306e\u61a7\u308c\u3068\u30df\u30ce\u30ea\u30c6\u306e\u77dc\u6301"
+    },
+    {
+      "artist": "sak",
+      "genre": "ENIGMA",
+      "id": 422,
+      "level": 8,
+      "title": "UnFaked phantOm [EXTRA]"
+    },
+    {
+      "artist": "\u25cb\u25b3\u25a1 obj:krg",
+      "genre": "classic",
+      "id": 423,
+      "level": 8,
+      "title": "\u30a6\u30a3\u30ea\u30a2\u30e0\u30fb\u30c6\u30eb\u7b2c4\u90e8\u300c\u30b9\u30a4\u30b9\u8ecd\u968a\u306e\u884c\u9032\u300d -MANIAC-"
+    },
+    {
+      "artist": "STASTA TEKINA / obj:krg",
+      "genre": "Hi-TECH FULL ON",
+      "id": 424,
+      "level": 8,
+      "title": "Eisenschweif (SP Wahnsinnig)"
+    },
+    {
+      "artist": "\u307d\u3093\u304d\u3061 / \u3044\u3044\u9774",
+      "genre": "APOLLO",
+      "id": 425,
+      "level": 8,
+      "title": "\u30df\u30eb\u30ad\u30fc\u30d9\u30ea\u30fc\u30fb\u30b9\u30a6\u30a3\u30fc\u30c8\u30bf\u30a4\u30e0 [Eb]"
+    },
+    {
+      "artist": "siromaru / Mentalstock",
+      "genre": "schranz",
+      "id": 426,
+      "level": 9,
+      "title": "Absurd Gaff [Another]"
+    },
+    {
+      "artist": "\u306d\u3053\u307f\u307f\u9b54\u6cd5\u4f7f\u3044 / obj: black train",
+      "genre": "HappY PoPcorN(AFOTHER7)",
+      "id": 427,
+      "level": 9,
+      "title": "\u2605LittlE HearTs\u2605 (AFOTHER)"
+    },
+    {
+      "artist": "fether",
+      "genre": "kirby dirge [crazy7]",
+      "id": 428,
+      "level": 9,
+      "title": "\u30d4\u30a2\u30ce\u5354\u594f\u66f2\u7b2c\uff11\u756a\"\u880d\u706b\"\uff08\u306a\u3093\u3067\u3082\u5438\u3044\u8fbc\u3080\u30d4\u30f3\u30af\u8272\u306e\u305f\u3081\u306e\uff09"
+    },
+    {
+      "artist": "Magic Mash Man / New Genuine Magicial Girl / obj:Paz_L",
+      "genre": "Chaos fantasia",
+      "id": 429,
+      "level": 9,
+      "title": "AXION [INSANE]"
+    },
+    {
+      "artist": "Is-m BGA:coda",
+      "genre": "INFINITY",
+      "id": 430,
+      "level": 9,
+      "title": "MooN -SP ANOTHER-"
+    },
+    {
+      "artist": "Grand Thaw / obj:Risky*",
+      "genre": "Sound Track",
+      "id": 431,
+      "level": 9,
+      "title": "ERIS \uff08Another+\uff09"
+    },
+    {
+      "artist": "SHIKI / obj: JEYSON",
+      "genre": "TRANCE",
+      "id": 432,
+      "level": 9,
+      "title": "Lapis [FRIDAY]"
+    },
+    {
+      "artist": "\u3057\u3089\u3044\u3057",
+      "genre": "Classical",
+      "id": 433,
+      "level": 9,
+      "title": "\u5343\u5e74\u5973\u738b [Hyper]"
+    },
+    {
+      "artist": "\u3042\u3084\u3081\u266a obj:\u30ab\u30f3\u30c0\u30bf",
+      "genre": "Game Music",
+      "id": 434,
+      "level": 9,
+      "title": "\uff24\uff31\ufffdV\u3000Battle -Normal-"
+    },
+    {
+      "artist": "sun3",
+      "genre": "GAME MUSIC",
+      "id": 435,
+      "level": 9,
+      "title": "shooting_moon (Phantasm)"
+    },
+    {
+      "artist": "\u88cf \u5409 \u5ddd",
+      "genre": "t r a n c e",
+      "id": 436,
+      "level": 9,
+      "title": "A c i - L - A"
+    },
+    {
+      "artist": "234 (obj.mp)",
+      "genre": "HAPPY HARDCORE",
+      "id": 437,
+      "level": 9,
+      "title": "Blue-White Crazybits [ANOTHER-]"
+    },
+    {
+      "artist": "nmk / obj:Sena",
+      "genre": "VALKYRIE PROFILE II",
+      "id": 438,
+      "level": 9,
+      "title": "Alicia [SP Black-A]"
+    },
+    {
+      "artist": "cranky / obj: black train",
+      "genre": "RAVE",
+      "id": 439,
+      "level": 9,
+      "title": "Party 4U (MANIAQ)"
+    },
+    {
+      "artist": "\u306d\u3053\u3072\u3081\u305f\u3093",
+      "genre": "\u30c6\u30af\u30ce",
+      "id": 440,
+      "level": 9,
+      "title": "\u30b9\u30d7\u30e9\u30c3\u30b7\u30e5\u30b3\u30fc\u30c9\u2212\uff10\uff16 [ANOTHER7]"
+    },
+    {
+      "artist": "\u7f8e\u6708 \u6b63 (obj.mp)",
+      "genre": "romantix",
+      "id": 441,
+      "level": 9,
+      "title": "E reviver -imaging you- (MANIAC)"
+    },
+    {
+      "artist": "sun3",
+      "genre": "GAME MUSIC",
+      "id": 442,
+      "level": 9,
+      "title": "Lunatic of the Full-Moon (EX7)"
+    },
+    {
+      "artist": "Symphonian",
+      "genre": "Gabba",
+      "id": 443,
+      "level": 9,
+      "title": "Wild Clown (7key-SH)"
+    },
+    {
+      "artist": "Hate \u00d7 Ritsu \u00d7 Salita/\u3055 Douglas \u00d7 Mentalstock",
+      "genre": "A-Rock",
+      "id": 444,
+      "level": 9,
+      "title": "\u67b6\u7a7a\u30e6\u30ea\u30ab\u30b4\u3000 [SABOTHER]"
+    },
+    {
+      "artist": "MASA / y",
+      "genre": "trance",
+      "id": 445,
+      "level": 9,
+      "title": "Noah's Ark (another7)"
+    },
+    {
+      "artist": "D/\u3055",
+      "genre": "ENCORE",
+      "id": 446,
+      "level": 9,
+      "title": "MANIERA (SABOTHER)"
+    },
+    {
+      "artist": "recognize m. / helix / blacktrain",
+      "genre": "EPIC TRANCE",
+      "id": 447,
+      "level": 9,
+      "title": "A BEAUTIFUL SKY -OB style- MANIAQ"
+    },
+    {
+      "artist": "\u30ab\u30e9\u30d5\u30eb\u30fb\u30b5\u30a6\u30f3\u30ba\u30fb\u30dd\u30fc\u30c8/\u5dee\u5206\u3000\u8d64\u3044\u4eba",
+      "genre": "TECHNO POP",
+      "id": 448,
+      "level": 9,
+      "title": "KISS CANDY FLAVOR [HARDEST]"
+    },
+    {
+      "artist": "\u524a\u9664 / Mentalstock obj by sound piercer",
+      "genre": "Overture / IDM",
+      "id": 449,
+      "level": 9,
+      "title": "VALLISTA [SP-RX ANOTHER]"
+    },
+    {
+      "artist": "SHIKI / obj:Risky*",
+      "genre": "HARD RENAISSANCE",
+      "id": 450,
+      "level": 9,
+      "title": "BABYLON [7ANOTHER+]"
+    },
+    {
+      "artist": "sasakure.UK / air",
+      "genre": "World Orchestra",
+      "id": 451,
+      "level": 9,
+      "title": "Pangaea [air mix]"
+    },
+    {
+      "artist": "D.J.Nero",
+      "genre": "RENAISSANCE",
+      "id": 452,
+      "level": 9,
+      "title": "S [ANOTHER]"
+    },
+    {
+      "artist": "\u5929\u97f3 / obj:SUKIMA",
+      "genre": "Drum 'n' ambient",
+      "id": 453,
+      "level": 9,
+      "title": "\u305d\u306e\u65af\u304f\u3082\u7f8e\u3057\u304d\u7d05\u306b"
+    },
+    {
+      "artist": "-45",
+      "genre": "Occultic/7key EX",
+      "id": 454,
+      "level": 9,
+      "title": "Bloody Malie -Ex-"
+    },
+    {
+      "artist": "sound piercer feat.Ritsu / obj.swa mov : kkkfff2 & G-2000",
+      "genre": "Progressive Fantasia",
+      "id": 455,
+      "level": 9,
+      "title": "\u611b\u3068\u7169\u60a9\u3068\u8f2a\u5efb\u3068\u5e38\u8b58\u306e\u6975\u5f69\u4e16\u754c [\u76bf\u3068\u4e71\u6253\u3068\u968e\u6bb5\u3068\u7e26\u9023\u306e\u540c\u6642\u62bc\u4e16\u754c]"
+    },
+    {
+      "artist": "sun3 / BGA:Johnny",
+      "genre": "GAME MUSIC",
+      "id": 456,
+      "level": 9,
+      "title": "\u30c6\u30a3\u30a2\u30aa\u30a4\u30a8\u30c4\u30a9\u30f3 (Extra7)"
+    },
+    {
+      "artist": "The Dear Sexys/obj.poly",
+      "genre": "RAVE",
+      "id": 457,
+      "level": 9,
+      "title": "Luv 5 Dancer [EXHAUST]"
+    },
+    {
+      "artist": "maxXx65535",
+      "genre": "Psychedelic Trance",
+      "id": 458,
+      "level": 9,
+      "title": "Uncle Arabian (7-Extra)"
+    },
+    {
+      "artist": "tcheb / mov:Roaring Flame / Illust:\u3086\u30fc\u307e\u3002 obj:Fender",
+      "genre": "Renaissance Core",
+      "id": 459,
+      "level": 9,
+      "title": "Shade of Gloria [F]"
+    },
+    {
+      "artist": "Chitose / obj : LTFE\u266a",
+      "genre": "Cyber hymn breaks",
+      "id": 460,
+      "level": 9,
+      "title": "Lucifer"
+    },
+    {
+      "artist": "p_d Artwork : \u3075\u308a\u3063\u3068\u2605 / obj:Fender vs BAECON",
+      "genre": "SPRING CORE",
+      "id": 461,
+      "level": 9,
+      "title": "Dandelion Sparkle!! [FB]"
+    },
+    {
+      "artist": "Zekk mov : L.Ferdinant / obj : MOYAP",
+      "genre": "HAPPY HARDCORE",
+      "id": 462,
+      "level": 9,
+      "title": "Merry-Go-Round [El Dorado]"
+    },
+    {
+      "artist": "Yu^ta \u306b\u3083",
+      "genre": "\u7802\u5229",
+      "id": 463,
+      "level": 9,
+      "title": "\u306b\u3083 [\u3042\u305a\u306b\u3083\u3056\u2192]"
+    },
+    {
+      "artist": "Puru / kkkfff2 obj.B_K",
+      "genre": "Future Bass",
+      "id": 464,
+      "level": 9,
+      "title": "Homura [AKEMI]"
+    },
+    {
+      "artist": "\u306d\u3053\u304b\u3076\u308a\u30b5\u30a4\u30af\u30ed\u30f3(xi+\u306d\u3053\u307f\u308a\u3093) feat.\u3048\u307f\u3085\u3046\u3002 obj:K-SPIN+Lapis",
+      "genre": "BRAVE",
+      "id": 465,
+      "level": 9,
+      "title": "After Burner [Departure]"
+    },
+    {
+      "artist": "Feryquitous Sennzai / Dazzle / Cymby",
+      "genre": "Rezive Out",
+      "id": 466,
+      "level": 9,
+      "title": "Strahv -Encore-"
+    },
+    {
+      "artist": "siromaru/obj by \u84b2\u713c\u3055\u3093\u592a\u90ce",
+      "genre": "schranz",
+      "id": 467,
+      "level": 9,
+      "title": "symbolic gear [fk7]"
+    },
+    {
+      "artist": "TOMA v.s. DJ Saw-Low / respect for 29",
+      "genre": "FREEDOM HARDCORE",
+      "id": 468,
+      "level": 9,
+      "title": "niKu [0209Another]"
+    },
+    {
+      "artist": "sound piercer / obj.siokaze",
+      "genre": "Pop Rock",
+      "id": 469,
+      "level": 9,
+      "title": "Castorpollux [MANIAQ]"
+    },
+    {
+      "artist": "Music : Lunatic Sounds / BGA : Photonskyto obj:SUZUKAZE\u039b",
+      "genre": "ArtCore",
+      "id": 470,
+      "level": 9,
+      "title": "DataErr0r [ZOI]"
+    },
+    {
+      "artist": "kanone / obj.swa",
+      "genre": "Hi-NRGTECH Trance",
+      "id": 471,
+      "level": 9,
+      "title": "CO5M1C R4ILR0AD [ON3 M0RE 3XTR4]"
+    },
+    {
+      "artist": "LV.4 (obj.mp)",
+      "genre": "HARD NRG",
+      "id": 472,
+      "level": 10,
+      "title": "Angel dust [7key//Maniac]"
+    },
+    {
+      "artist": "xi",
+      "genre": "APOCALYPSIS JOHANNIS",
+      "id": 473,
+      "level": 10,
+      "title": "Parousia [ANOTHER]"
+    },
+    {
+      "artist": "t+pazolite",
+      "genre": "Happy Hardcore -7 AFO-",
+      "id": 474,
+      "level": 10,
+      "title": "Little \"Sister\" Bitch"
+    },
+    {
+      "artist": "BACO / bga : kody",
+      "genre": "Psychedelic Trance",
+      "id": 475,
+      "level": 10,
+      "title": "Brain Analysis [7KEYS ANOTHER]"
+    },
+    {
+      "artist": "syatten / air",
+      "genre": "European Trance",
+      "id": 476,
+      "level": 10,
+      "title": "aliceblue (Radio Edit) (SP EX++)"
+    },
+    {
+      "artist": "ZUN(Arr.sun3) / air",
+      "genre": "Trance core",
+      "id": 477,
+      "level": 10,
+      "title": "\u6708\u6642\u8a08\u3000Last\u30fbDial (MANIAC)"
+    },
+    {
+      "artist": "SHIKI",
+      "genre": "J-EURO",
+      "id": 478,
+      "level": 10,
+      "title": "CHASER [EX]"
+    },
+    {
+      "artist": "Cres obj:mattun",
+      "genre": "ReQuiEm tRanCe",
+      "id": 479,
+      "level": 10,
+      "title": "End Time -Extra-"
+    },
+    {
+      "artist": "xi / obj:\u306d\u3077\u5b50",
+      "genre": "RENAISSANCE HARDCORE",
+      "id": 480,
+      "level": 10,
+      "title": "Halcyon [PLANETUNE]"
+    },
+    {
+      "artist": "MONO / obj:SUKIMA",
+      "genre": "TRANCE -Fantasm-",
+      "id": 481,
+      "level": 10,
+      "title": "Fantasmagoria -\u9699\u9593-"
+    },
+    {
+      "artist": "Y.W",
+      "genre": "BATTLE IMAGING /// 7KEYS BOSS",
+      "id": 482,
+      "level": 10,
+      "title": "Pokemon battle imaging - No.3"
+    },
+    {
+      "artist": "#\u306d\u3053\u305314\u6b73(obj:Player\u03b2)",
+      "genre": "kirby pop",
+      "id": 483,
+      "level": 10,
+      "title": "\u2606 \u3055\u304f\u3089\u306a\u307f\u304d\u306e\u304b\u305c \u2606 foon7"
+    },
+    {
+      "artist": "campanellina",
+      "genre": "\u30b9\u30da\u30e9\u30f3\u30c4\u30a1",
+      "id": 484,
+      "level": 10,
+      "title": "\u6708\u3068\u72fc\u3068\u7802\u7cd6\u83d3\u5b50"
+    },
+    {
+      "artist": "xi / obj:Risky*",
+      "genre": "RENAISSANCE HARDCORE",
+      "id": 485,
+      "level": 10,
+      "title": "Halcyon [ANOTHER+]"
+    },
+    {
+      "artist": "\u88cf \u5409 \u5ddd / obj:arufis",
+      "genre": "t r a n c e",
+      "id": 486,
+      "level": 10,
+      "title": "A c i - L - An...um..."
+    },
+    {
+      "artist": "sun3",
+      "genre": "HAPPY HARDCORE",
+      "id": 487,
+      "level": 10,
+      "title": "\u30e9\u30b9\u30fb\u30ea\u30b0 (---)"
+    },
+    {
+      "artist": "ZUN(Arr.sun3) (obj.mp)",
+      "genre": "drum&synth",
+      "id": 488,
+      "level": 10,
+      "title": "Fate/fete (MANIAC)"
+    },
+    {
+      "artist": "kurena",
+      "genre": "RENAISSANCE",
+      "id": 489,
+      "level": 10,
+      "title": "Ruins Ray (Assaultics)"
+    },
+    {
+      "artist": "daiji+lobsak remix aki",
+      "genre": "tance pop",
+      "id": 490,
+      "level": 10,
+      "title": "Flowers (802 edit)"
+    },
+    {
+      "artist": "MASA / air",
+      "genre": "trance",
+      "id": 491,
+      "level": 10,
+      "title": "\u590f\u591c\u306e\u30ce\u30b9\u30bf\u30eb\u30b8\u30a2 (7KEY-MANIAC)"
+    },
+    {
+      "artist": "MASA (obj.mp)",
+      "genre": "trance core",
+      "id": 492,
+      "level": 10,
+      "title": "Moonless Night (7KEY-MANIAC+)"
+    },
+    {
+      "artist": "\u6e90\u5c4b (obj.mp)",
+      "genre": "Trancepop",
+      "id": 493,
+      "level": 10,
+      "title": "Cry-for BMS Mix- [7KEYS Maniac]"
+    },
+    {
+      "artist": "LV.4/A-zert",
+      "genre": "Nostalgic Trance",
+      "id": 494,
+      "level": 10,
+      "title": "Endless Journey [7key//End]"
+    },
+    {
+      "artist": "\u306a\u304a\u304d\u3061 / obj:arufis",
+      "genre": "\u30c6\u30af\u30ce\u30dd\u30c3\u30d7(EX)",
+      "id": 495,
+      "level": 10,
+      "title": "PopCoRian -EX-"
+    },
+    {
+      "artist": "BACO",
+      "genre": "TRANCE REQUIEM",
+      "id": 496,
+      "level": 10,
+      "title": "SUPERNOVA [EX]"
+    },
+    {
+      "artist": "otokaze / 29",
+      "genre": "kirby pop",
+      "id": 497,
+      "level": 10,
+      "title": "mytht lu cltte [29Another]"
+    },
+    {
+      "artist": "SHOCK.C",
+      "genre": "Asian Breaks",
+      "id": 498,
+      "level": 10,
+      "title": "Continent Storm [ANOTHER7]"
+    },
+    {
+      "artist": "Yamajet BGA:cyclia",
+      "genre": "Techno",
+      "id": 499,
+      "level": 10,
+      "title": "drivin'FTR [7keys EX]"
+    },
+    {
+      "artist": "Est/\u3055",
+      "genre": "ELECTROSHOCK",
+      "id": 500,
+      "level": 10,
+      "title": "phyla (SABOTHER)"
+    },
+    {
+      "artist": "zun bms:\u4e59UN",
+      "genre": "\u6771\u65b9\u5996\u3005\u5922",
+      "id": 501,
+      "level": 10,
+      "title": "\u5e7d\u96c5\u306b\u54b2\u304b\u305b\u3001\u58a8\u67d3\u306e\u685c [NORMAL-]"
+    },
+    {
+      "artist": "\u30ce\u30a2",
+      "genre": "wahoo pop",
+      "id": 502,
+      "level": 10,
+      "title": "dreamy traveler [NIGHTMARE7]"
+    },
+    {
+      "artist": "\u7be0\u87ba\u60a0\u90a3 feat. \u9bdb\u306e\u5c0f\u9aa8 / ck",
+      "genre": "Euro Rave",
+      "id": 503,
+      "level": 10,
+      "title": "Imperishable Night 2006 [+2]"
+    },
+    {
+      "artist": "\u79cb\u5c71 \u6faa/obj_jakko Notes:\u5e73\u6ca2 \u6182",
+      "genre": "hard nrg",
+      "id": 504,
+      "level": 10,
+      "title": "\u6c34\u6676\u4e16\u754c \u301cFracture\u301c [Insane]"
+    },
+    {
+      "artist": "nez / mew",
+      "genre": "Happy HardCore",
+      "id": 505,
+      "level": 10,
+      "title": "That's the style!! (MODEL PS7 OMHC inspire)"
+    },
+    {
+      "artist": "Yusuke Takeuchi /+-",
+      "genre": "d'n'b",
+      "id": 506,
+      "level": 10,
+      "title": "Vlll -Lachesis-"
+    },
+    {
+      "artist": "sasakure.UK obj;\u6c5f\u6fa4",
+      "genre": "LAMENT",
+      "id": 507,
+      "level": 10,
+      "title": "Merry Christmas Mr.Lawrence"
+    },
+    {
+      "artist": "cittan* / obj.ejl6",
+      "genre": "ANTHEM EUPHORIA",
+      "id": 508,
+      "level": 10,
+      "title": "Leviathan (SP HEXAEMERON+)"
+    },
+    {
+      "artist": "naotyu- / iimode-do/\u3055",
+      "genre": "Progressive Fusion",
+      "id": 509,
+      "level": 10,
+      "title": "L99 (BGA Remake) -EX-"
+    },
+    {
+      "artist": "Is-m & muramasa",
+      "genre": "MINIMAL",
+      "id": 510,
+      "level": 10,
+      "title": "remote control\u21d2"
+    },
+    {
+      "artist": "Junk / obj:kneas BGA : YARITA",
+      "genre": "TRANCE",
+      "id": 511,
+      "level": 10,
+      "title": "The Formula [Rea'du]"
+    },
+    {
+      "artist": "yassu feat. \u5c0f\u5bae\u771f\u592e one goat / \u5948\u90a3\u6a39",
+      "genre": "J-Rock",
+      "id": 512,
+      "level": 10,
+      "title": "IRREPLACEBLE THINGS [NANATHER]"
+    },
+    {
+      "artist": "Musical Masterpiece",
+      "genre": "PROGRESSIVE JAZZ",
+      "id": 513,
+      "level": 10,
+      "title": "Vacant Between You and Me (FOOLISH)"
+    },
+    {
+      "artist": "TetraElemental obj:Fender",
+      "genre": "EMOTIONAL TRANCECORE",
+      "id": 514,
+      "level": 10,
+      "title": "Ultimate Weapon [F]"
+    },
+    {
+      "artist": "anubasu-anubasu/obj_jakko BGA by \u51fa\u524d",
+      "genre": "RAVE / HARD DANCE",
+      "id": 515,
+      "level": 10,
+      "title": "Jack o' Lantern [UltimateRAVE]"
+    },
+    {
+      "artist": "8284 / \u5dee\u5206 \u8d64\u3044\u4eba",
+      "genre": "CYBER ENERGETIC TRANCE",
+      "id": 516,
+      "level": 10,
+      "title": "Central Nucleus [HARDEST]"
+    },
+    {
+      "artist": "NIKITA / misokabocha / obj. Cloudy Boy",
+      "genre": "SYMPHONIC BREAK BEATS",
+      "id": 517,
+      "level": 10,
+      "title": "\u5922\u3001\u5e7b\u3002 [7_cloudy]"
+    },
+    {
+      "artist": "\u30e2\u30ea\u30e2\u30ea\u3042\u3064\u3057 bga.HALLPBE.S / obj.LAPIS vs sne",
+      "genre": "HARD RENAISSANCE",
+      "id": 518,
+      "level": 10,
+      "title": "PUPA [LAPITHER]"
+    },
+    {
+      "artist": "\u304f\u3063\u3061\u30fc / obj.siokaze",
+      "genre": "CHINCORE",
+      "id": 519,
+      "level": 10,
+      "title": "\u3061\u3093\u3053\u97f3\u982d2012 [sabunnn]"
+    },
+    {
+      "artist": "fen/obj:BOKKI",
+      "genre": "LIQUID FUNK",
+      "id": 520,
+      "level": 10,
+      "title": "Ready to Go (^\u03c9^)"
+    },
+    {
+      "artist": "nmk feat.\u6a58\u82b1\u97f3 obj:naiya",
+      "genre": "EUROBEAT",
+      "id": 521,
+      "level": 10,
+      "title": "\u79c1\u306e\u30d2\u30c8\u30df [Na]"
+    },
+    {
+      "artist": "ZUN / Arranged by SANY-ON / obj:\u767a\u6c57BMS",
+      "genre": "SCHRANZ",
+      "id": 522,
+      "level": 10,
+      "title": "TIME LIMIT (bms edit) [7key 2052 fix]"
+    },
+    {
+      "artist": "Yu^ta obj:K-SPIN",
+      "genre": "Instrumental",
+      "id": 523,
+      "level": 10,
+      "title": "Rainy [Runother]"
+    },
+    {
+      "artist": "(^v^\u4eba) S(\u4ebacwe)S",
+      "genre": "Wet Rock",
+      "id": 524,
+      "level": 10,
+      "title": "Unexpected rewind [Messiah]"
+    },
+    {
+      "artist": "\u30a8\u30eb\u30ea\u9ce5 /obj.s",
+      "genre": "afterimage",
+      "id": 525,
+      "level": 10,
+      "title": "\u30b9\u30da\u30af\u30c8\u30e9\u30e0 -maniac-"
+    },
+    {
+      "artist": "Lime / \u6e29\u6cc9\u306e\u529b obj:ELIGOS",
+      "genre": "kawaiicore",
+      "id": 526,
+      "level": 10,
+      "title": "Harmony (*\uff61> \u00d7 <\uff61*\u4eba) \u2606\uff9f.*\uff65\uff61\uff9f"
+    },
+    {
+      "artist": "urimu / obj:nov Movie:inukoro",
+      "genre": "White Canvas / trancecore",
+      "id": 527,
+      "level": 10,
+      "title": "Snowdrop [nova]"
+    },
+    {
+      "artist": "\u30ab\u30e9\u30d5\u30eb\u30fb\u30b5\u30a6\u30f3\u30ba\u30fb\u30dd\u30fc\u30c8/obj.sitoras",
+      "genre": "CYBER POP",
+      "id": 528,
+      "level": 10,
+      "title": "Granblaze \u3010Sympho\u3011"
+    },
+    {
+      "artist": "\u8d64\u57ce obj:Fender",
+      "genre": "\u30a8\u30ca\u30b8\u30a7\u30c6\u30c3\u30af",
+      "id": 529,
+      "level": 10,
+      "title": "to Firmament [F]"
+    },
+    {
+      "artist": "Black Lotus obj:BAECON",
+      "genre": "Suffrutic Requiem",
+      "id": 530,
+      "level": 10,
+      "title": "suffruti [BLOODY FATE]"
+    },
+    {
+      "artist": "tarolabo / OK@GE",
+      "genre": "[Goa/Gore]",
+      "id": 531,
+      "level": 10,
+      "title": "\u6027\u7684\u731f\u5947\u7684\u7121\u610f\u5473 [7key_EX]"
+    },
+    {
+      "artist": "xi / obj:sarao3",
+      "genre": "\u30de\u30b8\u30c3\u30af\u30b8\u30e3\u30ba",
+      "id": 532,
+      "level": 10,
+      "title": "Beatrice [MANIAC]"
+    },
+    {
+      "artist": "HOUJIROU obj : \u53cc\u8449\u674f",
+      "genre": "SPEED CORE",
+      "id": 533,
+      "level": 10,
+      "title": "Buuuuuuurstraffic [1TB]"
+    },
+    {
+      "artist": "\u03b1-1",
+      "genre": "ALPHA SEQUENCER",
+      "id": 534,
+      "level": 10,
+      "title": "RISE AGAIN (ANOTHER)"
+    },
+    {
+      "artist": "\u304a\u307f\u30fc",
+      "genre": "MUSIC GAME TRANCE",
+      "id": 535,
+      "level": 10,
+      "title": "Shooting Silver Bullet [EX]"
+    },
+    {
+      "artist": "\u7f8e\u6708 \u6b63 / obj : E.S.T.",
+      "genre": "tribal beat",
+      "id": 536,
+      "level": 11,
+      "title": "\u5915\u51ea\u306e\u4e18 -Ex-"
+    },
+    {
+      "artist": "Arranged by Y.W",
+      "genre": "SYMPHONIC DANCE SPEED /// 7KEYS Lv100",
+      "id": 537,
+      "level": 11,
+      "title": "\u30dd\u30b1\u30c3\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc \u30d6\u30e9\u30c3\u30af\u30fb\u30db\u30ef\u30a4\u30c8 \u56db\u5929\u738b\u6226"
+    },
+    {
+      "artist": "TAK/A-zert",
+      "genre": "Techno",
+      "id": 538,
+      "level": 11,
+      "title": "Trinity [Extra]"
+    },
+    {
+      "artist": "knot / iimode-do /A-zert",
+      "genre": "Techno",
+      "id": 539,
+      "level": 11,
+      "title": "analog sky (Another7)"
+    },
+    {
+      "artist": "\u4e0a\u6749\u3046\u305f / air",
+      "genre": "uppertune",
+      "id": 540,
+      "level": 11,
+      "title": "\u65e7\u5730\u7344\u8857\u9053\u3092\u884c\u304f \u301c\u53cd\u9006\u306e\u30d1\u30eb\u30b9\u30a3\u301c [MANIAC]"
+    },
+    {
+      "artist": "beatMARIO / tomsfir / black train",
+      "genre": "HyperEuroBeat(MANIAQ)",
+      "id": 541,
+      "level": 11,
+      "title": "Last! Least! Regrets!! (MANIAQ)"
+    },
+    {
+      "artist": "((LMB))  obj:WAYA",
+      "genre": "SuperNOVA BEAT",
+      "id": 542,
+      "level": 11,
+      "title": "%E3%83%96%E3%83%B3%E3%82%BF%E3%83%B3 \u301cFalling in \"B\" mix\u301c (\u6a39\u6d77)"
+    },
+    {
+      "artist": "SHiNKA / remixed by lavalse (obj.mp)",
+      "genre": "Trance",
+      "id": 543,
+      "level": 11,
+      "title": "STARDUST CITY -- Maniac"
+    },
+    {
+      "artist": "G.G obj:mattun",
+      "genre": "TRANCE",
+      "id": 544,
+      "level": 11,
+      "title": "zodiac -Extra-"
+    },
+    {
+      "artist": "P.E. / obj:BOKKI",
+      "genre": "TRANCE",
+      "id": 545,
+      "level": 11,
+      "title": "Central GRAY (^\u03c9^)"
+    },
+    {
+      "artist": "\u9ce9 / obj:A-zert",
+      "genre": "DarkBreaks",
+      "id": 546,
+      "level": 11,
+      "title": "Alastor [MANIAC7]"
+    },
+    {
+      "artist": "#\u306d\u3053\u305314\u6b73(obj:\u3070\u307f\u3085)",
+      "genre": "kirby pop",
+      "id": 547,
+      "level": 11,
+      "title": "\u2606 \u3055\u304f\u3089\u306a\u307f\u304d\u306e\u304b\u305c \u2606 (plus system#4 palette style)"
+    },
+    {
+      "artist": "\u304d\u306e\u3053\u301c\u305a(G.G with Anne-Ninne)",
+      "genre": "NOSTALGIC STAR TRANCE 2",
+      "id": 548,
+      "level": 11,
+      "title": "Betelgeuse -orion7-"
+    },
+    {
+      "artist": "-45/obj:NWN",
+      "genre": "",
+      "id": 549,
+      "level": 11,
+      "title": "Ena (Radio edit) -vaca-"
+    },
+    {
+      "artist": "Queen P.A.L. / obj:arufis",
+      "genre": "HYPER TECHNO",
+      "id": 550,
+      "level": 11,
+      "title": "Maharaja Trance -(\u2018\u76bf\u2018)-"
+    },
+    {
+      "artist": "naotyu- / obj  Risky*",
+      "genre": "2step",
+      "id": 551,
+      "level": 11,
+      "title": "#74 -7Another+-"
+    },
+    {
+      "artist": "\u524a\u9664 feat. void / \u6d6a\u6f2b\u6620\u50cf\u5236\u4f5c\u5036\u697d\u90e8 / obj : BAECON",
+      "genre": "Act / Wars",
+      "id": 552,
+      "level": 11,
+      "title": "Black Lair [SPADA]"
+    },
+    {
+      "artist": "the KB feat.takoP",
+      "genre": "hard rock",
+      "id": 553,
+      "level": 11,
+      "title": "B-T [7keys-maniac+]"
+    },
+    {
+      "artist": "snowdrop / 29",
+      "genre": "progressive jazz",
+      "id": 554,
+      "level": 11,
+      "title": "Sicilian Kiss [29Another]"
+    },
+    {
+      "artist": "\u814b\u4ea6 /A-zert",
+      "genre": "\u5927\u548c\u91d1\u5c5e",
+      "id": 555,
+      "level": 11,
+      "title": "\u65ac -\u540d\u5200\u6597\u7483\u6d41\uff08\u7cde\u4e03\uff09v1.1-"
+    },
+    {
+      "artist": "Junk feat.Salita obj:kneas",
+      "genre": "HYPER TRANCE",
+      "id": 556,
+      "level": 11,
+      "title": "Fly Again (bms edit) [Rea'du]"
+    },
+    {
+      "artist": "Gatia/\u3055",
+      "genre": "Happy Hardcore",
+      "id": 557,
+      "level": 11,
+      "title": "Meeting and Separation -Ex-"
+    },
+    {
+      "artist": "onoken/y",
+      "genre": "tribal euro",
+      "id": 558,
+      "level": 11,
+      "title": "BB BLOW -EX-"
+    },
+    {
+      "artist": "\u3057\u3089\u3044\u3057 /Obj:\u6708\u9580",
+      "genre": "",
+      "id": 559,
+      "level": 11,
+      "title": "\u5929\u53e2\u96f2\u5263 [Maniac]"
+    },
+    {
+      "artist": "mattaku/\u5dee\u5206\u3000\u8d64\u3044\u4eba",
+      "genre": "game music",
+      "id": 560,
+      "level": 11,
+      "title": "CHRONO TRIGGER \u301c\u4e16\u754c\u5909\u9769\u306e\u6642\u301c [HARDEST]"
+    },
+    {
+      "artist": "NS-Factory\u00d7deadblue238\u00d7hi-low/\u5dee\u5206 \u8d64\u3044\u4eba",
+      "genre": "Energetic Trance",
+      "id": 561,
+      "level": 11,
+      "title": "Infinite Galaxy [HARDEST]"
+    },
+    {
+      "artist": "vorbis / obj:nov",
+      "genre": "J-UK HARDCORE",
+      "id": 562,
+      "level": 11,
+      "title": "Ravers Rave Anthem II [nova]"
+    },
+    {
+      "artist": "SPELL BREAK/obj_jakko HEART BREAK",
+      "genre": "HARD DANCE",
+      "id": 563,
+      "level": 11,
+      "title": "Lambda Driver [ANOTHER+]"
+    },
+    {
+      "artist": "oxygen / obj:\u3042\u30fc\u3055\u3093",
+      "genre": "progressive_concert",
+      "id": 564,
+      "level": 11,
+      "title": "Wind -whirlpool-"
+    },
+    {
+      "artist": "ETIA./obj_jakko",
+      "genre": "SPEEDCORE",
+      "id": 565,
+      "level": 11,
+      "title": "HARDCORE MACHINEGUN [drrrTHER]"
+    },
+    {
+      "artist": "Hate \u00d7 tarolabo / obj:\u767a\u6c57BMS",
+      "genre": "LOUNGE HOUSE",
+      "id": 566,
+      "level": 11,
+      "title": "\u9000\u5c48\u30b7\u30f3\u30af\u30a2\u30ed\u30f3\u30b0 [\u767a\u6c57]"
+    },
+    {
+      "artist": "daisan / obj.swa",
+      "genre": "\u30b8\u30e3\u30b8\u30fc\u30d3\u30fc\u30c8",
+      "id": 567,
+      "level": 11,
+      "title": "ClowN CrowN [sLunatic]"
+    },
+    {
+      "artist": "\u30ce\u30af\u30c6\u30a3\u30b9\u30fb\u6c5f\u53e3\u30fb\u30c1\u30a7\u30e9\u30e0 obj:Fender",
+      "genre": "IRREGULAR HI-BREAK",
+      "id": 568,
+      "level": 11,
+      "title": "\u30d2\u30e1\u30bf\u30a4\u30d7 [F]"
+    },
+    {
+      "artist": "syzfonics / obj:NoName",
+      "genre": "Crossbreed",
+      "id": 569,
+      "level": 11,
+      "title": "BIAS (\u3075\u3064\u3046)"
+    },
+    {
+      "artist": "2X / obj.XYZ",
+      "genre": "Oriental Trance",
+      "id": 570,
+      "level": 11,
+      "title": "TEN"
+    },
+    {
+      "artist": "litmus*/obj_xert* mov : litmus* & L.Ferdinant / obj : xert*",
+      "genre": "Electro Dance House",
+      "id": 571,
+      "level": 11,
+      "title": "Scorpion Dance [XERTHER]"
+    },
+    {
+      "artist": "\u03c9",
+      "genre": "PRELUDE",
+      "id": 572,
+      "level": 11,
+      "title": "Lasting Dream (FOOLISH)"
+    },
+    {
+      "artist": "er obj:LIEF",
+      "genre": "Neo traditionalism",
+      "id": 573,
+      "level": 11,
+      "title": "\u30b9\u30fc\u30d1\u30fc\u30a4\u30b6\u30ca\u30ae\u30aa\u30d6\u30b8\u30a7\u30af\u30c8 [Li]"
+    },
+    {
+      "artist": "\u6adf\u4e95\u552f / \u5ca1\u91ce\u4f73 obj:\u79d8\u5bc6",
+      "genre": "kawaiicore",
+      "id": 574,
+      "level": 11,
+      "title": "Smiling '+(\u4eba'v`\u25cf)+'"
+    },
+    {
+      "artist": "TO-MAX remixed by LU obj:Fender",
+      "genre": "NEUROTECH MIX",
+      "id": 575,
+      "level": 11,
+      "title": "contact force sense(remix) [F]"
+    },
+    {
+      "artist": "mossari obj:K-SPIN",
+      "genre": "Neon",
+      "id": 576,
+      "level": 11,
+      "title": "Le Reve -Luminous Dream-"
+    },
+    {
+      "artist": "sky_delta obj:Fender",
+      "genre": "THE LAST HOPE",
+      "id": 577,
+      "level": 11,
+      "title": "Cryonix [F]"
+    },
+    {
+      "artist": "Judah BGA:Lucifer obj:1/8",
+      "genre": "BETRAYAL",
+      "id": 578,
+      "level": 11,
+      "title": "F13 [END]"
+    },
+    {
+      "artist": "Lime / A",
+      "genre": "Scene",
+      "id": 579,
+      "level": 11,
+      "title": "Stargazer [\u6d41\u661f\u96e8\u304c\u964d\u308b\u591c\u306b]"
+    },
+    {
+      "artist": "\u306f\u304c\u306d obj:monaka",
+      "genre": "STG",
+      "id": 580,
+      "level": 11,
+      "title": "BULLET HELL [EX]"
+    },
+    {
+      "artist": "SHIKI / black train",
+      "genre": "TRANCE CORE",
+      "id": 581,
+      "level": 12,
+      "title": "Air -EXTREME-"
+    },
+    {
+      "artist": "\u6b21\u5143\u5927\u4ecb /obj:L",
+      "genre": "SYMPHONIC_BossBattle",
+      "id": 582,
+      "level": 12,
+      "title": "\u6b6a\u3093\u3060\u795e (DistorteD)"
+    },
+    {
+      "artist": "SHIKI / air",
+      "genre": "TRANCE CORE",
+      "id": 583,
+      "level": 12,
+      "title": "Pure Ruby [Another+]"
+    },
+    {
+      "artist": "xenothium obj.kei",
+      "genre": "HANDS UP",
+      "id": 584,
+      "level": 12,
+      "title": "Ms.Naive Princess [RAFFLESIA]"
+    },
+    {
+      "artist": "\u306d\u3053\u307f\u307f\u9b54\u6cd5\u4f7f\u3044 / obj: black train",
+      "genre": "HappY PoPcorN(MANIAQ7)",
+      "id": 585,
+      "level": 12,
+      "title": "\u2605LittlE HearTs\u2605 (MANIAQ)"
+    },
+    {
+      "artist": "SHIKI/http://d.hatena.ne.jp/xki/",
+      "genre": "TRANCE",
+      "id": 586,
+      "level": 12,
+      "title": "Angelic layer -Heavenly7-"
+    },
+    {
+      "artist": "Yamajet / 29",
+      "genre": "Ascii Art Core",
+      "id": 587,
+      "level": 12,
+      "title": "\uff0f^o^\uff3c -\u30b5\u30d5\u30a1\u30ea\u30d1\u30fc\u30af-"
+    },
+    {
+      "artist": "Shaman Cure-All / obj : cieu",
+      "genre": "Suomisaundi",
+      "id": 588,
+      "level": 12,
+      "title": "Tuk Tuk Boshi [7keys Crescent]"
+    },
+    {
+      "artist": "knot / obj:\u3042\u30fc\u3055\u3093",
+      "genre": "TECHNO",
+      "id": 589,
+      "level": 12,
+      "title": "cold planet -Blue Marble-"
+    },
+    {
+      "artist": "orangentle / deadblue238",
+      "genre": "Dissociative Identity Disorder",
+      "id": 590,
+      "level": 12,
+      "title": "HAELEQUIN"
+    },
+    {
+      "artist": "SHIKI / air",
+      "genre": "Trance\u3000core(7key)",
+      "id": 591,
+      "level": 12,
+      "title": "Cold Breath (Another+)"
+    },
+    {
+      "artist": "keyc",
+      "genre": "GABBA",
+      "id": 592,
+      "level": 12,
+      "title": "Forceful Beat [HYPER]"
+    },
+    {
+      "artist": "\u732b\u87f9\u4e38 / air",
+      "genre": "Sixteen Beat",
+      "id": 593,
+      "level": 12,
+      "title": "\u304a\u30b8\u30e3\u9b54\u5973\u3067BANBAN\uff01(Pop-mix) (\u304f\u305d\u3075\u3081\u3093\u266a)"
+    },
+    {
+      "artist": "sun3",
+      "genre": "YUYUSSANCE",
+      "id": 594,
+      "level": 12,
+      "title": "AcceptAdvent-Border of Life- (\u4e71\u308c\u54b2\u304d)"
+    },
+    {
+      "artist": "syatten + 140 : obj:JEYSON",
+      "genre": "Trance",
+      "id": 595,
+      "level": 12,
+      "title": "Evangelize (Radio Edit) (SP \u30df\u30e9\u30af\u30eb)"
+    },
+    {
+      "artist": "\u732b\u87f9\u4e38 / obj: black train",
+      "genre": "Piano Rush",
+      "id": 596,
+      "level": 12,
+      "title": "\u65e5\u6e9c\u308a\u306e\u8857\u2212\u3042\uff01\u2212 (MANIAQ)"
+    },
+    {
+      "artist": "ZUN (Arr.sun3)",
+      "genre": "Ancient beats",
+      "id": 597,
+      "level": 12,
+      "title": "Ancient Memory (Extra)"
+    },
+    {
+      "artist": "sampling minor SUICA",
+      "genre": "HAPPY HARDCORE\u3000-HARD-",
+      "id": 598,
+      "level": 12,
+      "title": "\u304a\u306b\u30b3\u30a2"
+    },
+    {
+      "artist": "455 / rio / black train",
+      "genre": "P s y",
+      "id": 599,
+      "level": 12,
+      "title": "G e n g a o z o _ G O D"
+    },
+    {
+      "artist": "daiji+lobsak / air",
+      "genre": "HHP",
+      "id": 600,
+      "level": 12,
+      "title": "Happy\u2606mooN (MANIAC)"
+    },
+    {
+      "artist": "Musical Masterpiece",
+      "genre": "MM SEQUENCER",
+      "id": 601,
+      "level": 12,
+      "title": "M-A (FOOLISH)"
+    },
+    {
+      "artist": "\u30eb\u30ca\u30fb\u30f4\u30a3\u30aa\u30fc\u30e9 / iimode-do",
+      "genre": "\u5927\u5343\u79cb\u697d",
+      "id": 602,
+      "level": 12,
+      "title": "\u30d4\u30a2\u30ce\u5354\u594f\u66f2\u7b2c1\u756a \u6708\u5149\u6761\u4f8b"
+    },
+    {
+      "artist": "tarolabo / obj. 0e5r",
+      "genre": "[ProgressiveSwing]",
+      "id": 603,
+      "level": 12,
+      "title": "\u9ed2\u732b\u5186\u821e\u66f2 [7key_EXTREME]"
+    },
+    {
+      "artist": "\u4e3b\u4eba\u516c",
+      "genre": "\u30e9\u30b9\u30c8\u30d0\u30c8\u30eb",
+      "id": 604,
+      "level": 12,
+      "title": "\u6050\u9ce5"
+    },
+    {
+      "artist": "LUNE\u306e\u53f3\u624b\u3068\u60a0\u91cc\u304a\u306d\u3047\u3061\u3083\u3093\u306e\u5de6\u811a / 29",
+      "genre": "\u30aa\u30ab\u30eb\u30c8\u3055\u3093\u3068\u30d3\u30fc\u30c4\u304f\u3093",
+      "id": 605,
+      "level": 12,
+      "title": "\u3069\u3046\u304b\u79c1\u3092\u6bba\u3057\u3066\u4e0b\u3055\u3044 [29Another]"
+    },
+    {
+      "artist": "BACO",
+      "genre": "\u30c8\u30e9\u30f3\u30b9\u30ec\u30af\u30a4\u30a8\u30e0",
+      "id": 606,
+      "level": 12,
+      "title": "\u30ad\u30e1\u30e9"
+    },
+    {
+      "artist": "ZUN(Arr.sun3)/ds",
+      "genre": "MYSTIC SEQUENCER",
+      "id": 607,
+      "level": 12,
+      "title": "\u5f7c\u5cb8\u5e30\u822a -idling mix-"
+    },
+    {
+      "artist": "maxXx65535 / cyclia / obj:black train",
+      "genre": "Artcore (7-MANIAQ)",
+      "id": 608,
+      "level": 12,
+      "title": "Cynthia -with moon light- (7-MANIAQ)"
+    },
+    {
+      "artist": "Izayoi/\u5dee\u5206\u3000\u8d64\u3044\u4eba",
+      "genre": "\u6771\u65b9\u30d4\u30a2\u30ce\u697d\u8b5c",
+      "id": 609,
+      "level": 12,
+      "title": "\u30ca\u30a4\u30c8\u30fb\u30aa\u30d6\u30fb\u30ca\u30a4\u30c4 [HARDEST]"
+    },
+    {
+      "artist": "Glome +-",
+      "genre": "Drum'n'Bass",
+      "id": 610,
+      "level": 12,
+      "title": "Eclipse -Luna- (7-ultimate kusofumen)"
+    },
+    {
+      "artist": "EXCALIpUR / BANZAI",
+      "genre": "SPEED DANCE",
+      "id": 611,
+      "level": 12,
+      "title": "MIGHTY OBSTACLE -FANTASTIC7-"
+    },
+    {
+      "artist": "A.I.TOYS  obj:ab_tkkz",
+      "genre": "hip hop",
+      "id": 612,
+      "level": 12,
+      "title": "compressed eyes -kusomiso-"
+    },
+    {
+      "artist": "\u30ad\u30e5\u30a2\u30d7\u30e9\u30cd\u30c3\u30c8 Remixed by ETIA.",
+      "genre": "FREEFORM HARDCORE",
+      "id": 613,
+      "level": 12,
+      "title": "\u30a8\u30ca\u30b8\u30fc\u30b9\u30c8\u30ea\u30fc\u30e0(Never Understand Remix) [ANOTHER]"
+    },
+    {
+      "artist": "void feat. \u30b3\u30c4\u30ad\u30df\u30e4 , Gt. \u3048\u3070 /obj:BAECON BGA : Photonskyto",
+      "genre": "Venerable Culture",
+      "id": 614,
+      "level": 12,
+      "title": "Name of oath [SP EX]"
+    },
+    {
+      "artist": "xi",
+      "genre": "PROGRESSIVE FUSION",
+      "id": 615,
+      "level": 12,
+      "title": "Mirage Garden [ANOTHER+]"
+    },
+    {
+      "artist": "paraoka",
+      "genre": "Progressive",
+      "id": 616,
+      "level": 12,
+      "title": "L9"
+    },
+    {
+      "artist": "\u524a\u9664",
+      "genre": "fantasy",
+      "id": 617,
+      "level": 12,
+      "title": "Altale [INSANE]"
+    },
+    {
+      "artist": "Is-m & muramasa",
+      "genre": "PSYCHEDELIC TECHNO",
+      "id": 618,
+      "level": 12,
+      "title": "gravitronic\ufffdU"
+    },
+    {
+      "artist": "narve / remix:helix / obj:arufis",
+      "genre": "trance(revenger)",
+      "id": 619,
+      "level": 12,
+      "title": "\u8fe6\u5177\u571f -REVENGER EX-"
+    },
+    {
+      "artist": "D.J.Nero",
+      "genre": "RENAISSANCE",
+      "id": 620,
+      "level": 12,
+      "title": "Quad Queens [ANOTHER]"
+    },
+    {
+      "artist": "white crystal / black train",
+      "genre": "euro trance",
+      "id": 621,
+      "level": 12,
+      "title": "sensitive (MANIAQ)"
+    },
+    {
+      "artist": "\u30a4\u30f4/\u3055",
+      "genre": "Dramatical",
+      "id": 622,
+      "level": 12,
+      "title": "\u7d75\u7a7a\u4e8b\u306e\u4e16\u754c\u3068\u79c1\u3000 [SABOTHER]"
+    },
+    {
+      "artist": "\u8fd1\u85e4\u6d69\u6cbb BMS:krg",
+      "genre": "GAME MUSIC",
+      "id": 623,
+      "level": 12,
+      "title": "\u30e8\u30c3\u30b7\u30fc\u30a2\u30a4\u30e9\u30f3\u30c9 \u300c\u30af\u30c3\u30d1\u300d [7KEYS SPECIAL]"
+    },
+    {
+      "artist": "zest:rave",
+      "genre": "Cyber Core",
+      "id": 624,
+      "level": 12,
+      "title": "H.S : Hadron Strike [7Keys - Another]"
+    },
+    {
+      "artist": "ETIA. vs MM Sequence/obj_jakko",
+      "genre": "ROTTERDAM TECHNO",
+      "id": 625,
+      "level": 12,
+      "title": "DISCHARGE RUSH [Creation_R]"
+    },
+    {
+      "artist": "syatten remixed celas / reku Obj : J.M",
+      "genre": "nrg core",
+      "id": 626,
+      "level": 12,
+      "title": "Bird Sprite -Awakening of Light-"
+    },
+    {
+      "artist": "Yu^ta w. Satoguchi Yu / obj:Azel",
+      "genre": "Pyramid Core",
+      "id": 627,
+      "level": 12,
+      "title": "Alien Artifact [Append]"
+    },
+    {
+      "artist": "Grand thaw",
+      "genre": "EPIC TRANCE",
+      "id": 628,
+      "level": 12,
+      "title": "Pursuit Of Outer Space MX"
+    },
+    {
+      "artist": "\u30f2\u30eb\u30d0\uff1d\u7530\u4e2d\u30fb\u30f4\u30a1\u30cb\u30e9 obj:Fender",
+      "genre": "IRREGULAR HI-BREAK",
+      "id": 629,
+      "level": 12,
+      "title": "Y [F]"
+    },
+    {
+      "artist": "SHIKI / obj.swa",
+      "genre": "TRANCE CORE",
+      "id": 630,
+      "level": 12,
+      "title": "Metatron [YHWH]"
+    },
+    {
+      "artist": "tanacoro obj:saaa",
+      "genre": "electro trance",
+      "id": 631,
+      "level": 12,
+      "title": "Q [SAETHER]"
+    },
+    {
+      "artist": "Ark-Z obj:strada",
+      "genre": "TRANCE/XUAL",
+      "id": 632,
+      "level": 12,
+      "title": "Borderline -F\u21d4M remix- [female]"
+    },
+    {
+      "artist": "\u304c\u3080\u3064\u6c0f + \u3051\u3048\u6c0f (a.k.a. witch's slave) obj:\u4ed9\u4eba\u638c\u306e\u4eba \u79d8\u5bc6 \u3061\u3083\u3063\u304f Lafal \u3064\u3044",
+      "genre": "GOTHIC HARDDANCE",
+      "id": 633,
+      "level": 12,
+      "title": "dolorosa melodia [Sanctae Crucis]"
+    },
+    {
+      "artist": "\u30d0\u30f3\u30d0\u30f3\u30a2\u30ab\u30a6\u30f3\u30c8\u4f5c\u6210\u592a\u90ce / \u99ff / \u30d0\u30f3\u30d0\u30f3\u5dee\u5206\u4f5c\u6210\u6b21\u90ce",
+      "genre": "\u30b8\u30e5\u30ea\u30a2\u30ca\u30c6\u30af\u30ce",
+      "id": 634,
+      "level": 12,
+      "title": "Alt Futur [Fieber]"
+    },
+    {
+      "artist": "NIKITA / Optie obj:saaa",
+      "genre": "Terror",
+      "id": 635,
+      "level": 12,
+      "title": "SCARY BANQUET [BESESSENHEIT]"
+    },
+    {
+      "artist": "King Rear / obj:\u5922\u7460 Original by Kimitaka Matsumae & Manami Matsumae",
+      "genre": "PROGRESSIVE BAROQUE",
+      "id": 636,
+      "level": 12,
+      "title": "Beyond the Lightning -King's tragedy- [yumether]"
+    },
+    {
+      "artist": "\u306f\u304c\u306d / bga:\u767d\u52a9 obj.Triforce_BK",
+      "genre": "Progressive",
+      "id": 637,
+      "level": 12,
+      "title": "Mirage Imitation [\u8d85\u97f3\u901f \u6642\u9593\u65c5\u884c]"
+    },
+    {
+      "artist": "DJ owl-light vs xi obj:Fender",
+      "genre": "DARKSTEP MIX",
+      "id": 638,
+      "level": 12,
+      "title": "Aqua Regia Squall [F]"
+    },
+    {
+      "artist": "xi / air",
+      "genre": "HAPPY HARDCORE",
+      "id": 639,
+      "level": 13,
+      "title": "FREEDOM DiVE [EARTH]"
+    },
+    {
+      "artist": "Team:SASAKURATION",
+      "genre": "\u03a9",
+      "id": 640,
+      "level": 13,
+      "title": "AVALON [IIDX]"
+    },
+    {
+      "artist": "ZUN/arr.\u307f\u3087\u3093 / iimode-do / \u304b\u3052\u304d\u3061 / ALICE*",
+      "genre": "Break Core",
+      "id": 641,
+      "level": 13,
+      "title": "Plastic Mind [ALITHER]"
+    },
+    {
+      "artist": "\u30d5\u30ed\u30f3 / \u30e9\u30ba\u30d9\u30ea\u30eb / obj: black train",
+      "genre": "LOVELY HIGHSPEED",
+      "id": 642,
+      "level": 13,
+      "title": "Love & Justice [MANIAQ]"
+    },
+    {
+      "artist": "Syatten #obj air-",
+      "genre": "Trance",
+      "id": 643,
+      "level": 13,
+      "title": "beyond the limit -EROTIC7-"
+    },
+    {
+      "artist": "Grand Thaw /obj:\u5922\u7460",
+      "genre": "Sound Track",
+      "id": 644,
+      "level": 13,
+      "title": "ERIS [yumether]"
+    },
+    {
+      "artist": "otokaz/lushe",
+      "genre": "Light Pop [kuso7]",
+      "id": 645,
+      "level": 13,
+      "title": "\u59b9\u69d8\u306f\u5f7c\u5973\u306a\u306e\u3060\u3063\uff01"
+    },
+    {
+      "artist": "beatMARIO /A-zert",
+      "genre": "EURO BEAT(Last Dance)",
+      "id": 646,
+      "level": 13,
+      "title": "\u5c11\u5973\u306e\u6abb \"Last Night, Last Dancing.\""
+    },
+    {
+      "artist": "Yamajet(^^) vs Sphere(\uff65\u2200\uff65\u2200\uff65)",
+      "genre": "HAPPY HARDCORE",
+      "id": 647,
+      "level": 13,
+      "title": "Healing smile [HappyHardcore Style edit] (EX7)"
+    },
+    {
+      "artist": "\u30a4\u30ba\u30df\u30b1\u30a4",
+      "genre": "TECHNO",
+      "id": 648,
+      "level": 13,
+      "title": "SIREN OF DAWN [Another+]"
+    },
+    {
+      "artist": "\u3042\u3084\u3081\u266a obj:\u30d0\u30e9\u30e2\u30b9",
+      "genre": "Game Music",
+      "id": 649,
+      "level": 13,
+      "title": "\uff24\uff31\ufffdV\u3000Battle -Hyper-"
+    },
+    {
+      "artist": "\u7f8e\u6a39\u3055\u3084\u304b vs. \u7f8e\u6a39\u3055\u3084\u304b (fw. \u7f8e\u6a39\u3055\u3084\u304b) BGA \uff1a \u7f8e\u6a39\u3055\u3084\u304b",
+      "genre": "HARD RENAISSAYAKA[SP SAYATHER]",
+      "id": 650,
+      "level": 13,
+      "title": "squartatrice"
+    },
+    {
+      "artist": "\u4e0a\u6749\u3046\u305f",
+      "genre": "uppertune",
+      "id": 651,
+      "level": 13,
+      "title": "\u65e7\u5730\u7344\u8857\u9053\u3092\u884c\u304f \u301c\u53cd\u9006\u306e\u30d1\u30eb\u30b9\u30a3\u301c [\u59ac\u307e\u30b9\u30a3]"
+    },
+    {
+      "artist": "zun/MIDI\uff1a\u3053\u3093\u305d\u3081/\u7de8\u96c6\uff1awanco",
+      "genre": "\u6771\u65b9\u8403\u5922\u60f3",
+      "id": 652,
+      "level": 13,
+      "title": "Demystify Feast [NORMAL]"
+    },
+    {
+      "artist": "cranky / obj: black train",
+      "genre": "RAVE",
+      "id": 653,
+      "level": 13,
+      "title": "Party 4U (EXTREME)"
+    },
+    {
+      "artist": "\u30e1\u30b9\u30af\u30e9 (\u30a8\u30f4\u30a1\u305f\u3093\uff06\u30e1\u30b3\u305f\u3093) / 29",
+      "genre": "\u30eb\u30cd\u30c3\u30b5\u30f3\u30b9\u30b3\u30a2",
+      "id": 654,
+      "level": 13,
+      "title": "\u30a2\u30ba\u30a2\u30e9\u30b9 [Hell]"
+    },
+    {
+      "artist": "HOUJIROU / BGA: hardlove[\u5dee\u5206\uff1aHofS]",
+      "genre": "Drum 'n Bass",
+      "id": 655,
+      "level": 13,
+      "title": "myste`re [\u60aa\u9b54\u57ce]"
+    },
+    {
+      "artist": "\u7d05\u84ee\u6708\u5f71",
+      "genre": "\u30df\u30cd\u30eb\u30d0",
+      "id": 656,
+      "level": 13,
+      "title": "\u9eef"
+    },
+    {
+      "artist": "dj sept-em / air",
+      "genre": "Goa Trance Techno",
+      "id": 657,
+      "level": 13,
+      "title": "OAA-\u03b3 [HELL]"
+    },
+    {
+      "artist": "sept",
+      "genre": "psychedelic",
+      "id": 658,
+      "level": 13,
+      "title": "Extinction and reproduction [SP kusofumen]"
+    },
+    {
+      "artist": "horoscope object:\u3042\u30fc\u3055\u3093",
+      "genre": "\u30ea\u30e5\u30a6\u30bb\u30a4\u30b0\u30f3",
+      "id": 659,
+      "level": 13,
+      "title": "Leonids"
+    },
+    {
+      "artist": "\u7167\u5815 remix by keyc",
+      "genre": "INTELLI CORE",
+      "id": 660,
+      "level": 13,
+      "title": "BLACKOUT -Side Story- [ANOTHER+]"
+    },
+    {
+      "artist": "recognize m. / helix / blacktrain",
+      "genre": "EPIC TRANCE",
+      "id": 661,
+      "level": 13,
+      "title": "A BEAUTIFUL SKY -OB style- GOD"
+    },
+    {
+      "artist": "BACO feat. \u308b\u305c /\u5dee\u5206 \u8d64\u3044\u4eba",
+      "genre": "CHIPTUNE",
+      "id": 662,
+      "level": 13,
+      "title": "\u767d\u3068\u81d9\u8102\u306e\u30aa\u30e2\u30c1\u30e3\u30d0\u30b3 [DELAY]"
+    },
+    {
+      "artist": "Alicia* obj -XEIN-",
+      "genre": "CUNi DRAMATIC TRANCE CORE",
+      "id": 663,
+      "level": 13,
+      "title": "\u30a2\u30a4\u30fc\u30b7\u30e3\u306e\u5263-Forcing breakthrough- [X-sword]"
+    },
+    {
+      "artist": "dustcloth /obj:spt",
+      "genre": "BreakCore",
+      "id": 664,
+      "level": 13,
+      "title": "Incoherent -reminiscent of squad-"
+    },
+    {
+      "artist": "w_tre respect for AT&HU obj.sialua",
+      "genre": "PIANO ALGEBRA",
+      "id": 665,
+      "level": 13,
+      "title": "Schur's Theorem [Linear Algebra]"
+    },
+    {
+      "artist": "Trish / obj.swa Movie:Vergil",
+      "genre": "New Age",
+      "id": 666,
+      "level": 13,
+      "title": "Blooming [7key Feeling]"
+    },
+    {
+      "artist": "\u60a0\u7136/obj_jakko",
+      "genre": "HAPPY HARD CORE",
+      "id": 667,
+      "level": 13,
+      "title": "\u4e59\u5973\u30ce\u30b9\u30b9\u30e1\uff01 (Lovely)"
+    },
+    {
+      "artist": "sentire/\u3055",
+      "genre": "euro beat",
+      "id": 668,
+      "level": 13,
+      "title": "\u6edd\u884cLv28 [\u7686\u4f1d\u53d6\u308a\u307e\u3057\u305f]"
+    },
+    {
+      "artist": "\u3057\u3089\u3044\u3057\u3000/ obj:BAECON",
+      "genre": "Trance Core",
+      "id": 669,
+      "level": 13,
+      "title": "horizon \uff3e\uff3e\u03c9\uff3e\uff3e"
+    },
+    {
+      "artist": "sound piercer x ginkiha (mov : 1B) obj by BAECON",
+      "genre": "SCHRANZ",
+      "id": 670,
+      "level": 13,
+      "title": "BLAZE YOUR SOUL [SP INSANE]"
+    },
+    {
+      "artist": "Chitose / obj:\u7dd2\u65b9\u667a\u7d75\u91cc vs \u79d8\u5bc6 (Movie:zue-row)",
+      "genre": "Art Progressive Fusion",
+      "id": 671,
+      "level": 13,
+      "title": "CLOCKTOWER (Big Ben)"
+    },
+    {
+      "artist": "puru twk. sound piercer (feat.Hee Bun.D) /obj:BAECON vs \u307f\u3063\u3068",
+      "genre": "Freeform / Gabber",
+      "id": 672,
+      "level": 13,
+      "title": "Toki (Sound piercer's Timesucker Remix) [Personality]"
+    },
+    {
+      "artist": "anubasu-anubasu BGA by FF9900\u3000OBJ by screw",
+      "genre": "UK HARDCORE",
+      "id": 673,
+      "level": 13,
+      "title": "Mercury Prayer [Bless]"
+    },
+    {
+      "artist": "er / obj.swa",
+      "genre": "TECHNO POP",
+      "id": 674,
+      "level": 13,
+      "title": "Baby Baby Frenzy [TRICK or TREAT]"
+    },
+    {
+      "artist": "SP-#",
+      "genre": "breakcore",
+      "id": 675,
+      "level": 13,
+      "title": "corneal"
+    },
+    {
+      "artist": "NIKITA / misokabocha obj.screw",
+      "genre": "HAPPY ELECTRO pf",
+      "id": 676,
+      "level": 13,
+      "title": "ELECTRiCiTY [7_voltage]"
+    },
+    {
+      "artist": "\u3057\u30fc\u3051\u30fc obj.me$o",
+      "genre": "eschatology",
+      "id": 677,
+      "level": 13,
+      "title": "\u30af\u30ed\u30fc\u30c8\u30fc\u3068\u661f\u306e\u89b3\u6e2c\u8005 [MANIAC]"
+    },
+    {
+      "artist": "uma obj:Fender vs ELIGOS",
+      "genre": "Progressive Hardcore",
+      "id": 678,
+      "level": 13,
+      "title": "Angel Wing [FELITHER]"
+    },
+    {
+      "artist": "HOUJIROU/obj_jakko",
+      "genre": "TECHNO / TECH DANCE",
+      "id": 679,
+      "level": 13,
+      "title": "Soul of Deep-sea Fish [RUSH]"
+    },
+    {
+      "artist": "polysha movie:Optie / obj:ctc",
+      "genre": "GNADENSCHUSS",
+      "id": 680,
+      "level": 13,
+      "title": "Endkraft [On the verge of death]"
+    },
+    {
+      "artist": "nao/\u96ea\u4ec1/\u6c34\u57ce\u65b0\u4eba remixed by Lemon beads obj:\u308c\u3082\u3093\u308b\u308a",
+      "genre": "\u30cd\u30b3\u3071\u3089 Vol.1 \u301c\u30bd\u30ec\u30a4\u30e6\u958b\u5e97\u3057\u307e\u3057\u305f\uff01\u301c",
+      "id": 681,
+      "level": 13,
+      "title": "\u30bf\u30a4\u30e8\u30a6\u30d1\u30e9\u30c0\u30a4\u30b9(Lemon beads J-core bootleg) [STRIPE or WHITE?]"
+    },
+    {
+      "artist": "lazward / obj:Sar",
+      "genre": "Trancecore",
+      "id": 682,
+      "level": 13,
+      "title": "Re*incarnacion [NEXT]"
+    },
+    {
+      "artist": "sun3 / BGA:Johnny / OBJ:K-SPIN",
+      "genre": "CLUB MIX",
+      "id": 683,
+      "level": 13,
+      "title": "Synth Stream (RUNOTHER7)"
+    },
+    {
+      "artist": "Ino obj:K-SPIN",
+      "genre": "BREAKCORE",
+      "id": 684,
+      "level": 13,
+      "title": "\u30b3\u30b1\u30b7\u30cd\u30b3\u2606\u30af\u30e9\u30a4\u30b7\u30b9 [7KEYS RUNOTHER]"
+    },
+    {
+      "artist": "Est / air",
+      "genre": "TRANCE",
+      "id": 685,
+      "level": 14,
+      "title": "Angelic Snow -extreme-"
+    },
+    {
+      "artist": "Nankumo / BGA\uff1aCube3 / obj\uff1a\uff08\u30fb\uff13\u30fb\uff09",
+      "genre": "HAPPY",
+      "id": 686,
+      "level": 14,
+      "title": "DRAGONLADY (7key\uff08\u30fb\uff13\u30fb\uff09)"
+    },
+    {
+      "artist": "NEKI\u2190T + Est / yuyuko",
+      "genre": "-",
+      "id": 687,
+      "level": 14,
+      "title": "\u4e0a\u6d77\u7d05\u8336\u9928 (LUNATIC)"
+    },
+    {
+      "artist": "SHIKI/fity",
+      "genre": "Trance core",
+      "id": 688,
+      "level": 14,
+      "title": "Xecus [Extream]"
+    },
+    {
+      "artist": "\u304b\u304a\u307f\u308a\u3093 feat.\u3053\u3082\u3082\u00d7\u307f\u3086/\u3055",
+      "genre": "AKIBA \u30c9S POP",
+      "id": 689,
+      "level": 14,
+      "title": "\u306d\u3047\uff1f\u30e1\u30a4\u30c9\u3055\u3093\u306f\u307f\u3093\u306a\u5fe0\u5b9f\u3060\u3068\u601d\u3046\uff1f [SABOTHER7]"
+    },
+    {
+      "artist": "daiji&sa10",
+      "genre": "IR #23",
+      "id": 690,
+      "level": 14,
+      "title": "orion ring -IR-"
+    },
+    {
+      "artist": "455-38B / 29",
+      "genre": "P s y",
+      "id": 691,
+      "level": 14,
+      "title": "G e n g a o z o [29Another]"
+    },
+    {
+      "artist": "sun3 vs EXCALIpUR / BGA:Johnny / y obj.sun3",
+      "genre": "RAVE",
+      "id": 692,
+      "level": 14,
+      "title": "Cross breed -EXTRA-"
+    },
+    {
+      "artist": "zun/MIDI\uff1a\u5f69\u5e0c\u3000\u6676/\u7de8\u96c6\uff1awanco",
+      "genre": "\u6771\u65b9\u7d05\u9b54\u90f7",
+      "id": 693,
+      "level": 14,
+      "title": "\u30e1\u30a4\u30c9\u3068\u8840\u306e\u61d0\u4e2d\u6642\u8a08 [BEGINNER-\u03b2]"
+    },
+    {
+      "artist": "Grand Thaw / obj:\u5922\u7460",
+      "genre": "Musette",
+      "id": 694,
+      "level": 14,
+      "title": "Flesvelka [Resurrection]"
+    },
+    {
+      "artist": "DOT96 /obj.D-BLUE",
+      "genre": "HARD DANCE",
+      "id": 695,
+      "level": 14,
+      "title": "SAMBISTA -sarambista?-"
+    },
+    {
+      "artist": "6yen / G obj:WAYA",
+      "genre": "techno",
+      "id": 696,
+      "level": 14,
+      "title": "Cynic -drrrr-"
+    },
+    {
+      "artist": "beatMARIO / tomsfir / black train",
+      "genre": "HyperEuroBeat(GOD)",
+      "id": 697,
+      "level": 14,
+      "title": "Last! Least! Regrets!! (GOD)"
+    },
+    {
+      "artist": "tarolabo / obj:\u3042\u30fc\u3055\u3093",
+      "genre": "[IDM]",
+      "id": 698,
+      "level": 14,
+      "title": "\u03ba\u03b1\u03bd\u03c9\u03bd -\u03c6-"
+    },
+    {
+      "artist": "NEKI\u2190T\uff0bFrost_Shrike",
+      "genre": "TRANCE EURO",
+      "id": 699,
+      "level": 14,
+      "title": "gradation (MANIAQ)"
+    },
+    {
+      "artist": "\u7f8e\u6708 \u6b63 (obj.mp)",
+      "genre": "romantix",
+      "id": 700,
+      "level": 14,
+      "title": "E reviver -imaging you- (MANIAC+)"
+    },
+    {
+      "artist": "ZUN(Arr.sun3) (obj.mp)",
+      "genre": "drum&synth",
+      "id": 701,
+      "level": 14,
+      "title": "Fate/fete (MANIAC+)"
+    },
+    {
+      "artist": "saikoro / 29",
+      "genre": "trance",
+      "id": 702,
+      "level": 14,
+      "title": "far in the blue sky... [29Another]"
+    },
+    {
+      "artist": "\u4e0a\u6749\u3046\u305f NOTES:\u5c11\u4f50",
+      "genre": "trance core",
+      "id": 703,
+      "level": 14,
+      "title": "\u6708\u7ae5 - Awaking!!\u795e\u5948 [KANNER]"
+    },
+    {
+      "artist": "infinity Lovewn\u2606",
+      "genre": "\u30d6\u30ed\u30fc\u30af\u30f3\u30c8\u30a4\u30dc\u30c3\u30af\u30b9",
+      "id": 704,
+      "level": 14,
+      "title": "Utopiangela (Cartoon Channel 203)"
+    },
+    {
+      "artist": "chocolate max / black train",
+      "genre": "HappY PoPcorN(maniaq7)",
+      "id": 705,
+      "level": 14,
+      "title": "\u2605SweeT DiscoverY\u2605 (MANIAQ)"
+    },
+    {
+      "artist": "remixed by which's slave gmtn / H.R",
+      "genre": "\u30d9\u30a2\u30c8\u30e9\u30f3\u30b9 II",
+      "id": 706,
+      "level": 14,
+      "title": "\u5e78\u305b\u306a\u30de\u30ea\u30a2\u3078 -\u30d9\u30a2\u30c8\u30e9\u30f3\u30b9Mix-_SPanother_ex"
+    },
+    {
+      "artist": "DJ.kari / obj.swa",
+      "genre": "Machine Sequencer",
+      "id": 707,
+      "level": 14,
+      "title": "Platinum [sANOTHER]"
+    },
+    {
+      "artist": "maxXx65535 / obj:arnain",
+      "genre": "Theme",
+      "id": 708,
+      "level": 14,
+      "title": "Crystal Wind [UV]"
+    },
+    {
+      "artist": "zun bms:\u4e59UN",
+      "genre": "\u6771\u65b9\u98a8\u795e\u9332",
+      "id": 709,
+      "level": 14,
+      "title": "\u82a5\u5ddd\u9f8d\u4e4b\u4ecb\u306e\u6cb3\u7ae5\u3000\u301cCandid Friend [NORMAL]"
+    },
+    {
+      "artist": "\u4f50\u4e45\u9593\u307e\u3086 / \u661f\u8f1d\u5b50 / \u6210\u5bae\u7531\u611b",
+      "genre": "\u30bd\u30a6\u30b7\u30bd\u30a6\u30a2\u30a4",
+      "id": 710,
+      "level": 14,
+      "title": "\u604b\u611b\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0 [yumether]"
+    },
+    {
+      "artist": "paraoka / BANZAI",
+      "genre": "Progressive Breaks",
+      "id": 711,
+      "level": 14,
+      "title": "platinum garden -maniac-"
+    },
+    {
+      "artist": "P4koo / obj.siokaze vs jakko",
+      "genre": "Touhou Arrange",
+      "id": 712,
+      "level": 14,
+      "title": "INFINITE BEATS [S+J]"
+    },
+    {
+      "artist": "xelloscope / obj.swa",
+      "genre": "11",
+      "id": 713,
+      "level": 14,
+      "title": "Apollo [1969.07.16]"
+    },
+    {
+      "artist": "\u9ec4\u6cc9\u8def\u30c6\u30c2\u30fc\u30e2 / \u5dee\u5206 \u8d64\u3044\u4eba BGA:\u9453\u7530",
+      "genre": "echolocation",
+      "id": 714,
+      "level": 14,
+      "title": "\u30a8\u30fc\u30c7\u30eb\u30ef\u30a4\u30b9 [HARDEST]"
+    },
+    {
+      "artist": "loz",
+      "genre": "TRANCE CORE",
+      "id": 715,
+      "level": 14,
+      "title": "Cinderella Cage -Trancecore Mix- [transient]"
+    },
+    {
+      "artist": "BOKKEN PINK / obj\uff1amitsuba BOKKEN DODOME+MAGENTA",
+      "genre": "BOKKEN FUSION",
+      "id": 716,
+      "level": 14,
+      "title": "eth\u5263 [ 7Key_Clover ]"
+    },
+    {
+      "artist": "Basso / obj: Dragon",
+      "genre": "FOOTWORK",
+      "id": 717,
+      "level": 14,
+      "title": "Fatal Pulse [breath]"
+    },
+    {
+      "artist": "Luxion / obj:\u30c1\u30e3\u30c1\u30e3",
+      "genre": "OVERKILL",
+      "id": 718,
+      "level": 14,
+      "title": "High-Priestess [EXTRA]"
+    },
+    {
+      "artist": "\u6885\u5e72\u8336\u6f2c\u3051 / \u5dee\u5206 \u8d64\u3044\u4eba",
+      "genre": "chipstyle toypop",
+      "id": 719,
+      "level": 14,
+      "title": "Galaxy in Toybox [HARDEST]"
+    },
+    {
+      "artist": "w_tre / Mer Obj.Triforce",
+      "genre": "Piano Progressive Metal",
+      "id": 720,
+      "level": 14,
+      "title": "The Lamia 170 [Requiem]"
+    },
+    {
+      "artist": "s-don / \u7be0\u4e43\u3061\u3088 / obj.swa",
+      "genre": "Tech Dance",
+      "id": 721,
+      "level": 14,
+      "title": "Gamegame (bms edit plus+)"
+    },
+    {
+      "artist": "AKITO / mixed by TOSH / obj.siokaze",
+      "genre": "PROGRESSIVE POP",
+      "id": 722,
+      "level": 14,
+      "title": "\u7d05\u3044\u6708\u591c\u306b\u82b1\u306e\u4e71 [8\u5206\u54b2\u304d]"
+    },
+    {
+      "artist": "-45",
+      "genre": "Doomsday",
+      "id": 723,
+      "level": 14,
+      "title": "The ArcticLight"
+    },
+    {
+      "artist": "witch's slave Graphic by Est / obj:0war1a VS saaa",
+      "genre": "ILLEGAL GOTHIC SCHRANZ",
+      "id": 724,
+      "level": 14,
+      "title": "\u5815\u697d\u306e\u5712 [EXTASIM]"
+    },
+    {
+      "artist": "w_tre obj:LAPIS",
+      "genre": "piano",
+      "id": 725,
+      "level": 14,
+      "title": "mom [sorry.]"
+    },
+    {
+      "artist": "",
+      "genre": "plant",
+      "id": 726,
+      "level": 14,
+      "title": "The SunLight [U]"
+    },
+    {
+      "artist": "\u30af\u30ed\u30a6\uff06\u30e4\u30a4\u30d0 BGA\uff1a\u30af\u30ed\u30a6 ILLUST\uff1a\u30a2\u30a4\u30aa\u30fc\u30f3 LYRICS\uff1a\u30ed\u30e0 obj\uff1a\u9032\u5316\u306e\u8d85\u8b5c\u9762",
+      "genre": "Mini4 69",
+      "id": 727,
+      "level": 14,
+      "title": "\u7206\u8d70\u4e2d\u5e74 \u301cENDLESS RUN\u301c (\u304b\u3063\u3068\u3079\u2642\u30de\u30b0\u30ca\u30e0)"
+    },
+    {
+      "artist": "ZUN (Arr.sun3) / ALICE*",
+      "genre": "GOA TRANCE",
+      "id": 728,
+      "level": 15,
+      "title": "\u661f\u306e\u5668\u301cSTAR OF ANDROMEDA [ALITHER]"
+    },
+    {
+      "artist": "\u6a0b\u5948\u6708\u307f\u3064 (sequence by dj SIGMA / air)",
+      "genre": "SOARLY TRANCE POP",
+      "id": 729,
+      "level": 15,
+      "title": "\u6771\u306e\u56fd\u306eFLYING PAPARAZZI\uff01 -Lunatic+-"
+    },
+    {
+      "artist": "xi",
+      "genre": "HAPPY",
+      "id": 730,
+      "level": 15,
+      "title": "Time files [EX]"
+    },
+    {
+      "artist": "\u3057\u3089\u3044\u3057",
+      "genre": "Classical Trance",
+      "id": 731,
+      "level": 15,
+      "title": "Odin [\u30b0\u30f3\u30b0\u30cb\u30eb]"
+    },
+    {
+      "artist": "Est",
+      "genre": "TRANCE",
+      "id": 732,
+      "level": 15,
+      "title": "snowflake -exquisite 2008- another"
+    },
+    {
+      "artist": "wint",
+      "genre": "RAVE",
+      "id": 733,
+      "level": 15,
+      "title": "REWD \"B159 mix\" // (kei-unmeasured 7)"
+    },
+    {
+      "artist": "ZUN (Remixed by EXCALIpUR) / air vs A-zert",
+      "genre": "FREEFORM",
+      "id": 734,
+      "level": 15,
+      "title": "LUNASA the Stormcauser [MANIAC7]"
+    },
+    {
+      "artist": "A.I.TOYS  obj:ab_tkkz",
+      "genre": "hip hop",
+      "id": 735,
+      "level": 15,
+      "title": "compressed eyes -\u304f\u305d\u307f\u305d\u30c6\u30af\u30cb\u30c3\u30af-"
+    },
+    {
+      "artist": "zun bms:\u4e59UN",
+      "genre": "\u6771\u65b9\u5996\u3005\u5922",
+      "id": 736,
+      "level": 15,
+      "title": "\u5e7d\u96c5\u306b\u54b2\u304b\u305b\u3001\u58a8\u67d3\u306e\u685c [NORMAL]"
+    },
+    {
+      "artist": "dj sept-em / air",
+      "genre": "Goa Trance Techno",
+      "id": 737,
+      "level": 15,
+      "title": "OAA-\u03b3 [HEAVEN]"
+    },
+    {
+      "artist": "P.E. / \u6d77\u793a / obj:\u5922\u7460",
+      "genre": "ENERGETIC TRANCE",
+      "id": 738,
+      "level": 15,
+      "title": "Endymion [Selene]"
+    },
+    {
+      "artist": "ABE3",
+      "genre": "PROGRESSIVE TRANCE",
+      "id": 739,
+      "level": 15,
+      "title": "\u03b5-\u03b4 (FOOLISH)"
+    },
+    {
+      "artist": "beatMARIO / BAECON",
+      "genre": "Speedtechno (another+)",
+      "id": 740,
+      "level": 15,
+      "title": "\u590f\u5f71-summer lights- [HI-Speed Edition]"
+    },
+    {
+      "artist": "\u306d\u3053\u3053\u3046\u3082\u308a #\u306d\u3053\u305314\u6b73 / obj.sialua",
+      "genre": "shuffle pop'n",
+      "id": 741,
+      "level": 15,
+      "title": "\u308a\u308a\u304f\u308d\uff01 [Randomize]"
+    },
+    {
+      "artist": "\u306d\u3053\u307f\u308a\u3093 feat.\u307f\u3086 / obj:\u79d8\u5bc6 Illust:\u308f\u3093\u3073\u3043",
+      "genre": "E.G.S.",
+      "id": 742,
+      "level": 15,
+      "title": "\u5148\u5929\u6027\u30a8\u30b4\u30b5\u4f9d\u5b58\u75c7\u5019\u7fa4 [Hide]"
+    },
+    {
+      "artist": "clap stick",
+      "genre": "rotterdam house tatse",
+      "id": 743,
+      "level": 15,
+      "title": "ROTTELER'S HOME \"seven bottakuri edit\""
+    },
+    {
+      "artist": "paraoka / Kz",
+      "genre": "Progressive",
+      "id": 744,
+      "level": 15,
+      "title": "L9 -\u843d\u3068\u3057\u7a74 final edition-"
+    },
+    {
+      "artist": "SHIKI // BGA:\u3042\u304b\u304f\u3089\u3052 & M.H / 29",
+      "genre": "HAPPY HARDCORE",
+      "id": 745,
+      "level": 15,
+      "title": "Endless Dream [29Another]"
+    },
+    {
+      "artist": "\u3046\u3048\u3064\u6c0f / obj_\u3058\u3083\u3063\u3053\u6c0f",
+      "genre": "Grand Finale",
+      "id": 746,
+      "level": 15,
+      "title": "\u5929\u7a7a\u306e\u57ce\u30f4\u30a7\u30ea\u30a8\u30eb [RUSH]"
+    },
+    {
+      "artist": "remixed celas / \u5dee\u5206 \u8d64\u3044\u4eba",
+      "genre": "pathos nrg",
+      "id": 747,
+      "level": 15,
+      "title": "Legend of Seeker [HARDEST]"
+    },
+    {
+      "artist": "er / obj.XYZ",
+      "genre": "HI SPEED-TRANCE POP",
+      "id": 748,
+      "level": 15,
+      "title": "\u30cf\u30a4\u30d1\u30fc\u30df\u30e9\u30af\u30eb\u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0\u30b9\u30bf\u30fc"
+    },
+    {
+      "artist": "ZUN remixed by LeaF Movie:Optie",
+      "genre": "RATIONAL PUNISHMENT",
+      "id": 749,
+      "level": 15,
+      "title": "Wizdomiot [ANOTHER]"
+    },
+    {
+      "artist": "xi / Note:\u8584\u674f",
+      "genre": "NORSE MYTHOLOGY",
+      "id": 750,
+      "level": 15,
+      "title": "Valhalla [EX]"
+    },
+    {
+      "artist": "wa. / obj. Limite",
+      "genre": "OMNIVERSE",
+      "id": 751,
+      "level": 15,
+      "title": "\u4e8b\u8c61\u306e\u5730\u5e73  [\u4e8b\u4ef6\u306e\u5c55\u958b]"
+    },
+    {
+      "artist": "xellox vs daisan / 140 / obj.swa",
+      "genre": "Cyber Symphony",
+      "id": 752,
+      "level": 15,
+      "title": "Last Selection [MONDE]"
+    },
+    {
+      "artist": "Snack obj:Fender",
+      "genre": "Tribute",
+      "id": 753,
+      "level": 15,
+      "title": "Developers, Developers, Developers, Developers! [F]"
+    },
+    {
+      "artist": "\u30eb\u30bc obj:\u79d8\u5bc6",
+      "genre": "PSYCHEDELIC",
+      "id": 754,
+      "level": 15,
+      "title": "\u7d2b\u967d\u82b1\u306e\u5fd8\u308c\u7269 [Poison]"
+    },
+    {
+      "artist": "\u307e\u3082\u306e\u306e\u3080\u308c obj:ctc",
+      "genre": "shuffle pop'n",
+      "id": 755,
+      "level": 15,
+      "title": "\u308a\u308a\u308a\u304f\u308d\uff01\uff01 [Abusive]"
+    },
+    {
+      "artist": "Nego_tiator (movie : Fiz) obj:vy",
+      "genre": "Grayscale",
+      "id": 756,
+      "level": 15,
+      "title": "Grisaille -Labyrinth-"
+    },
+    {
+      "artist": "HOUJIROU / obj :0e5r",
+      "genre": "techno",
+      "id": 757,
+      "level": 15,
+      "title": "Fastraffic [7key EXTREME]"
+    },
+    {
+      "artist": "awi / obj:\u308c\u3082\u3093\u308b\u308a",
+      "genre": "TECHNO",
+      "id": 758,
+      "level": 15,
+      "title": "JUNGLEFEVER (Kattobi Remix) [BIOGORILLA7]"
+    },
+    {
+      "artist": "siqlo BGA:\u51fa\u524d {background-color: #ffffff;}",
+      "genre": "Hi-Tech Psy Trance",
+      "id": 759,
+      "level": 15,
+      "title": "Vantablack {color: #000000;}"
+    },
+    {
+      "artist": "Chitose obj:\u79d8\u5bc6",
+      "genre": "Celtic Fantasia",
+      "id": 760,
+      "level": 15,
+      "title": "Fairytale (Esimolp)"
+    },
+    {
+      "artist": "Aglaia(Re:gats& vs. Nego_tiator) / A BGA:Fiz",
+      "genre": "Artcore",
+      "id": 761,
+      "level": 15,
+      "title": "\u5929 [J]"
+    },
+    {
+      "artist": "pr.s obj: MineC24",
+      "genre": "BROKEN ARTCORE",
+      "id": 762,
+      "level": 15,
+      "title": "Lepontinia -THE LAST PLANET-"
+    },
+    {
+      "artist": "\u304f\u3063\u3061\u30fcvs\u3042\u3063\u304d\u30fc / obj:SUKIMA",
+      "genre": "SUKIMA TOUR",
+      "id": 763,
+      "level": 16,
+      "title": "Yakumo >>JOINT STRUGGLE -\u9699\u9593-"
+    },
+    {
+      "artist": "\u88cf \u5409 \u5ddd / obj: black train",
+      "genre": "t r a n c e",
+      "id": 764,
+      "level": 16,
+      "title": "A c i - L - G O D"
+    },
+    {
+      "artist": "witch's slave / obj:\u5922\u7460 Graphic : koavenit",
+      "genre": "GOTHIC HARDCORE",
+      "id": 765,
+      "level": 16,
+      "title": "furioso melodia [yumether]"
+    },
+    {
+      "artist": "mist-rose",
+      "genre": "\u30bb\u30f3\u30c1\u30e5\u30ea\u30fc",
+      "id": 766,
+      "level": 16,
+      "title": "flowers"
+    },
+    {
+      "artist": "\u7531\u862d / ALICE*",
+      "genre": "\u6771\u65b9\u5996\u3005\u5922",
+      "id": 767,
+      "level": 16,
+      "title": "\u4eba\u5f62\u88c1\u5224\u3000\u301c \u4eba\u306e\u5f62\u5f04\u3073\u3057\u5c11\u5973 -3rd stage-"
+    },
+    {
+      "artist": "\u732b\u87f9\u4e38 / obj: black train",
+      "genre": "Piano Rush",
+      "id": 768,
+      "level": 16,
+      "title": "\u65e5\u6e9c\u308a\u306e\u8857\u2212\u3042\uff01\u2212 (EXTREME)"
+    },
+    {
+      "artist": "-45 / kz /arufis / air",
+      "genre": "techno pop",
+      "id": 769,
+      "level": 16,
+      "title": "\u5922\u4eba\u5f62 -SP MANIAC-"
+    },
+    {
+      "artist": "\u306d\u3053\u307f\u307f\u9b54\u6cd5\u4f7f\u3044 / tomsfir / 29",
+      "genre": "high jazzy pop",
+      "id": 770,
+      "level": 16,
+      "title": "going on -spring wind- [29Another]"
+    },
+    {
+      "artist": "Hate vs Brilliance /obj: A-zert",
+      "genre": "FREEFORM",
+      "id": 771,
+      "level": 16,
+      "title": "Quark [MANIAC]"
+    },
+    {
+      "artist": "m",
+      "genre": "Unhappy Hardcore",
+      "id": 772,
+      "level": 16,
+      "title": "Z -Another7-"
+    },
+    {
+      "artist": "Ninja Action Team / 29",
+      "genre": "Japanese Rave",
+      "id": 773,
+      "level": 16,
+      "title": "Born [29Another]"
+    },
+    {
+      "artist": "\u732b\u87f9\u4e38 / obj:black train",
+      "genre": "SawAmbient",
+      "id": 774,
+      "level": 16,
+      "title": "5.1.1(ReMix) [GoD]"
+    },
+    {
+      "artist": "xenothium remixed by gmtn. obj:\u3042\u30fc\u3055\u3093",
+      "genre": "GOTHIC HARDTRANCE",
+      "id": 775,
+      "level": 16,
+      "title": "\u5e78\u306a\u308b\u65cb\u5f8b-the solitary melody- -\u798f\u97f3-"
+    },
+    {
+      "artist": "\u306d\u3053\u307f\u307f\u9b54\u6cd5\u4f7f\u3044 / obj : qxea",
+      "genre": "[m9]steps(7key)",
+      "id": 776,
+      "level": 16,
+      "title": "\u3046\u307f\u3044\u308d\u3001\u305d\u3089\u3044\u308d\u3002 -nonsensical-"
+    },
+    {
+      "artist": "Ninja Action Team / 29",
+      "genre": "Tyrantbeat",
+      "id": 777,
+      "level": 16,
+      "title": "Wasabi \u66b4\u541b"
+    },
+    {
+      "artist": "Lime /\u5dee\u5206\u3000\u8d64\u3044\u4eba",
+      "genre": "Rosso Phantasma",
+      "id": 778,
+      "level": 16,
+      "title": "Ophelia [HARDEST]"
+    },
+    {
+      "artist": "HEXAHEDRA / obj\uff1amitsuba",
+      "genre": "HARDCORE ULTIMATE",
+      "id": 779,
+      "level": 16,
+      "title": "KRAKEN [Clover]"
+    },
+    {
+      "artist": "snowdrop obj;\u6c5f\u6fa4",
+      "genre": "progressive jazz",
+      "id": 780,
+      "level": 16,
+      "title": "Sicilian Kiss (dead end mix)"
+    },
+    {
+      "artist": "Process 2.3.1. / obj.D-BLUE",
+      "genre": "",
+      "id": 781,
+      "level": 16,
+      "title": "\u30c1\u30e7\u30a6\u306e\u6a19\u672c [Maniac7]"
+    },
+    {
+      "artist": "Loki-mitsu + Mentalstock \u3042",
+      "genre": "ETHEREAL ELECTRONIC",
+      "id": 782,
+      "level": 16,
+      "title": "Quickening 2 the RED -Sephirothic-"
+    },
+    {
+      "artist": "bj.HaLo / obj:\u5922\u7460",
+      "genre": "NU STYLE KASSA",
+      "id": 783,
+      "level": 16,
+      "title": "\u6483\u589c-HELL AIR FORCE- [yumether]"
+    },
+    {
+      "artist": "xi iimo / Obj. Triforce vs LAPIS",
+      "genre": "LIFE STREAM",
+      "id": 784,
+      "level": 16,
+      "title": "Aragami [\u5929\u6cbc\u77db]"
+    },
+    {
+      "artist": "\u30bb\u30ca/\u5dee\u5206naiya BGA\uff1aMilk_tya Illust\uff1a\u795e\u5948\u5ddd\u308f\u304b\u5948",
+      "genre": "Crab Music",
+      "id": 785,
+      "level": 16,
+      "title": "\u7279\u52b9\u85ac\u306f\u30ab\u30cb\u30d4\u30e9\u30d5 (\u9870\u8e59)"
+    },
+    {
+      "artist": "Rune Caster / obj.swa BGA : orto",
+      "genre": "Chronocore",
+      "id": 786,
+      "level": 16,
+      "title": "TYR [Quartet]"
+    },
+    {
+      "artist": "urimu / obj.swa Movie:RAIDEN",
+      "genre": "HARD TRANCE",
+      "id": 787,
+      "level": 16,
+      "title": "Bicolor Spirit [BLACK or WHITE?]"
+    },
+    {
+      "artist": "ZUN bms:\u4e59U\u0418 obj:yuyuko",
+      "genre": "\u6771\u65b9\u7d3a\u73e0\u4f1d",
+      "id": 788,
+      "level": 16,
+      "title": "\u514e\u306f\u821e\u3044\u964d\u308a\u305f [HARD]"
+    },
+    {
+      "artist": "er / Obj : \u60aa\u622f\u304a\u59eb\u69d8",
+      "genre": "HAPPY HARD RENAISSANCE",
+      "id": 789,
+      "level": 16,
+      "title": "\u308f\u304c\u307e\u307e\u30d7\u30ea\u30f3\u30bb\u30b9 [\u7981\u3058\u3089\u308c\u305f\u904a\u3073]"
+    },
+    {
+      "artist": "BTB Mov : mzet :-p & OLB / obj:BAECON",
+      "genre": "HAPPY HARDCORE",
+      "id": 790,
+      "level": 16,
+      "title": "Creamy Sky [BRIGHT]"
+    },
+    {
+      "artist": "MONO BGA / BGI : \u4e59\u9752\u5546\u4f1a/obj:\u4ed9\u4eba\u638c\u306e\u4eba",
+      "genre": "(FREEFORM) HARDCORE",
+      "id": 791,
+      "level": 16,
+      "title": "undefined [EX]"
+    },
+    {
+      "artist": "Laur obj:0war1a VS \u79d8\u5bc6",
+      "genre": "FRENCHCORE",
+      "id": 792,
+      "level": 16,
+      "title": "Welcome To The Electronic World!! [SGVsbG8sIHdvcmxkIQ==]"
+    },
+    {
+      "artist": "ETIA. feat. Jenga Movie: HDLV / obj: swa",
+      "genre": "HYBRIDIZED J-CORE",
+      "id": 793,
+      "level": 16,
+      "title": "IKAROS [ODYSSEA]"
+    },
+    {
+      "artist": "\u7be0\u87ba\u60a0\u90a3 feat. \u9bdb\u306e\u5c0f\u9aa8",
+      "genre": "Euro Rave",
+      "id": 794,
+      "level": 17,
+      "title": "Imperishable Night 2006 for D"
+    },
+    {
+      "artist": "xi / air",
+      "genre": "HAPPY HARDCORE",
+      "id": 795,
+      "level": 17,
+      "title": "FREEDOM DiVE [GALAXY]"
+    },
+    {
+      "artist": "P*Light \u3042",
+      "genre": "HAPPY SWEETS CORE",
+      "id": 796,
+      "level": 17,
+      "title": "Poppin' Shower -sugarless-"
+    },
+    {
+      "artist": "SHIKI/fity / obj:A-zert",
+      "genre": "Trance core",
+      "id": 797,
+      "level": 17,
+      "title": "Xecus - X -"
+    },
+    {
+      "artist": "\u30c1\u30e3\u30c1\u30e3/zun",
+      "genre": "\u6771\u65b9\u7d05\u9b54\u90f7\u3000\u301c the Embodiment of Scarlet Devil.",
+      "id": 798,
+      "level": 17,
+      "title": "\u4ea1\u304d\u7687\u5973\u306e\u70ba\u306e\u30bb\u30d7\u30c6\u30c3\u30c8 [NORMAL]"
+    },
+    {
+      "artist": "\u30e1\u30b9\u30af\u30e9 (\u30a8\u30f4\u30a1\u305f\u3093\uff06\u30e1\u30b3\u305f\u3093)/yokosuka",
+      "genre": "\u30eb\u30cd\u30c3\u30b5\u30f3\u30b9\u30b3\u30a2",
+      "id": 799,
+      "level": 17,
+      "title": "\u30a2\u30ba\u30fc\u30eb <\u9b3c\u755c>"
+    },
+    {
+      "artist": "keyc",
+      "genre": "Nu Style Gabba",
+      "id": 800,
+      "level": 17,
+      "title": "G.N. [H]"
+    },
+    {
+      "artist": "\u732b\u87f9\u4e38 / air",
+      "genre": "Sixteen Beat",
+      "id": 801,
+      "level": 17,
+      "title": "\u304a\u30b8\u30e3\u9b54\u5973\u3067BANBAN\uff01(Pop-mix) -Airther-"
+    },
+    {
+      "artist": "ABE3",
+      "genre": "DRUM'N'FORTE",
+      "id": 802,
+      "level": 17,
+      "title": "Ereshkigal (FOOLISH)"
+    },
+    {
+      "artist": "ZUN (Arr.sun3)",
+      "genre": "Ancient beats",
+      "id": 803,
+      "level": 17,
+      "title": "Ancient Memory (Phantasm)"
+    },
+    {
+      "artist": "MILK / air",
+      "genre": "TRANCE",
+      "id": 804,
+      "level": 17,
+      "title": "kyrka [MANIAC]"
+    },
+    {
+      "artist": "-45 / \u308f\u306a\u306a\u30fbBANI / \u3001",
+      "genre": "Dolphan's Era 29/7key",
+      "id": 805,
+      "level": 17,
+      "title": "Empress of Raizze [QUANDARY7]"
+    },
+    {
+      "artist": "\u30a4\u30ba\u30df\u30b1\u30a4 /obj:A-zert",
+      "genre": "TECHNO",
+      "id": 806,
+      "level": 17,
+      "title": "SIREN OF DAWN (MANIAC)"
+    },
+    {
+      "artist": "NAGI / black train",
+      "genre": "euro beat",
+      "id": 807,
+      "level": 17,
+      "title": "la noche (MANIAQ)"
+    },
+    {
+      "artist": "kurenaissance",
+      "genre": "SEVERAL DIGITS",
+      "id": 808,
+      "level": 17,
+      "title": "LivedaM (death)"
+    },
+    {
+      "artist": "Synchronous Vision (MONO&1B) / ALICE*",
+      "genre": "FREEFORM HARDCORE",
+      "id": 809,
+      "level": 17,
+      "title": "The Destructive Genesis -ALITHER-"
+    },
+    {
+      "artist": "\u306d\u3053\u307f\u307f\u9b54\u6cd5\u4f7f\u3044",
+      "genre": "finy jazzy pop'n(7key)",
+      "id": 810,
+      "level": 17,
+      "title": "\u604b\u308f\u305a\u3089\u3044 -shiny party floor- GOD"
+    },
+    {
+      "artist": "remixed. by gmtn. /obj:\u5922\u7460 Graphic : koavenit (invert colors)",
+      "genre": "HARDCORE",
+      "id": 811,
+      "level": 17,
+      "title": "Extreme Z4 (Aggressive HC mix) [yumether]"
+    },
+    {
+      "artist": "tarolabo",
+      "genre": "[riphop]",
+      "id": 812,
+      "level": 17,
+      "title": "\u30d1\u30cd\u30eb\u3067\u30dd\u30f3/\u30d5\u30ec\u30a2\u306e\u30c6\u30fc\u30de [\u76bf]"
+    },
+    {
+      "artist": "scytheleg / obj.siokaze",
+      "genre": "ELECTRANCE",
+      "id": 813,
+      "level": 17,
+      "title": "gazer [MANIAQ]"
+    },
+    {
+      "artist": "ikaruga_nex feat. Salita / obj:\u79d8\u5bc6",
+      "genre": "freeform",
+      "id": 814,
+      "level": 17,
+      "title": "We are the xxxx"
+    },
+    {
+      "artist": "DWM\u03c9",
+      "genre": "\u53e4\u4f1d\u65b0\u97fb\u4e8c\u5341\u6253\u3061",
+      "id": 815,
+      "level": 17,
+      "title": "\u767d\u5c71\u6bd4\ufffd\u76d7_ (FOOLISH)"
+    },
+    {
+      "artist": "kuroburger",
+      "genre": "HAPPY HARDCORE",
+      "id": 816,
+      "level": 17,
+      "title": "SPARKLiNG F!ZZ [\u30ab\u30b7\u30b9\u30aa\u30ec\u30f3\u30b8]"
+    },
+    {
+      "artist": "sa10 / obj : 0samil0",
+      "genre": "PowerStomp",
+      "id": 817,
+      "level": 17,
+      "title": "pumpkin man [>w<]"
+    },
+    {
+      "artist": "\u3046\u307e\u308b\u3064\u3075\u308a",
+      "genre": "\u5b64\u54ee",
+      "id": 818,
+      "level": 17,
+      "title": "\u767d\u72fc"
+    },
+    {
+      "artist": "\u306d\u3053\u307f\u308a\u3093 /\u5dee\u5206\u3000\u8d64\u3044\u4eba",
+      "genre": "HAPPY HARDCORE",
+      "id": 819,
+      "level": 17,
+      "title": "NO NIGHT MORE SOUL! [HARDEST]"
+    },
+    {
+      "artist": "LiA",
+      "genre": "GOTHIC DANCE",
+      "id": 820,
+      "level": 17,
+      "title": "\u7d76\u5bfe\u30c1\u30a7\u30c3\u30af\u30e1\u30a4\u30c8\u9818\u57df -LiALIZE-"
+    },
+    {
+      "artist": "TKR/obj_jakko BGA:seizan",
+      "genre": "Progressive House",
+      "id": 821,
+      "level": 17,
+      "title": "Meaning of Existence [OVERHEAT]"
+    },
+    {
+      "artist": "sak Movie:\u732b\u592a\u90ce / obj:BAECON",
+      "genre": "e-criture",
+      "id": 822,
+      "level": 17,
+      "title": "Inherited World [INSANE]"
+    },
+    {
+      "artist": "Yu^ta",
+      "genre": "Future Bass",
+      "id": 823,
+      "level": 17,
+      "title": "Planisphere [ANOTHER+]"
+    },
+    {
+      "artist": "LV.4 (obj.mp)",
+      "genre": "HARD NRG",
+      "id": 824,
+      "level": 18,
+      "title": "Angel dust [7key//Maniac+]"
+    },
+    {
+      "artist": "Shiraishi / obj:\u5922\u7460",
+      "genre": "Hardcore",
+      "id": 825,
+      "level": 18,
+      "title": "\u771f\u30fb\u5343\u5e74\u5973\u738b [yumether]"
+    },
+    {
+      "artist": "DETRO",
+      "genre": "\u30dc\u30eb\u30b1\u30fc\u30ce",
+      "id": 826,
+      "level": 18,
+      "title": "volcanic"
+    },
+    {
+      "artist": "beatMARIO / obj: black train",
+      "genre": "HAPPY HARDCORE",
+      "id": 827,
+      "level": 18,
+      "title": "\u7d04\u675f -HappyHyperStarmiX- (MANIAQ)"
+    },
+    {
+      "artist": "ZUN(Arr.sun3) / ALICE*",
+      "genre": "MYSTIC SEQUENCER",
+      "id": 828,
+      "level": 18,
+      "title": "\u51a5\u754c\u5e30\u822a -ALITHER-"
+    },
+    {
+      "artist": "\u6a0b\u5948\u6708\u307f\u3064\u3000obj:TONO",
+      "genre": "SOARLY TRANCE POP",
+      "id": 829,
+      "level": 18,
+      "title": "\u6771\u306e\u56fd\u306eFLYING PAPARAZZI\uff01 -IR-"
+    },
+    {
+      "artist": "Grand thaw",
+      "genre": "EPIC TRANCE",
+      "id": 830,
+      "level": 18,
+      "title": "AutumnBreeze for Expert"
+    },
+    {
+      "artist": "ZUN(Arr.sun3) / ALICE*",
+      "genre": "synth techno",
+      "id": 831,
+      "level": 18,
+      "title": "Endeavor -ALITHER-"
+    },
+    {
+      "artist": "Musical Masterpiece/ obj:GN",
+      "genre": "PRELUDE",
+      "id": 832,
+      "level": 18,
+      "title": "Retroactive Rain (MANIAC)"
+    },
+    {
+      "artist": "sun3/obj.Rize",
+      "genre": "GAME MUSIC",
+      "id": 833,
+      "level": 18,
+      "title": "shooting_moon (*R*)"
+    },
+    {
+      "artist": "Ninja Action Team",
+      "genre": "Happy Hardcore",
+      "id": 834,
+      "level": 18,
+      "title": "Showguts (\u5409\u51f6\u76f8\u4ea4)"
+    },
+    {
+      "artist": "er",
+      "genre": "\u3086\u308b\u3075\u308f\u30dc\u30c3\u30b5/\u3086\u308b\u3075\u308f\u30cf\u30a6\u30b9",
+      "id": 835,
+      "level": 18,
+      "title": "\u5348\u5f8c\u306e\u3053\u3044\u3057\u3061\u3083\u3093 [Philosophy7]"
+    },
+    {
+      "artist": "Est feat. NEKI / obj:\u3042\u30fc\u3055\u3093",
+      "genre": "TECHNO",
+      "id": 836,
+      "level": 18,
+      "title": "Astish Carmine -EX-"
+    },
+    {
+      "artist": "BACO / obj:NWN",
+      "genre": "TRANCE REQUIEM",
+      "id": 837,
+      "level": 18,
+      "title": "SUPERNOVA -vaca-"
+    },
+    {
+      "artist": "\u306d\u3053\u3072\u3081\u305f\u3093 / \u30df\u30e5\u30a6\u305f\u3093",
+      "genre": "\u30c6\u30af\u30ce",
+      "id": 838,
+      "level": 18,
+      "title": "\u30b9\u30d7\u30e9\u30c3\u30b7\u30e5\u30b3\u30fc\u30c9\u2212\uff10\uff16 [MANIAC7]"
+    },
+    {
+      "artist": "\u6a58\u82b1\u97f3 \u304b\u306a\u3048\u3086\u3081 composed by nmk / Notes:\u30ad\u30e9 Illustration:\u304b\u305c\u3063\u3068",
+      "genre": "EUROBEAT",
+      "id": 839,
+      "level": 18,
+      "title": "\u56f3\u66f8\u5ba4\u306e\u30a8\u30eb\u30b6 [FOX]"
+    },
+    {
+      "artist": "Est / obj:\u3042\u30fc\u3055\u3093",
+      "genre": "HAPPY",
+      "id": 840,
+      "level": 18,
+      "title": "macaron (Amaretti+)"
+    },
+    {
+      "artist": "m108 / obj : lemon_aided BGA : \u7802\u7cd6\u5929\u9ea9\u7f85 / \u30b7\u30ad\u30a4\u30c1\u30eb",
+      "genre": "EPIC TRANCECORE",
+      "id": 841,
+      "level": 18,
+      "title": "* Crow Solace * [85%]"
+    },
+    {
+      "artist": "\u306d\u3053\u307f\u308a\u3093 feat.\u5c0f\u5bae\u771f\u592e\u00d7\u307f\u3086\u00d7\u3048\u307f\u3085\u3046\u3002 Movie:kkkfff2 / Illust:\u6c38\u5c71\u3086\u3046\u306e\u3093",
+      "genre": "A-POP",
+      "id": 842,
+      "level": 18,
+      "title": "\u30aa\u30c8\u30b2\u30e9\u30f4\uff01 -\u767a\u72c2END-"
+    },
+    {
+      "artist": "EBIMAYO OBJ : \u30e9\u30f3\u30c0\u30de\u30a4\u30b6",
+      "genre": "GOODPUMP",
+      "id": 843,
+      "level": 18,
+      "title": "GOODTEK [SA]"
+    },
+    {
+      "artist": "sky_delta / obj.swa",
+      "genre": "IDM",
+      "id": 844,
+      "level": 18,
+      "title": "Kreuz [Jesus\u2020Christus]"
+    },
+    {
+      "artist": "RYO-K / obj:fepria",
+      "genre": "Elec-Chill Out",
+      "id": 845,
+      "level": 18,
+      "title": "\u9060\u3044\u6625\u3092\u544a\u3052\u308b\u3042\u306e\u5a18\u306e\u8db3\u97f3 [feather]"
+    },
+    {
+      "artist": "sa10 obj:yuyuko",
+      "genre": "Gothic Hard Dance",
+      "id": 846,
+      "level": 18,
+      "title": "Magus Logos [HARD]"
+    },
+    {
+      "artist": "Is-m / obj:BOKKI BGA:sta",
+      "genre": "CHAIN UP",
+      "id": 847,
+      "level": 18,
+      "title": "dimension block \uff3e\uff3e"
+    },
+    {
+      "artist": "Re:gats& / BGA:5argon",
+      "genre": "Uplifting Trance",
+      "id": 848,
+      "level": 18,
+      "title": "Whiteout [&]"
+    },
+    {
+      "artist": "\u5149\u5409\u731b\u4fee\u306e\u5144 obj:Fender vs \u79d8\u5bc6",
+      "genre": "crossover orchestra",
+      "id": 849,
+      "level": 18,
+      "title": "Amphisbaena [Fallen Heavens]"
+    },
+    {
+      "artist": "Mastermind(xi+nora2r) iimo / Obj. LAPIS vs Triforce",
+      "genre": "Breakthrough",
+      "id": 850,
+      "level": 18,
+      "title": "Dreadnought [Fragarach]"
+    },
+    {
+      "artist": "Lime",
+      "genre": "Dramatical",
+      "id": 851,
+      "level": 18,
+      "title": "Tsukuyomi [INSANE7]"
+    },
+    {
+      "artist": "LeaF Movie:To7",
+      "genre": "IMAGINARY FLOWER",
+      "id": 852,
+      "level": 18,
+      "title": "ATHAZA [INSANE]"
+    },
+    {
+      "artist": "Cres / obj:y",
+      "genre": "ReQuiEm tRanCe",
+      "id": 853,
+      "level": 19,
+      "title": "End Time -to the death-"
+    },
+    {
+      "artist": "guna with \u30c1\u30fc\u30e0\u30fb\u30ad\u30e5\u30c3\u30ad\u30e5/ obj:\u7a93\u3064\u304d\u3082\u3093",
+      "genre": "instrumental",
+      "id": 854,
+      "level": 19,
+      "title": "subconsciousness -KILL-"
+    },
+    {
+      "artist": "Kinato/y",
+      "genre": "Techno Trance",
+      "id": 855,
+      "level": 19,
+      "title": "P.S : Plasma Strike - GOD -"
+    },
+    {
+      "artist": "\u524a\u9664 / Mentalstock / obj:slash",
+      "genre": "Overture / IDM",
+      "id": 856,
+      "level": 19,
+      "title": "VALLISTA [Rhodes7]"
+    },
+    {
+      "artist": "siromaru + cranky /\u5dee\u5206\u3000\u8d64\u3044\u4eba",
+      "genre": "HARMONIC SCHRANZ",
+      "id": 857,
+      "level": 19,
+      "title": "conflict [INFELNO]"
+    },
+    {
+      "artist": "\u990a\u571f\u5375 \u5149 / \u6d5c \u67d4\u597d / obj:\u5289 \u82bd\u7559",
+      "genre": "Happy Hardcore",
+      "id": 858,
+      "level": 19,
+      "title": "electric butterfly [yumether]"
+    },
+    {
+      "artist": "234",
+      "genre": "HAPPY HARDCORE",
+      "id": 859,
+      "level": 19,
+      "title": "Blue-White Crazybits [ANOTHER]"
+    },
+    {
+      "artist": "BMS:\u304f\u3063\u3061\u30fc / BGA:\u3042\u3063\u304d\u30fc / obj:\u3042\u3063\u308a\u30fc",
+      "genre": "DANCE SPEED",
+      "id": 860,
+      "level": 19,
+      "title": "Satori \u301c3rd EyEs -EXTRA-"
+    },
+    {
+      "artist": "syatten + 140 : obj:JEYSON",
+      "genre": "Trance",
+      "id": 861,
+      "level": 19,
+      "title": "Evangelize (Radio Edit) (SP FRIDAY)"
+    },
+    {
+      "artist": "\u3053\u3069\u3082\u306e\u306a\u307f\u3060 / y",
+      "genre": "\u30cf\u30c3\u30d4\u30fc\u30b1\u30a2\u30ac\u30fc\u30eb",
+      "id": 862,
+      "level": 19,
+      "title": "\u767d\u306e\u9b54\u6cd5\u306e\u5149 -magiclight7-"
+    },
+    {
+      "artist": "-45",
+      "genre": "",
+      "id": 863,
+      "level": 19,
+      "title": "EXILE [EX]"
+    },
+    {
+      "artist": "BMS\uff1a\uff26\uff0f\uff21\uff11\uff18\u3000MIDI\uff1a\u30ed\u30a6\u30d5\u30a1\u3000BGA:LZH\u3000OBJ:air",
+      "genre": "\u6771\u65b9\u98a8\u795e\u9332",
+      "id": 864,
+      "level": 19,
+      "title": "\u7a32\u7530\u59eb\u69d8\u306b\u53f1\u3089\u308c\u308b\u304b\u3089\u3000 (BEGINNER)"
+    },
+    {
+      "artist": "tarolabo BGA:140 http://d.hatena.ne.jp/xki/",
+      "genre": "[dry Moon bass]",
+      "id": 865,
+      "level": 19,
+      "title": "\u5996\u6676\u96f6\u5f10 -\u03c9-"
+    },
+    {
+      "artist": "sampling minor SUICA",
+      "genre": "UNHAPPY HARDCORE",
+      "id": 866,
+      "level": 19,
+      "title": "\u304a\u306b\u30b3\u30a2 [\u5982\u6708]"
+    },
+    {
+      "artist": "\u3057\u3089\u3044\u3057",
+      "genre": "Classical",
+      "id": 867,
+      "level": 19,
+      "title": "\u5343\u5e74\u5973\u738b [ANOTHER]"
+    },
+    {
+      "artist": "ABE3",
+      "genre": "MELODIC SPEED CORE",
+      "id": 868,
+      "level": 19,
+      "title": "ephemera (FOOLISH)"
+    },
+    {
+      "artist": "fether / obj: black train",
+      "genre": "kirby pop (maniaq7)",
+      "id": 869,
+      "level": 19,
+      "title": "\u2606 twinklesky \u2606 _16 MANIAQ"
+    },
+    {
+      "artist": "Is-m & muramasa",
+      "genre": "PSYCHEDELIC TECHNO",
+      "id": 870,
+      "level": 19,
+      "title": "gravitronic\ufffdV"
+    },
+    {
+      "artist": "kurena",
+      "genre": "KusoFumen Concerto",
+      "id": 871,
+      "level": 19,
+      "title": "\u30d4\u30a2\u30ce\u89b3\u8cde\u66f2\u6b20\u756a\u300c\u795e\u59eb\u300d (KF)"
+    },
+    {
+      "artist": "dj sept-em +-",
+      "genre": "Freeform",
+      "id": 872,
+      "level": 19,
+      "title": "sunlit power stone [kusofumen]"
+    },
+    {
+      "artist": "daisan",
+      "genre": "Elemental Fusion",
+      "id": 873,
+      "level": 19,
+      "title": "\u594f\u9f8d\u30d4\u30a2\u30bd\u30e9 [T.Instinct]"
+    },
+    {
+      "artist": "Symphonian",
+      "genre": "Gabba",
+      "id": 874,
+      "level": 19,
+      "title": "Wild Clown (7key-SA)"
+    },
+    {
+      "artist": "L_Z",
+      "genre": "\u4e11\u4e09\u30c4\u30ce\u523b[\u9b3c]",
+      "id": 875,
+      "level": 19,
+      "title": "\u7d05\u67d3\u5341\u4e09\u756a\u8857\u9053"
+    },
+    {
+      "artist": "team TRIAD / UnK-now/37E",
+      "genre": "Arrange(karaoke)",
+      "id": 876,
+      "level": 19,
+      "title": "U.N.Owen \u301c\u622f\u308c\u3057\u306f\u72c2\u59b9\u304b\uff1f\u301c [abolish19]"
+    },
+    {
+      "artist": "w_tre / obj:\u79d8\u5bc6 Lyrics by Sing_fUA",
+      "genre": "Chiptune",
+      "id": 877,
+      "level": 19,
+      "title": "FIONA [Hi]"
+    },
+    {
+      "artist": "DJ TAKUAN \u53ca\u3073 \u4f50\u5009\u30a2\u30e4\u30ad remixed by uet BGI:\u3044\u304b\u304a / obj:BAECON",
+      "genre": "J-CORE",
+      "id": 878,
+      "level": 19,
+      "title": "\u7e54\u59eb(Independent from God, Everlasting love remix) [VEGA]"
+    },
+    {
+      "artist": "zest:rave // obj:J.M",
+      "genre": "Cyber Core",
+      "id": 879,
+      "level": 19,
+      "title": "H.S : Hadron Strike"
+    },
+    {
+      "artist": "p_d/s_h Artwork : \u3075\u308a\u3063\u3068\u2605",
+      "genre": "SPRING CORE",
+      "id": 880,
+      "level": 19,
+      "title": "Dandelion Sparkle!! -\u3075\u308f\u3075\u308f-"
+    },
+    {
+      "artist": "sound piercer / mov : kkkfff2",
+      "genre": "Progressive / Electronica",
+      "id": 881,
+      "level": 19,
+      "title": "\u70b9\u3001\u7dda\u3001\u9762\u3001\u7acb\u4f53 \u591a\u80de\u4f53"
+    },
+    {
+      "artist": "q/stol \u3042",
+      "genre": "BREAKCORE",
+      "id": 882,
+      "level": 19,
+      "title": "FUXXING YOUR BRAIN -Mind Blast-"
+    },
+    {
+      "artist": "FOLiACETATE /\u5dee\u5206 \u8d64\u3044\u4eba",
+      "genre": "COALENSCENT BREAKCORE",
+      "id": 883,
+      "level": 19,
+      "title": "Heterochromia Iridis [HARDEST]"
+    },
+    {
+      "artist": "noctie* obj.XYZ",
+      "genre": "2step",
+      "id": 884,
+      "level": 19,
+      "title": "resta del tramonto"
+    },
+    {
+      "artist": "EXCITECH / OBJ : 0samil0",
+      "genre": "Hardcore",
+      "id": 885,
+      "level": 19,
+      "title": "Hypertext Transfer Protocol (SP WOONATHER)"
+    },
+    {
+      "artist": "\u60a0\u7136 / bunta obj.Monsta",
+      "genre": "HAPPY HARDCORE",
+      "id": 886,
+      "level": 19,
+      "title": "\u685c\u82b1\u64a9\u4e71 [Monsther+]"
+    },
+    {
+      "artist": "er obj.XYZ",
+      "genre": "HARD RENAISSANCE",
+      "id": 887,
+      "level": 19,
+      "title": "N - flat waves -"
+    },
+    {
+      "artist": "Festa \u9453\u7530(alpha complex) / Obj.Lapis vs Triforce",
+      "genre": "LIFE STREAM",
+      "id": 888,
+      "level": 19,
+      "title": "Lemuria [Tyrfing]"
+    },
+    {
+      "artist": "SHIKI / black train",
+      "genre": "TRANCE CORE",
+      "id": 889,
+      "level": 20,
+      "title": "Air -GOD-"
+    },
+    {
+      "artist": "plastic feat.\u30b5\u30ad\u30c8 / yuyuko",
+      "genre": "NU-STYLE GABBA",
+      "id": 890,
+      "level": 20,
+      "title": "\u3072\u3064\u304e\u3068\u3075\u305f\u3054 [7KEY/LUNATIC]"
+    },
+    {
+      "artist": "\u79cb\u5c71 \u6faa / obj:\u5922\u7460",
+      "genre": "hard nrg",
+      "id": 891,
+      "level": 20,
+      "title": "\u6c34\u6676\u4e16\u754c \u301cFracture\u301c [yumether]"
+    },
+    {
+      "artist": "wa. /obj:\u5922\u7460",
+      "genre": "IntelligenceTerror",
+      "id": 892,
+      "level": 20,
+      "title": "\u30e2\u30ea\u30aa\u30f3\u306e\u59eb [yumether]"
+    },
+    {
+      "artist": "\u304f\u3063\u3061\u30fcvs\u3042\u3063\u304d\u30fc /obj \u3042\u3063\u308a\u30fc",
+      "genre": "SUKIMA TOUR",
+      "id": 893,
+      "level": 20,
+      "title": "Yakumo >>JOINT STRUGGLE -EXTRA-"
+    },
+    {
+      "artist": "sa10/\u3055",
+      "genre": "Ghetto Breaks",
+      "id": 894,
+      "level": 20,
+      "title": "banana man [HIMUTHER]"
+    },
+    {
+      "artist": "honey princess / ALICE*",
+      "genre": "H.H.P(one more mix)",
+      "id": 895,
+      "level": 20,
+      "title": "LOVE\u2606BEAM (orange summer mix) -ALITHER-"
+    },
+    {
+      "artist": "SHIKI / air",
+      "genre": "Trance\u3000core(7key)",
+      "id": 896,
+      "level": 20,
+      "title": "Cold Breath (Another++)"
+    },
+    {
+      "artist": "Lime /\u5dee\u5206\u3000\u8d64\u3044\u4eba",
+      "genre": "Rosso Phantasma",
+      "id": 897,
+      "level": 20,
+      "title": "Ophelia [INFELNO]"
+    },
+    {
+      "artist": "sun3 / BGA:Johnny / obj:ds",
+      "genre": "HARD TECHNO",
+      "id": 898,
+      "level": 20,
+      "title": "Messier 333 (EX7)"
+    },
+    {
+      "artist": "\u3042\u3084\u3081\u266a obj:\u30be\u30fc\u30de",
+      "genre": "Game Music",
+      "id": 899,
+      "level": 20,
+      "title": "\uff24\uff31\ufffdV\u3000Battle -Another-"
+    },
+    {
+      "artist": "kurena",
+      "genre": "RENAISSANCE",
+      "id": 900,
+      "level": 20,
+      "title": "Ruins Ray (KF)"
+    },
+    {
+      "artist": "Grand Thaw / obj:vese",
+      "genre": "Sound Track",
+      "id": 901,
+      "level": 20,
+      "title": "ERIS [BIFROST]"
+    },
+    {
+      "artist": "\u6771\u4eac\u30a2\u30ea\u30b9\u5e7b\u6a02\u56e3/http://d.hatena.ne.jp/xki/",
+      "genre": "happy hardcore",
+      "id": 902,
+      "level": 20,
+      "title": "\u7a32\u7530\u59eb\u69d8\u3054\u4e71\u5fc3 <bms edit> -Lunatic7-"
+    },
+    {
+      "artist": "POSI-TRON!/yuyuko",
+      "genre": "EURO-RAVE",
+      "id": 903,
+      "level": 20,
+      "title": "Ruriko FINAL (LUNATIC)"
+    },
+    {
+      "artist": "\u6fc0\u8f9b\u30de\u30cb\u30a2",
+      "genre": "tenac wave",
+      "id": 904,
+      "level": 20,
+      "title": "Lamir (KF7)"
+    },
+    {
+      "artist": "\u306b\u3093\u306b\u304f\u30de\u30cb\u30a2",
+      "genre": "battle concerto",
+      "id": 905,
+      "level": 20,
+      "title": "\u30d4\u30a2\u30ce\u72c2\u9a12\u66f2\u7b2c\u58f1\u756a\u300c\u6ec5\u5bb4\u300d (KF7)"
+    },
+    {
+      "artist": "Alicia* / BGA:Fleeting Lovely/ \u5dee\u5206 \u8d64\u3044\u4eba",
+      "genre": "WORLD CONTEMPORARY",
+      "id": 906,
+      "level": 20,
+      "title": "\u714c\u821e\u59eb\u30d9\u30a2\u30c8\u30ea\u30af\u30b9 [INFERNO]"
+    },
+    {
+      "artist": "wa. remixed celas / ds BGA:TOHRU MiTSUHASHi",
+      "genre": "hard nrg[EX]",
+      "id": 907,
+      "level": 20,
+      "title": "\u9280\u306e\u98a8"
+    },
+    {
+      "artist": "LOKI / obj:JEYSON",
+      "genre": "ETHEREAL BREAKS ATMOSPHERIC",
+      "id": 908,
+      "level": 20,
+      "title": "\u30e2\u30ce\u30ea\u30b9\u306e\u5712 [FRIDAY]"
+    },
+    {
+      "artist": "mitssi feat. SeeU/\u3055 Movie: Sabhwa Note: LiTaNia",
+      "genre": "Piano Shuffle",
+      "id": 909,
+      "level": 20,
+      "title": "\u3042\u306a\u305f -EX-"
+    },
+    {
+      "artist": "\u306d\u3053\u307f\u307f\u9b54\u6cd5\u4f7f\u3044 /\u5dee\u5206\u3000\u8d64\u3044\u4eba for \u67f4\u5d0e\u82a6\u82b1",
+      "genre": "chiptune",
+      "id": 910,
+      "level": 20,
+      "title": "\u5f7c\u5973\u306e\u8a00\u3044\u5206 -\uff8b\uff9f\uff7a\uff8b\uff9f\uff7aedit- [INFELNO]"
+    },
+    {
+      "artist": "Yu^ta /\u5dee\u5206\u3000\u8d64\u3044\u4eba",
+      "genre": "A-EURO",
+      "id": 911,
+      "level": 20,
+      "title": "\u82f1\u96c4 \u301c\u6c37\u306e\u5996\u7cbe\u306e\u304a\u8a71\u301c [INFELNO]"
+    },
+    {
+      "artist": "daiki / BGA:chromato graphy / obj:\u79d8\u5bc6",
+      "genre": "HAPPY HARDCORE",
+      "id": 912,
+      "level": 20,
+      "title": "Lewisia"
+    },
+    {
+      "artist": "dj-B",
+      "genre": "Progressive Rock",
+      "id": 913,
+      "level": 20,
+      "title": "MirroR -Miracle version-"
+    },
+    {
+      "artist": "Iriss-Frantzz obj support : Cymby",
+      "genre": "Connection",
+      "id": 914,
+      "level": 20,
+      "title": "Blacksphere [Black Hole]"
+    },
+    {
+      "artist": "paraoka / 29",
+      "genre": "Progressive",
+      "id": 915,
+      "level": 20,
+      "title": "L9DM [FUC]"
+    },
+    {
+      "artist": "\u306d\u3053\u307f\u307f\u9b54\u6cd5\u4f7f\u3044 for \u5fa1\u5ead\u3064\u307f\u304d / obj:Ds BGA:\u77f3\u738b\u30de\u30b5\u30c8",
+      "genre": "shuffle pop'n",
+      "id": 916,
+      "level": 20,
+      "title": "\u5f26\u6708\u306e\u732b [EX]"
+    },
+    {
+      "artist": "\u3042\u3042\u3042\u3042/\u3055\u3055\u3055\u3055",
+      "genre": "\u3042\u3042\u3042\u3042[SP SABOTHER]",
+      "id": 917,
+      "level": 20,
+      "title": "hypocrite"
+    },
+    {
+      "artist": "Team:SASAKURATION  /  Goten\u3000obj\uff1amitsuba",
+      "genre": "fgWood",
+      "id": 918,
+      "level": 20,
+      "title": "aballava (Clover?)"
+    },
+    {
+      "artist": "noctie* \u3042",
+      "genre": "HAPPY HARDCORE",
+      "id": 919,
+      "level": 20,
+      "title": "Rewinding Sound Wave -sugarless-"
+    },
+    {
+      "artist": "\u60a0\u7136 / obj:BAECON",
+      "genre": "HAPPY HARD CORE",
+      "id": 920,
+      "level": 20,
+      "title": "\u4e59\u5973\u30ce\u30b9\u30b9\u30e1\uff01 (EX)"
+    },
+    {
+      "artist": "Gun-SEKI feat.\u90a3\u73c2 / U",
+      "genre": "IDOL SONG",
+      "id": 921,
+      "level": 20,
+      "title": "\u604b\u306e2-4-11(BMS Edit) -\u30b1\u30c3\u30b3\u30f3\u30ab\u30c3\u30b3\u30ab\u30ea-"
+    },
+    {
+      "artist": "Yu^ta / obj:\u307f\u3063\u3068",
+      "genre": "cut up",
+      "id": 922,
+      "level": 20,
+      "title": "\u73fe\u5b9f\u3092\u30ab\u30c3\u30c8\u30a2\u30c3\u30d7\u3057\u3066\u307f\u305f [Realism]"
+    },
+    {
+      "artist": "DESKJUGGLER",
+      "genre": "la r/n g am/u ente",
+      "id": 923,
+      "level": 20,
+      "title": "CHRISTMAS EVE [Another+]"
+    },
+    {
+      "artist": "\u3057\u3089\u3044\u3057 obj.sennko",
+      "genre": "HARDCORE",
+      "id": 924,
+      "level": 20,
+      "title": "\u786c\u6838\u6a5f\u52d5 -Assault X-"
+    },
+    {
+      "artist": "Vector27 vs Blue-J obj.swa",
+      "genre": "Electro Fusion",
+      "id": 925,
+      "level": 20,
+      "title": "Complex path (bms edit -madness-)"
+    },
+    {
+      "artist": "ZUN/arr.\u307f\u3087\u3093 / iimode-do / \u304b\u3052\u304d\u3061 / ALICE*",
+      "genre": "Break Core",
+      "id": 926,
+      "level": 21,
+      "title": "Plastic Mind -\u72c2\u6c17\u306e\u4eba\u5f62\u5e2b-"
+    },
+    {
+      "artist": "\u307f\u3053\u3053 \uff06 \u8679\u91ce\u3072\u304b\u308a",
+      "genre": "Happy",
+      "id": 927,
+      "level": 21,
+      "title": "SunnyShinyRing -For Expert-"
+    },
+    {
+      "artist": "NEKI\u2190T",
+      "genre": "HAPPY HARDCORE",
+      "id": 928,
+      "level": 21,
+      "title": "GaRaKuTic Dream (garbage)"
+    },
+    {
+      "artist": "dj Extrose",
+      "genre": "SPEED TEK",
+      "id": 929,
+      "level": 21,
+      "title": "unquenchable"
+    },
+    {
+      "artist": "xi",
+      "genre": "ARTCORE",
+      "id": 930,
+      "level": 21,
+      "title": "Ascension to Heaven -maniaxi-"
+    },
+    {
+      "artist": "\u59c9\u30f6\u5d0e \u5be7\u3005 / obj:(i) BGA : photonskyto",
+      "genre": "FULL ON",
+      "id": 931,
+      "level": 21,
+      "title": "ZENITHALIZE [i]"
+    },
+    {
+      "artist": "\u30d5\u30ed\u30f3 / \u30e9\u30ba\u30d9\u30ea\u30eb / obj: black train",
+      "genre": "LOVELY HIGHSPEED",
+      "id": 932,
+      "level": 21,
+      "title": "Love & Justice [EXTREME]"
+    },
+    {
+      "artist": "Damjoy&\u307b\u304f\u3068\u3057\u3061\u305b\u3044 obj:mfmf",
+      "genre": "Prog Pop",
+      "id": 933,
+      "level": 21,
+      "title": "The Lady Is A Trump [ANOTHER+]"
+    },
+    {
+      "artist": "\u30eb\u30bc",
+      "genre": "\u30d1\u30f3\u30c9\u30e9\u30dc\u30c3\u30af\u30b9[\u9b3c]",
+      "id": 934,
+      "level": 21,
+      "title": "ZEUS"
+    },
+    {
+      "artist": "\u306d\u3053\u307f\u307f\u9b54\u6cd5\u4f7f\u3044 / 29",
+      "genre": "shuffle",
+      "id": 935,
+      "level": 21,
+      "title": "\u3042\u3081\u3075\u308a\u3053\u306d\u3053 [29Another]"
+    },
+    {
+      "artist": "Is-m / air BGA:coda",
+      "genre": "INFINITY",
+      "id": 936,
+      "level": 21,
+      "title": "MooN -SP NIGHTMARE-"
+    },
+    {
+      "artist": "ETIA. feat.Jenga/ \u5dee\u5206 \u8d64\u3044\u4eba deadblue238 / \u7be0\u4e43\u3061\u3088",
+      "genre": "J-CORE",
+      "id": 937,
+      "level": 21,
+      "title": "Say A Vengeance [INFERNO]"
+    },
+    {
+      "artist": "-45 / obj : cieu",
+      "genre": "trance",
+      "id": 938,
+      "level": 21,
+      "title": "44river [nox]"
+    },
+    {
+      "artist": "keyc",
+      "genre": "DRUM'N BASS",
+      "id": 939,
+      "level": 21,
+      "title": "Revenger [(^^)EXTRA]"
+    },
+    {
+      "artist": "Music:\u3057\u3089\u3044\u3057/ \u5dee\u5206\u3000\u8d64\u3044\u4eba",
+      "genre": "Crystal Trance",
+      "id": 940,
+      "level": 21,
+      "title": "Moon-gate [DELAYMASTER]"
+    },
+    {
+      "artist": "\u30ab\u30e9\u30d5\u30eb\u30fb\u30b5\u30a6\u30f3\u30ba\u30fb\u30dd\u30fc\u30c8/\u3055",
+      "genre": "click house",
+      "id": 941,
+      "level": 21,
+      "title": "\u30ab\u30e9\u30d5\u30eb\u30fb\u30b5\u30a6\u30f3\u30ba\u30fb\u30ab\u30c3\u30bf\u30fc (EX)"
+    },
+    {
+      "artist": "L-Mys/obj:BOKKI",
+      "genre": "DARKFEAR",
+      "id": 942,
+      "level": 21,
+      "title": "Lucifuge Rofocale (^\u03c9^)"
+    },
+    {
+      "artist": "\u78a7",
+      "genre": "TENTATIVE",
+      "id": 943,
+      "level": 21,
+      "title": "lest (FUNERAL)"
+    },
+    {
+      "artist": "Hope / obj:sarao3",
+      "genre": "HARD TECH",
+      "id": 944,
+      "level": 21,
+      "title": "\u7d76\u5bfe\u7684\u5171\u4f9d\u5b58 -Codependence-"
+    },
+    {
+      "artist": "\u30e1\u30a2\u30ea\u30fc/\u5dee\u5206 \u8d64\u3044\u4eba",
+      "genre": "Intelligence Arts",
+      "id": 945,
+      "level": 21,
+      "title": "Artificial Rose [INFERNO]"
+    },
+    {
+      "artist": "adamthix / obj:Monsta",
+      "genre": "TECHNO",
+      "id": 946,
+      "level": 21,
+      "title": "res extensa [Monsther]"
+    },
+    {
+      "artist": "M /obj:BAECON",
+      "genre": "4096",
+      "id": 947,
+      "level": 21,
+      "title": "Synthesized Fortress -\u4f1d\u8aac\u304b\u3089\u795e\u8a71\u3078-"
+    },
+    {
+      "artist": "LeaF/\u3055",
+      "genre": "HAPPY HARDCORE",
+      "id": 948,
+      "level": 21,
+      "title": "\u5931\u671bChoco (\u30fb\u03c9\u30fb)"
+    },
+    {
+      "artist": "Lipschitz",
+      "genre": "Continuous",
+      "id": 949,
+      "level": 21,
+      "title": "exists Uniquely [GOD]"
+    },
+    {
+      "artist": "TEKINA / obj:\u5922\u7460",
+      "genre": "CRYSTAL TECHNOLOGY",
+      "id": 950,
+      "level": 21,
+      "title": "CHMR -Automata-"
+    },
+    {
+      "artist": "Ark-Z  Illustration by \u6625\u96e8 / obj:BAECON",
+      "genre": "Hard Mystic",
+      "id": 951,
+      "level": 21,
+      "title": "Singing of Night birds [HEAVEN]"
+    },
+    {
+      "artist": "\u59bb\u30b3\u30ed\u30c3\u30b1 / obj:firi.",
+      "genre": "\ufffdi\ufffda",
+      "id": 952,
+      "level": 21,
+      "title": "\u30c8\u30b3\u30b321 [funny]"
+    },
+    {
+      "artist": "litmus*",
+      "genre": "Techno",
+      "id": 953,
+      "level": 21,
+      "title": "iterated [INFINITE]"
+    },
+    {
+      "artist": "\u03c9",
+      "genre": "PRELUDE",
+      "id": 954,
+      "level": 21,
+      "title": "Lasting Dream (KOOKY)"
+    },
+    {
+      "artist": "kenzoooo illust:\u307f\u3089\u3093 / \u5148\u751f:\u9b54\u60f3\u5fd7\u6d25\u9999",
+      "genre": "GABBASTEP WALTZ",
+      "id": 955,
+      "level": 21,
+      "title": "Skull & Witch [\u9ed2\u8272\u7834\u58ca\u5149\u7dda]"
+    },
+    {
+      "artist": "er / mikasa",
+      "genre": "TECHNO POP",
+      "id": 956,
+      "level": 21,
+      "title": "Baby Baby Frenzy"
+    },
+    {
+      "artist": "Yosk! obj:\u7dd2\u65b9\u667a\u7d75\u91cc vs \u79d8\u5bc6",
+      "genre": "S/2013 J 1",
+      "id": 957,
+      "level": 21,
+      "title": "Little Wizard -imaginary satellite-"
+    },
+    {
+      "artist": "er / Ds",
+      "genre": "HAPPY HARD RENAISSANCE",
+      "id": 958,
+      "level": 21,
+      "title": "\u308f\u304c\u307e\u307e\u30d7\u30ea\u30f3\u30bb\u30b9 [DX]"
+    },
+    {
+      "artist": "er obj:HCB",
+      "genre": "TECHNO",
+      "id": 959,
+      "level": 21,
+      "title": "new earth [terra nova]"
+    },
+    {
+      "artist": "q/stol ft. rebecca / obj:BAECON",
+      "genre": "J-ROCK",
+      "id": 960,
+      "level": 21,
+      "title": "\u84c4\u7a4d\u00d7\u30d5\u30e9\u30b9\u30c8\u30ec\u30fc\u30b7\u30e7\u30f3  [\u7e26\u9023\u00d7\u30aa\u30d6\u30b9\u30c8\u30e9\u30af\u30b7\u30e7\u30f3]"
+    },
+    {
+      "artist": "paraoka / BGA ers obj:vy",
+      "genre": "bigbeat",
+      "id": 961,
+      "level": 21,
+      "title": "witchcraft -Ultima-"
+    },
+    {
+      "artist": "ATEMAK / obj:Elehis",
+      "genre": "Techno",
+      "id": 962,
+      "level": 21,
+      "title": "\u6c38\u52ab\u306e\u6c99\u6f0f -Permanent+-"
+    },
+    {
+      "artist": "MILK / obj:A-zert",
+      "genre": "HARD TRANCE",
+      "id": 963,
+      "level": 22,
+      "title": "RAY"
+    },
+    {
+      "artist": "t+pazolite",
+      "genre": "Happy Hardcore -7 AHYA-",
+      "id": 964,
+      "level": 22,
+      "title": "Little \"Sister\" Bitch"
+    },
+    {
+      "artist": "6yen / G / \u3001",
+      "genre": "techno",
+      "id": 965,
+      "level": 22,
+      "title": "Cynic (THE another)"
+    },
+    {
+      "artist": "\u306d\u3053\u307f\u307f\u9b54\u6cd5\u4f7f\u3044 / 29",
+      "genre": "Synth Rock",
+      "id": 966,
+      "level": 22,
+      "title": "theme of Maia [29Another]"
+    },
+    {
+      "artist": "HOUJIROU / BGA: hardlove / obj: BANZAI",
+      "genre": "Drum 'n Bass",
+      "id": 967,
+      "level": 22,
+      "title": "myste`re\u3000 -LAST BOSS-"
+    },
+    {
+      "artist": "kozato /kody / air",
+      "genre": "Dramatical",
+      "id": 968,
+      "level": 22,
+      "title": "\u56db\u5341\u4e94\u5e74\u30ce\u96ea\u685c [EX]"
+    },
+    {
+      "artist": "MILK / air",
+      "genre": "TRANCE",
+      "id": 969,
+      "level": 22,
+      "title": "kyrka [MEISTER]"
+    },
+    {
+      "artist": "AKIRA YAMAOKA /obj:WyWy",
+      "genre": "HYPER TECNO",
+      "id": 970,
+      "level": 22,
+      "title": "175bpm"
+    },
+    {
+      "artist": "dai / yuyuko",
+      "genre": "House",
+      "id": 971,
+      "level": 22,
+      "title": "Under The Sunshine -LUNATIC-"
+    },
+    {
+      "artist": "\u3046\u3048\u3064\u6c0f /\u3055",
+      "genre": "Grand Finale",
+      "id": 972,
+      "level": 22,
+      "title": "\u5929\u7a7a\u306e\u57ce\u30f4\u30a7\u30ea\u30a8\u30eb [SABOTHER]"
+    },
+    {
+      "artist": "Shaman Cure-All / obj:BAECON",
+      "genre": "Suomisaundi",
+      "id": 973,
+      "level": 22,
+      "title": "Tuk Tuk Boshi -LAST BOSS-"
+    },
+    {
+      "artist": "L_Z",
+      "genre": "\u4e11\u4e09\u30c4\u30ce\u523b[\u6bba]",
+      "id": 974,
+      "level": 22,
+      "title": "\u7d05\u67d3\u5341\u4e09\u756a\u8857\u9053"
+    },
+    {
+      "artist": "AOiRO_Manbow with kagerow/ \u5dee\u5206 \u8d64\u3044\u4eba",
+      "genre": "\u30c9\u30ea\u30fc\u30e0\u30dd\u30c3\u30d7REMIX",
+      "id": 975,
+      "level": 22,
+      "title": "dreamin' -happycore version - [INFERNO]"
+    },
+    {
+      "artist": "ATEMAK/\u3055",
+      "genre": "H-techno",
+      "id": 976,
+      "level": 22,
+      "title": "\u30ed\u30c3\u30ab\u30fc -Ex-"
+    },
+    {
+      "artist": "w_tre / Mer /\u5dee\u5206\u3000\u8d64\u3044\u4eba",
+      "genre": "Piano Progressive Metal",
+      "id": 977,
+      "level": 22,
+      "title": "The Lamia 170 [INFELNO]"
+    },
+    {
+      "artist": "xelloscope \u3042",
+      "genre": "11",
+      "id": 978,
+      "level": 22,
+      "title": "Apollo -Mare Tranquillitatis-"
+    },
+    {
+      "artist": "Rocky / obj:\u5922\u7460",
+      "genre": "INSI break",
+      "id": 979,
+      "level": 22,
+      "title": "\u591a\u91cd\u6975\u5c55\u958b [yumether]"
+    },
+    {
+      "artist": "\u524a\u9664 / obj.siokaze",
+      "genre": "fantasy",
+      "id": 980,
+      "level": 22,
+      "title": "Altale [Mirage]"
+    },
+    {
+      "artist": "\u3057\u3089\u3044\u3057 \u3042",
+      "genre": "Happy hard core",
+      "id": 981,
+      "level": 22,
+      "title": "Happico Happico -mundanity-"
+    },
+    {
+      "artist": "\u30eb\u30bc / obj:\u5922\u7460",
+      "genre": "PSYTEC",
+      "id": 982,
+      "level": 22,
+      "title": "3.14 (TT mix) [yumether]"
+    },
+    {
+      "artist": "Airylic",
+      "genre": "Future Bass",
+      "id": 983,
+      "level": 22,
+      "title": "Tears of the Sunrise [No Future]"
+    },
+    {
+      "artist": "\u9b42\u9b44\u7cd6",
+      "genre": "Hausdorff",
+      "id": 984,
+      "level": 22,
+      "title": "Hay FEVER [G]"
+    },
+    {
+      "artist": "\u03b1-2",
+      "genre": "INFLUX",
+      "id": 985,
+      "level": 22,
+      "title": "At the edge of dreams (KEN)"
+    },
+    {
+      "artist": "wa. / \u767e\u820c\u8c37 obj: PING",
+      "genre": "GrimReaper",
+      "id": 986,
+      "level": 22,
+      "title": "Black Lotus [PING]"
+    },
+    {
+      "artist": "Getty vs. DJ DiA BGA:\u308f\u3063\u3075\u3091 vs. \u3067\u3053\u3061\u3093\u30cf\u30f3\u30de\u30fc",
+      "genre": "Pumpcore",
+      "id": 987,
+      "level": 22,
+      "title": "Grayed Out -Antifront- [stLOng]"
+    },
+    {
+      "artist": "TetraElemental obj:BAECON vs Fender",
+      "genre": "EMOTIONAL TRANCECORE",
+      "id": 988,
+      "level": 22,
+      "title": "Ultimate Weapon [\u03b2\u03c6]"
+    },
+    {
+      "artist": "\u306d\u3053\u307f\u307f\u9b54\u6cd5\u4f7f\u3044 / obj: black train",
+      "genre": "HappY PoPcorN(GOD7)",
+      "id": 989,
+      "level": 23,
+      "title": "\u2605LittlE HearTs\u2605 (GOD)"
+    },
+    {
+      "artist": "\u7be0\u87ba\u60a0\u90a3 feat. \u9bdb\u306e\u5c0f\u9aa8 / air",
+      "genre": "Euro Rave",
+      "id": 990,
+      "level": 23,
+      "title": "Imperishable Night 2006 for D+"
+    },
+    {
+      "artist": "incinerate",
+      "genre": "OVERKILL",
+      "id": 991,
+      "level": 23,
+      "title": "\u7149\u7344-Purgatorium- [ANOTHER]"
+    },
+    {
+      "artist": "xi / air",
+      "genre": "HAPPY HARDCORE",
+      "id": 992,
+      "level": 23,
+      "title": "FREEDOM DiVE [UNIVERSE]"
+    },
+    {
+      "artist": "\u30e1\u30b9\u30af\u30e9 (\u30a8\u30f4\u30a1\u305f\u3093\uff06\u30e1\u30b3\u305f\u3093)",
+      "genre": "\u30eb\u30cd\u30c3\u30b5\u30f3\u30b9\u30b3\u30a2",
+      "id": 993,
+      "level": 23,
+      "title": "\u30a2\u30ba\u30fc\u30eb \u30ea\u30df\u30c3\u30af\u30b9 <MANIAC>"
+    },
+    {
+      "artist": "keyc",
+      "genre": "GABBA",
+      "id": 994,
+      "level": 23,
+      "title": "Forceful Beat [ANOTHER]"
+    },
+    {
+      "artist": "SAMBA MASTER \u4f50\u85e4 -SATOH-",
+      "genre": "\u3086\u3063\u305f\u308a\u7cfb\u30b5\u30f3\u30d0",
+      "id": 995,
+      "level": 23,
+      "title": "\u30b5\u30f3\u30d0\u30e9\u30f3\u30c9 -LAST BOSS-"
+    },
+    {
+      "artist": "\u30c1\u30e3\u30c1\u30e3/ zun /\u307e\u3063\u3064\u3093",
+      "genre": "\u4e0a\u7d1a\u8005IR\uff08\u4e71\u6253\uff09",
+      "id": 996,
+      "level": 23,
+      "title": "\u4ea1\u304d\u7687\u5973\u306e\u70ba\u306e\u30bb\u30d7\u30c6\u30c3\u30c8 -IR-"
+    },
+    {
+      "artist": "daiji&sa10",
+      "genre": "SPEED DANCE",
+      "id": 997,
+      "level": 23,
+      "title": "orion ring -EXTRA-"
+    },
+    {
+      "artist": "((LMB)) / obj:A-zert",
+      "genre": "SuperNOVA BEAT",
+      "id": 998,
+      "level": 23,
+      "title": "%E3%83%96%E3%83%B3%E3%82%BF%E3%83%B3 \u301cFalling in \"B\" mix\u301c (EXPERT)"
+    },
+    {
+      "artist": "\u6fc0\u8f9b\u30de\u30cb\u30a2",
+      "genre": "Crazy Arrabbiata",
+      "id": 999,
+      "level": 23,
+      "title": "Auston (7hakkyooi)"
+    },
+    {
+      "artist": "Musical Masterpiece",
+      "genre": "MM SEQUENCER",
+      "id": 1000,
+      "level": 23,
+      "title": "M-A (KOOKY)"
+    },
+    {
+      "artist": "\u7531\u862d / ALICE*",
+      "genre": "\u6771\u65b9\u5996\u3005\u5922",
+      "id": 1001,
+      "level": 23,
+      "title": "\u4eba\u5f62\u88c1\u5224\u3000\u301c \u4eba\u306e\u5f62\u5f04\u3073\u3057\u5c11\u5973 -EXTRA-"
+    },
+    {
+      "artist": "\u9ce9 / obj:A-zert",
+      "genre": "DarkBreaks",
+      "id": 1002,
+      "level": 23,
+      "title": "Alastor [full density]"
+    },
+    {
+      "artist": "234 / air",
+      "genre": "HAPPY HARDCORE",
+      "id": 1003,
+      "level": 23,
+      "title": "Blue-White Crazybits [WC]"
+    },
+    {
+      "artist": "D.J.Nero / Ds",
+      "genre": "RENAISSANCE",
+      "id": 1004,
+      "level": 23,
+      "title": "Joker [EX]"
+    },
+    {
+      "artist": "Grand thaw/obj.kei",
+      "genre": "EPIC TRANCE",
+      "id": 1005,
+      "level": 23,
+      "title": "AutumnBreeze (kei-unmeansured)"
+    },
+    {
+      "artist": "zun bms:\u4e59UN",
+      "genre": "\u6771\u65b9\u5996\u3005\u5922",
+      "id": 1006,
+      "level": 23,
+      "title": "\u5e7d\u96c5\u306b\u54b2\u304b\u305b\u3001\u58a8\u67d3\u306e\u685c [NORMAL+]"
+    },
+    {
+      "artist": "paraoka / Kz",
+      "genre": "Progressive",
+      "id": 1007,
+      "level": 23,
+      "title": "L9 -\u843d\u3068\u3057\u7a74 Revolutions-"
+    },
+    {
+      "artist": "LeaF / obj:\u79d8\u5bc6 Movie:To7",
+      "genre": "EINSAMKEIT",
+      "id": 1008,
+      "level": 23,
+      "title": "Doppelganger [Hi]"
+    },
+    {
+      "artist": "\u78a7",
+      "genre": "REINTERPRETATION",
+      "id": 1009,
+      "level": 23,
+      "title": "The lost (FUNERAL)"
+    },
+    {
+      "artist": "kireji",
+      "genre": "\u548c\u6d0b\u6298\u8877\u76e5\u56de",
+      "id": 1010,
+      "level": 23,
+      "title": "YATA (\u8d85\u5730\u7344\u7d1a)"
+    },
+    {
+      "artist": "xi iimo / obj:BAECON",
+      "genre": "LIFE STREAM",
+      "id": 1011,
+      "level": 23,
+      "title": "Aragami [ULTIMATE BEAM]"
+    },
+    {
+      "artist": "er / obj:BAECON",
+      "genre": "HI SPEED-TRANCE POP",
+      "id": 1012,
+      "level": 23,
+      "title": "\u30cf\u30a4\u30d1\u30fc\u30df\u30e9\u30af\u30eb\u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0\u30b9\u30bf\u30fc [Perseus]"
+    },
+    {
+      "artist": "ZUN remixed by LeaF Movie:Optie / \u5dee\u5206 \u8d64\u3044\u4eba",
+      "genre": "RATIONAL PUNISHMENT",
+      "id": 1013,
+      "level": 23,
+      "title": "Wizdomiot [INFERNO]"
+    },
+    {
+      "artist": "-45 / selene.",
+      "genre": "reconstruction",
+      "id": 1014,
+      "level": 23,
+      "title": "Total Eclipse of the Sun -Fatal MirroR-"
+    },
+    {
+      "artist": "Lime / inukoro OBJ:\u30e9\u30f3\u30c0\u30de\u30a4\u30b6",
+      "genre": "Dramatical",
+      "id": 1015,
+      "level": 23,
+      "title": "Chronomia [pass]"
+    },
+    {
+      "artist": "ROKINA/obj:\u4ed9\u4eba\u638c\u306e\u4eba",
+      "genre": "ASTRALCORE",
+      "id": 1016,
+      "level": 23,
+      "title": "Schwerkraft [\u3059\u3054\u305d\u3046\u306a\u8b5c\u9762]"
+    },
+    {
+      "artist": "Omnipotenx",
+      "genre": "SYMPHONIC SCHRANZ",
+      "id": 1017,
+      "level": 24,
+      "title": "PEACE BREAKER [BREAKER]"
+    },
+    {
+      "artist": "LV.4/http://d.hatena.ne.jp/xki/",
+      "genre": "HARD NRG",
+      "id": 1018,
+      "level": 24,
+      "title": "Angel dust -Abyss-"
+    },
+    {
+      "artist": "Kinato",
+      "genre": "Techno Trance",
+      "id": 1019,
+      "level": 24,
+      "title": "P.S : Plasma Strike - LAST BOSS -"
+    },
+    {
+      "artist": "\u30d5\u30ed\u30f3 / \u30e9\u30ba\u30d9\u30ea\u30eb / obj: black train",
+      "genre": "LOVELY HIGHSPEED",
+      "id": 1020,
+      "level": 24,
+      "title": "Love & Justice [GOD]"
+    },
+    {
+      "artist": "keyc",
+      "genre": "Nu Style Gabba",
+      "id": 1021,
+      "level": 24,
+      "title": "G.N. [A]"
+    },
+    {
+      "artist": "455-38B / obj : k_f",
+      "genre": "P s y (\u4e00\u63e1\u308a\u306e\u795e\u3068\u661f\u306e\u6570\u307b\u3069\u306e\u30de\u30be\u30d7\u30ec\u30a4\u30e4\u30fc\u306e\u305f\u3081\u306e)",
+      "id": 1022,
+      "level": 24,
+      "title": "G e n g a o z o - f o o n"
+    },
+    {
+      "artist": "ABE3",
+      "genre": "MELODIC SPEED CORE",
+      "id": 1023,
+      "level": 24,
+      "title": "ephemera (KOOKY)"
+    },
+    {
+      "artist": "\u30c0\u30fc\u30af\u30b5\u30f3\u30d0\u30de\u30b9\u30bf\u30fc\u4f50\u85e4 -SATOH-",
+      "genre": "\u3086\u3063\u305f\u308a\u7cfbPsychedelic Trance",
+      "id": 1024,
+      "level": 24,
+      "title": "\u30c0\u30fc\u30af\u30b5\u30f3\u30d0\u30e9\u30f3\u30c9 -LAST BOSS-"
+    },
+    {
+      "artist": "HOLY SAMBA MASTER \u4f50\u85e4 -SATOH-",
+      "genre": "\u3086\u3063\u305f\u308a\u7cfb\u30a2\u30f3\u30bb\u30e0\u30c8\u30e9\u30f3\u30b9",
+      "id": 1025,
+      "level": 24,
+      "title": "\u30db\u30fc\u30ea\u30fc\u30b5\u30f3\u30d0\u30e9\u30f3\u30c9 -LAST BOSS-"
+    },
+    {
+      "artist": "\u75db\u7537\u6b21\u90ce / obj:Monsta",
+      "genre": "\u82f1\u570b\u786c\u6838",
+      "id": 1026,
+      "level": 24,
+      "title": "\u81ea\u5f37\u865f -Monsther-"
+    },
+    {
+      "artist": "ROKINA/obj:\u4ed9\u4eba\u638c\u306e\u4eba BGA:REI-K",
+      "genre": "EXCELSIOR",
+      "id": 1027,
+      "level": 24,
+      "title": "\u30ad\u30df\u3068\u30dc\u30af\u3078\u306e\u846c\u9001\u6b4c [Maybe kill]"
+    },
+    {
+      "artist": "xi / air",
+      "genre": "HAPPY HARDCORE",
+      "id": 1028,
+      "level": 25,
+      "title": "FREEDOM DiVE [FOUR DIMENSIONS]"
+    },
+    {
+      "artist": "Luxion",
+      "genre": "OVERKILL",
+      "id": 1029,
+      "level": 25,
+      "title": "High-Priestess [ANOTHER]"
+    },
+    {
+      "artist": "\ufffdm\u30bc",
+      "genre": "Star Crusher[SP ANOTHER]",
+      "id": 1030,
+      "level": 99,
+      "title": "Milly Barll"
+    },
+    {
+      "artist": "NAGI  obj;\u6c5f\u6fa4",
+      "genre": "euro beat",
+      "id": 1031,
+      "level": 99,
+      "title": "la noche (end of mix)"
+    },
+    {
+      "artist": "sasakure.UK",
+      "genre": "LAMENT(7-Scratch)",
+      "id": 1032,
+      "level": 99,
+      "title": "Merry Christmas Mr.DO"
+    },
+    {
+      "artist": "keyc",
+      "genre": "HIPHOP",
+      "id": 1033,
+      "level": 99,
+      "title": "Into the sunset [ANOTHER]"
+    },
+    {
+      "artist": "Is-m & muramasa",
+      "genre": "TECHNO",
+      "id": 1034,
+      "level": 99,
+      "title": "gravitronic\ufffdT -ANOTHER-"
+    }
+  ]
+}
