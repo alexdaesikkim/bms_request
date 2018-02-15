@@ -1,6 +1,9 @@
 var app = require('http').createServer();
 var io = require('socket.io')(app);
-app.listen(80);
+const port = process.env.PORT || 8001;
+app.listen(port);
+
+console.log("socket.io connection started on port " + port)
 
 var message = "HELLO"
 var queue = []
@@ -11,13 +14,8 @@ io.on('connection', function(socket){ //this is when new user connects
     "success": true,
     "message": ""
   }
+  console.log("Connection made")
   socket.emit('request_update', initial_object);
-  console.log("User connected")
-
-  socket.on('user_input',function(name){
-    console.log('received')
-    io.sockets.emit('name_return','Hello, your name is ' + name);
-  });
 
   socket.on('clear', function(){
     queue = [];
@@ -26,6 +24,20 @@ io.on('connection', function(socket){ //this is when new user connects
       "success": true,
       "message": "removed everything"
     }
+    io.sockets.emit('request_update', obj);
+  })
+
+  socket.on('request_remove', function(id){
+    var index = queue.indexOf(id);
+    if(index > -1){
+      queue.splice(index, 1)
+    }
+    var obj = {
+      "queue": queue,
+      "success": true,
+      "message": ""
+    }
+    console.log(queue)
     io.sockets.emit('request_update', obj);
   })
 
@@ -38,6 +50,10 @@ io.on('connection', function(socket){ //this is when new user connects
     }
     console.log(queue)
     io.sockets.emit('request_update', obj);
+  })
+
+  socket.on('disconnect', function(){
+    console.log("User disconnected");
   })
 
 });

@@ -2,9 +2,9 @@ import React from 'react';
 import {render} from 'react-dom';
 import bms_list from './insane_bms.json';
 import socketIOClient from 'socket.io-client';
-const socket = socketIOClient('http://localhost:80')
+const socket = socketIOClient('http://localhost:8001')
 
-class App extends React.Component {
+class UserPage extends React.Component {
   constructor(props){
     super(props);
     var songs = bms_list["songs"].map(function(obj){
@@ -28,11 +28,20 @@ class App extends React.Component {
     });
     socket.on("request_update", data => {
       var queue = data.queue;
-      console.log(queue);
       var queue_list = data.queue.map(id => {
         return this.state.songs[id];
       })
+      var updated_song_list = this.state.songs.map(function(obj){
+        var object = obj;
+        object.queue = false;
+        return object;
+      })
+      console.log(queue);
+      queue.map(function(id){
+        updated_song_list[id].queue = true;
+      })
       this.setState({
+        songs: updated_song_list,
         requests: queue_list
       })
     })
@@ -51,7 +60,7 @@ class App extends React.Component {
         </div>
       )
     })
-    var song_requests = this.state.requests.map(function(song){
+    var current_song_requests = this.state.requests.map(function(song){
       return(
         <div>
           {song.title}
@@ -62,7 +71,7 @@ class App extends React.Component {
       <div>
         <button onClick={this.removeAllSongs}>Test(Remove)</button>
         <br/>
-        {song_requests}
+        {current_song_requests}
         <br/>
         {song_rendered}
       </div>
@@ -90,10 +99,10 @@ class SongList extends React.Component{
           <br/>
           {"★" + this.props.song.level}
           <br/>
-          <button onClick={this.sendSongRequest}>Request</button>
+          {this.props.song.queue ? "Requested" : <button onClick={this.sendSongRequest}>Request</button>}
       </div>
     )
   }
 }
 
-render(<App/>, document.getElementById('app'));
+export default UserPage
