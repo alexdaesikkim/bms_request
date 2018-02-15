@@ -1,8 +1,8 @@
 import React from 'react';
 import {render} from 'react-dom';
 import bms_list from './insane_bms.json';
-
-console.log(bms_list["songs"].length);
+import socketIOClient from 'socket.io-client';
+const socket = socketIOClient('http://localhost:80')
 
 class App extends React.Component {
   constructor(props){
@@ -13,8 +13,33 @@ class App extends React.Component {
       return object;
     })
     this.state = {
-      songs: songs
+      songs: songs,
+      server_address: "http://localhost:80",
+      message: false,
+      requests: []
     }
+    this.removeAllSongs = this.removeAllSongs.bind(this);
+  }
+
+  componentDidMount(){
+    socket.on("name_return", data => {
+      console.log("received")
+      this.setState({message: data})
+    });
+    socket.on("request_update", data => {
+      var queue = data.queue;
+      console.log(queue);
+      var queue_list = data.queue.map(id => {
+        return this.state.songs[id];
+      })
+      this.setState({
+        requests: queue_list
+      })
+    })
+  }
+
+  removeAllSongs(){
+    socket.emit("clear");
   }
 
   render () {
@@ -26,8 +51,19 @@ class App extends React.Component {
         </div>
       )
     })
+    var song_requests = this.state.requests.map(function(song){
+      return(
+        <div>
+          {song.title}
+        </div>
+      )
+    })
     return(
       <div>
+        <button onClick={this.removeAllSongs}>Test(Remove)</button>
+        <br/>
+        {song_requests}
+        <br/>
         {song_rendered}
       </div>
     )
@@ -35,15 +71,26 @@ class App extends React.Component {
 }
 
 class SongList extends React.Component{
+  constructor(props){
+    super(props);
+    this.sendSongRequest = this.sendSongRequest.bind(this);
+  }
+
+  sendSongRequest(){
+    console.log("HI")
+    socket.emit('song_request', this.props.song.id)
+  }
+
   render(){
     return(
       <div>
-          {this.props.song["title"]}
+          {this.props.song.title}
           <br/>
-          {this.props.song["artist"]}
+          {this.props.song.artist}
           <br/>
-          {"★" + this.props.song["level"]}
+          {"★" + this.props.song.level}
           <br/>
+          <button onClick={this.sendSongRequest}>Request</button>
       </div>
     )
   }

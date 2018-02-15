@@ -1,7 +1,7 @@
 {
-  "name": "bms_request_front-end",
+  "name": "bms_request",
   "version": "1.0.0",
-  "description": "React Frontend for BMS Request app",
+  "description": "BMS Request app",
   "main": "index.js",
   "scripts": {
     "test": "test",
@@ -20,6 +20,7 @@
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-router": "^4.2.0",
+    "socket.io": "^2.0.4",
     "webpack": "^3.11.0"
   }
 }
