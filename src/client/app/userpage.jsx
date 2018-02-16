@@ -4,6 +4,8 @@ import bms_list from './insane_bms.json';
 import socketIOClient from 'socket.io-client';
 const socket = socketIOClient('http://localhost:8001')
 
+console.log("hi");
+
 class UserPage extends React.Component {
   constructor(props){
     super(props);

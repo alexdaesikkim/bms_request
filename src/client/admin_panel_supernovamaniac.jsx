@@ -2,6 +2,6 @@ import React from 'react';
 import {render} from 'react-dom';
 import {HashRouter as Router, Route, Switch} from 'react-router-dom';
 
-import UserPage from './app/userpage.jsx';
+import AdminPanel from './app/adminpanel.jsx';
 
-render(<UserPage/>, document.getElementById('app'))
+render(<AdminPanel/>, document.getElementById('app'))

@@ -5,10 +5,15 @@ var BUILD_DIR = path.resolve(__dirname, 'src/client/public');
 var APP_DIR = path.resolve(__dirname, 'src/client');
 
 var config = {
-  entry: APP_DIR + '/index.jsx',
+  entry: {
+    userpage: APP_DIR + '/index.jsx',
+    streampage: APP_DIR + '/stream_list.jsx',
+    adminpanel: APP_DIR + '/admin_panel_supernovamaniac.jsx'
+  },
   output: {
     path: BUILD_DIR,
-    filename: 'bundle.js'
+    filename: '[name].bundle.js',
+    publicPath: BUILD_DIR
   },
   module : {
     loaders : [
