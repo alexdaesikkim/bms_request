@@ -45,12 +45,15 @@ class StreamPage extends React.Component {
       if(x === 0){
         song_requests += this.state.requests[0].title + " (★" + this.state.requests[0].level + ")";
       }
-      else song_requests += " | " + this.state.requests[x].title + " (★" + this.state.requests[x].level + ")";
+      else song_requests += ", " + this.state.requests[x].title + " (★" + this.state.requests[x].level + ")";
     }
     if(flag) song_requests += "..."
     return(
-      <div>
-        {song_requests}
+      <div className="queue_view">
+        <h5>Current Queue ({this.state.requests.length} song(s)):</h5>
+        <div>
+          {song_requests}
+        </div>
         <br/>
       </div>
     )

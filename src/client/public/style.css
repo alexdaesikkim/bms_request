@@ -1,0 +1,7 @@
+.table tbody tr.enabled{
+  background-color: #efffff;
+}
+
+.table tbody tr.disabled{
+  background-color: #666666;
+}

@@ -56,26 +56,34 @@ class UserPage extends React.Component {
   render () {
     var song_rendered = this.state.songs.map(function(song){
       return(
-        <div key={"div" + song["id"]}>
-          <SongList song={song} key={song["id"]} />
-          <br/>
-        </div>
+        <SongList song={song} key={song["id"]} />
       )
     })
     var current_song_requests = this.state.requests.map(function(song){
       return(
-        <div>
-          {song.title}
-        </div>
+        <span>
+          {song.title + " (★" + song.level + ")"}&ensp;&ensp;
+        </span>
       )
     })
     return(
       <div>
-        <button onClick={this.removeAllSongs}>Test(Remove)</button>
-        <br/>
+        <h5>Current Requests:</h5>
         {current_song_requests}
         <br/>
-        {song_rendered}
+        <table className="table">
+          <thead>
+            <tr>
+              <th scope="col">Song Name</th>
+              <th scope="col">Artist</th>
+              <th scope="col">Level</th>
+              <th scope="col"></th>
+            </tr>
+          </thead>
+          <tbody>
+            {song_rendered}
+          </tbody>
+        </table>
       </div>
     )
   }
@@ -94,15 +102,12 @@ class SongList extends React.Component{
 
   render(){
     return(
-      <div>
-          {this.props.song.title}
-          <br/>
-          {this.props.song.artist}
-          <br/>
-          {"★" + this.props.song.level}
-          <br/>
-          {this.props.song.queue ? "Requested" : <button onClick={this.sendSongRequest}>Request</button>}
-      </div>
+      <tr className={this.props.song.queue ? "disabled" : "enabled"}>
+        <td>{this.props.song.title}</td>
+        <td>{this.props.song.artist}</td>
+        <td>{"★" + this.props.song.level}</td>
+        <td>{this.props.song.queue ? "In Queue" : <button onClick={this.sendSongRequest}>Request</button>}</td>
+      </tr>
     )
   }
 }

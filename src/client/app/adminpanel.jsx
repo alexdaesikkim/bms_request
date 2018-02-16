@@ -47,9 +47,9 @@ class AdminPanel extends React.Component {
     })
     return(
       <div>
-        <button onClick={this.removeAllSongs}>Remove All</button>
-        <br/>
         {song_requests}
+        <br/>
+        <button className="btn btn-danger" onClick={this.removeAllSongs}>Remove All</button>
       </div>
     )
   }
@@ -67,11 +67,16 @@ class AdminSongList extends React.Component{
 
   render(){
     return(
-      <div>
-        {this.props.song.title}
-        {this.props.song.artist}
-        {"★"+this.props.song.level}
-        <button onClick={this.removeSongFromList}>Remove from List</button>
+      <div className="card">
+        <div className="card-body">
+          {this.props.song.title}
+          <br/>
+          {this.props.song.artist}
+          <br/>
+          {"★"+this.props.song.level}
+          <br/>
+          <button className="btn btn-secondary" onClick={this.removeSongFromList}>Remove from List</button>
+        </div>
       </div>
     )
   }
