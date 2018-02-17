@@ -1,6 +1,6 @@
 var app = require('http').createServer();
 var io = require('socket.io')(app);
-const port = process.env.PORT || 8001;
+const port = process.env.PORT || 80;
 app.listen(port);
 
 console.log("socket.io connection started on port " + port)
