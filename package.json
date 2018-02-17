@@ -4,9 +4,10 @@
   "description": "BMS Request app",
   "main": "index.js",
   "scripts": {
+    "start": "node app.js && node server.js",
+    "heroku-postbuild": "./node_modules/.bin/webpack -p",
     "test": "test",
-    "dev": "./node_modules/.bin/webpack -d --watch",
-    "build": "webpack -p"
+    "dev": "./node_modules/.bin/webpack -d --watch"
   },
   "author": "Alex D. Kim",
   "license": "ISC",
