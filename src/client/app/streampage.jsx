@@ -2,7 +2,7 @@ import React from 'react';
 import {render} from 'react-dom';
 import bms_list from './insane_bms.json';
 import socketIOClient from 'socket.io-client';
-const socket = socketIOClient('http://localhost:80')
+const socket = socketIOClient('http://localhost')
 
 class StreamPage extends React.Component {
   constructor(props){
