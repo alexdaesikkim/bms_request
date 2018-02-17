@@ -2,7 +2,9 @@ import React from 'react';
 import {render} from 'react-dom';
 import bms_list from './insane_bms.json';
 import socketIOClient from 'socket.io-client';
-const socket = socketIOClient('http://localhost')
+var link = (!process.env.NODE_ENV || process.env.NODE_ENV === 'development') ? 'http://localhost' : 'https://snm-stream-request.herokuapp.com/'
+console.log(link);
+const socket = socketIOClient(link)
 
 class StreamPage extends React.Component {
   constructor(props){
