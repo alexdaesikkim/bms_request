@@ -1,8 +1,12 @@
 .queue_view{
   font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", "sans serif";
-	font-size: 28px;
+	font-size: 48px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
 	line-height: 15.4px;
+}
+
+h5{
+  font-size: 60px;
 }
