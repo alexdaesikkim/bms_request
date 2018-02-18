@@ -1,7 +1,20 @@
+table {
+  table-layout: fixed;
+}
+
 .table tbody tr.enabled{
   background-color: #efffff;
 }
 
 .table tbody tr.disabled{
   background-color: #666666;
+}
+
+td {
+  word-wrap: break-word;
+}
+
+td.no_match {
+    text-align: center;
+    vertical-align: middle;
 }
