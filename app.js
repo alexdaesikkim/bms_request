@@ -3,55 +3,70 @@ const path = require('path');
 const app = express();
 var server = require('http').createServer(app);
 var io = require('socket.io')(server);
+
+const redis_url = process.env.REDIS_URL || '';
+
+var client = require('redis').createClient(redis_url);
+
 const port = process.env.PORT || 8080;
 server.listen(port);
 
 console.log("socket.io connection started on port " + port)
 
-var queue = []
-
 io.on('connection', function(socket){ //this is when new user connects
-  var initial_object = {
-    "queue": queue,
-    "success": true,
-    "message": ""
-  }
-  console.log("Connection made")
-  socket.emit('request_update', initial_object);
+  var init_queue = []
+  client.lrange('queue', 0, -1, function(err, reply){
+    init_queue = reply;
+    console.log(reply);
+    var initial_object = {
+      "queue": init_queue,
+      "success": true,
+      "message": ""
+    }
+    console.log("Connection made")
+    socket.emit('request_update', initial_object);
+  })
 
   socket.on('clear', function(){
-    queue = [];
-    var obj = {
-      "queue": queue,
-      "success": true,
-      "message": "removed everything"
-    }
-    io.sockets.emit('request_update', obj);
+    client.del('queue', function(err, reply){
+      var obj = {
+        "queue": [],
+        "success": true,
+        "message": "removed everything"
+      }
+      io.sockets.emit('request_update', obj);
+    })
   })
 
   socket.on('request_remove', function(id){
-    var index = queue.indexOf(id);
-    if(index > -1){
-      queue.splice(index, 1)
-    }
-    var obj = {
-      "queue": queue,
-      "success": true,
-      "message": ""
-    }
-    console.log(queue)
-    io.sockets.emit('request_update', obj);
+    var str_id = id.toString();
+    client.lrem('queue', 1, str_id, function(err, reply){
+      client.lrange('queue', 0, -1, function(err, reply){
+        console.log(reply);
+        console.log("updating");
+        var obj = {
+          "queue": reply,
+          "success": true,
+          "message": ""
+        }
+        console.log(reply)
+        io.sockets.emit('request_update', obj);
+      })
+    })
   })
 
   socket.on('song_request', function(id){
-    queue.push(id)
-    var obj = {
-      "queue": queue,
-      "success": true,
-      "message": ""
-    }
-    console.log(queue)
-    io.sockets.emit('request_update', obj);
+    client.rpush('queue', id, function(err, reply){
+      client.lrange('queue', 0, -1, function(err, reply){
+        var obj = {
+          "queue": reply,
+          "success": true,
+          "message": ""
+        }
+        console.log(reply);
+        io.sockets.emit('request_update', obj);
+      })
+    })
   })
 
   socket.on('disconnect', function(){
