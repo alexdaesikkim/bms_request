@@ -6,6 +6,8 @@ var io = require('socket.io')(server);
 
 const redis_url = process.env.REDIS_URL || '';
 
+console.log(redis_url)
+
 var client = require('redis').createClient(redis_url);
 
 const port = process.env.PORT || 8080;
