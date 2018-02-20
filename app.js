@@ -4,7 +4,7 @@ const app = express();
 var server = require('http').createServer(app);
 var io = require('socket.io')(server);
 
-const redis_url = process.env.REDIS_URL || '';
+const redis_url = process.env.REDIS_URL;
 
 console.log(redis_url)
 console.log("trying to connect?")
