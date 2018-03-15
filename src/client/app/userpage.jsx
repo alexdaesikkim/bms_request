@@ -1,23 +1,31 @@
 import React from 'react';
 import {render} from 'react-dom';
-import bms_list from './insane_bms.json';
+import bms_list from './insane_bms_new.json';
 import socketIOClient from 'socket.io-client';
 const socket = socketIOClient();
 
 class UserPage extends React.Component {
   constructor(props){
     super(props);
-    var songs = bms_list["songs"].map(function(obj){
-      var object = obj;
-      object["queue"] = false;
-      return object;
-    })
+    var song_lists = bms_list["songs"];
+    var levels = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "99"];
+    var nolvl_songs = [];
+    for(var x = 0; x < levels.length; x++){
+      var level = levels[x];
+      var level_songs = song_lists[level];
+      level_songs.map(function(song){
+        var object = song;
+        nolvl_songs.push(object);
+      })
+    }
     this.state = {
-      songs: songs,
+      nolvl_songs: nolvl_songs,
+      songs: song_lists,
       search_term: '',
       level_field: '',
-      filtered_songs: songs,
+      filtered_songs: song_lists,
       message: false,
+      levels: levels,
       requests: []
     }
     this.removeAllSongs = this.removeAllSongs.bind(this);
@@ -58,9 +66,9 @@ class UserPage extends React.Component {
     socket.on("request_update", data => {
       var queue = data.queue;
       var queue_list = data.queue.map(id => {
-        return this.state.songs[id];
+        return this.state.nolvl_songs[id];
       })
-      var updated_song_list = this.state.songs.map(function(obj){
+      /*var updated_song_list = this.state.nolvl_songs.map(function(obj){
         var object = obj;
         object.queue = false;
         return object;
@@ -68,9 +76,9 @@ class UserPage extends React.Component {
       console.log(queue);
       queue.map(function(id){
         updated_song_list[id].queue = true;
-      })
+      })*/
       this.setState({
-        songs: updated_song_list,
+        //songs: updated_song_list,
         requests: queue_list
       })
     })
@@ -82,11 +90,28 @@ class UserPage extends React.Component {
 
   render () {
     var song_list = (this.state.search_term === '' && this.state.level_field === '' ? this.state.songs : this.state.filtered_songs);
-    var song_rendered = song_list.map(function(song){
-      return(
-        <SongList song={song} key={song["id"]} />
-      )
-    })
+    var song_rendered = this.state.levels.map(function(level){
+      var songs = song_list[level]
+      if(songs.length > 0){
+        var rendered_songs = songs.map(function(song){
+          return(
+            <SongList song={song} key={"bms_"+song["id"]} />
+          )
+        })
+        return(
+          <tbody>
+            <tr className="d-flex">
+              <th scope="col" className="col-12">{"★" + level}</th>
+            </tr>
+            {rendered_songs}
+          </tbody>
+        )
+      }
+      else {
+        console.log(this.state.songs);
+        console.log("WTF?????????")
+      }
+    });
     var current_song_requests = this.state.requests.map(function(song){
       var level = (song.level === 99 ? "???" : song.level)
       return(
@@ -118,15 +143,16 @@ class UserPage extends React.Component {
               <th scope="col" className="col-1"></th>
             </tr>
           </thead>
-          <tbody>
-            {song_list.length > 0 ? song_rendered : (
+          {song_rendered}
+          /*{song_list.length > 0 ? song_rendered : (
+            <tbody>
               <tr>
-                <td className="no_match" colspan="4">
+                <td className="no_match" colSpan="4">
                   No match. Try different search terms.
                 </td>
               </tr>
-            )}
-          </tbody>
+            </tbody>
+          )}*/
         </table>
       </div>
     )
@@ -140,7 +166,6 @@ class SongList extends React.Component{
   }
 
   sendSongRequest(){
-    console.log("HI")
     socket.emit('song_request', this.props.song.id)
   }
 

@@ -12,10 +12,10 @@ def get_song(song_id, title, artist, genre, level):
         "id": song_id,
         "title": title,
         "artist": artist,
-        "genre": genre,
-        "level": level
+        "level": level,
+        "genre": genre
     }
-    songs.append(data)
+    songs[level].append(data)
 
 
 def get_url(level):
@@ -25,6 +25,34 @@ def get_url(level):
 
 levels = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,99]
 song_id = 0
+songs = {
+    1: [],
+    2: [],
+    3: [],
+    4: [],
+    5: [],
+    6: [],
+    7: [],
+    8: [],
+    9: [],
+    10: [],
+    11: [],
+    12: [],
+    13: [],
+    14: [],
+    15: [],
+    16: [],
+    17: [],
+    18: [],
+    19: [],
+    20: [],
+    21: [],
+    22: [],
+    23: [],
+    24: [],
+    25: [],
+    99: []
+}
 
 for level in levels:
     url = get_url(level)
@@ -46,6 +74,6 @@ final_data = {
     "songs": songs
 }
 
-with open('./insane_bms.json', 'w') as file:
+with open('./insane_bms_new.json', 'w') as file:
     json.dump(final_data, file, indent=2, sort_keys=True)
 print ("Finished")

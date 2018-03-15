@@ -1,17 +1,23 @@
 import React from 'react';
 import {render} from 'react-dom';
-import bms_list from './insane_bms.json';
+import bms_list from './insane_bms_new.json';
 import socketIOClient from 'socket.io-client';
 const socket = socketIOClient();
 
 class StreamPage extends React.Component {
   constructor(props){
     super(props);
-    var songs = bms_list["songs"].map(function(obj){
-      var object = obj;
-      object["queue"] = false;
-      return object;
-    })
+    var song_lists = bms_list["songs"];
+    var levels = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "99"];
+    var songs = [];
+    for(var x = 0; x < levels.length; x++){
+      var level = levels[x];
+      var level_songs = song_lists[level];
+      level_songs.map(function(song){
+        var object = song;
+        songs.push(object);
+      })
+    }
     this.state = {
       songs: songs,
       server_address: "http://localhost:80",
